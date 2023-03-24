@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace MyMvcApp.Core.Entities
+﻿namespace MyMvcApp.Core.Entities
 {
     public abstract class BaseEntity
     {
@@ -12,7 +6,7 @@ namespace MyMvcApp.Core.Entities
 
         public DateTime CreatedDate { get; set; }
 
-        public DateTime UpdatedDate { get; set; }
+        public DateTime? UpdatedDate { get; set; }
 
 
     }

@@ -3,17 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMvcApp.Core", "MyMvcApp.Core\MyMvcApp.Core.csproj", "{BA6FE61F-CD9F-4C07-A995-B7D68C3F8DD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMvcApp.Core", "MyMvcApp.Core\MyMvcApp.Core.csproj", "{BA6FE61F-CD9F-4C07-A995-B7D68C3F8DD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMvcApp.Repository", "MyMvcApp.Repository\MyMvcApp.Repository.csproj", "{FDE0C8B8-78C7-4FB2-B1F8-7544111925E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMvcApp.Repository", "MyMvcApp.Repository\MyMvcApp.Repository.csproj", "{FDE0C8B8-78C7-4FB2-B1F8-7544111925E7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMvcApp.Service", "MyMvcApp.Service\MyMvcApp.Service.csproj", "{D46D4311-6CE6-49EC-B8DE-6BC7BEA83E12}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMvcApp.Service", "MyMvcApp.Service\MyMvcApp.Service.csproj", "{D46D4311-6CE6-49EC-B8DE-6BC7BEA83E12}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMvcApp.API", "MyMvcApp.API\MyMvcApp.API.csproj", "{D4DC4D29-B93A-483A-A3CF-C4F960228734}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMvcApp.Web", "MyMvcApp.Web\MyMvcApp.Web.csproj", "{748C6987-350A-42C8-A20D-2F277E8A7173}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyMvcApp.Caching", "MyMvcApp.Caching\MyMvcApp.Caching.csproj", "{FED94B36-7AA9-415D-96C3-61C550A77F23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyMvcApp.Web", "MyMvcApp.Web\MyMvcApp.Web.csproj", "{748C6987-350A-42C8-A20D-2F277E8A7173}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,18 +29,10 @@ Global
 		{D46D4311-6CE6-49EC-B8DE-6BC7BEA83E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D46D4311-6CE6-49EC-B8DE-6BC7BEA83E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D46D4311-6CE6-49EC-B8DE-6BC7BEA83E12}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D4DC4D29-B93A-483A-A3CF-C4F960228734}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D4DC4D29-B93A-483A-A3CF-C4F960228734}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D4DC4D29-B93A-483A-A3CF-C4F960228734}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D4DC4D29-B93A-483A-A3CF-C4F960228734}.Release|Any CPU.Build.0 = Release|Any CPU
 		{748C6987-350A-42C8-A20D-2F277E8A7173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{748C6987-350A-42C8-A20D-2F277E8A7173}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{748C6987-350A-42C8-A20D-2F277E8A7173}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{748C6987-350A-42C8-A20D-2F277E8A7173}.Release|Any CPU.Build.0 = Release|Any CPU
-		{FED94B36-7AA9-415D-96C3-61C550A77F23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FED94B36-7AA9-415D-96C3-61C550A77F23}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FED94B36-7AA9-415D-96C3-61C550A77F23}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FED94B36-7AA9-415D-96C3-61C550A77F23}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
