@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\bin\Debug\net6.0\MyBlog.Entity.deps.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\bin\Debug\net6.0\MyBlog.Entity.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\bin\Debug\net6.0\MyBlog.Entity.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\obj\Debug\net6.0\MyBlog.Entity.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\obj\Debug\net6.0\MyBlog.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\obj\Debug\net6.0\MyBlog.Entity.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\obj\Debug\net6.0\MyBlog.Entity.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\obj\Debug\net6.0\MyBlog.Entity.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\obj\Debug\net6.0\MyBlog.Entity.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\obj\Debug\net6.0\refint\MyBlog.Entity.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\obj\Debug\net6.0\MyBlog.Entity.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\obj\Debug\net6.0\ref\MyBlog.Entity.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\bin\Debug\net6.0\MyBlog.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\bin\Debug\net6.0\MyBlog.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Entity\obj\Debug\net6.0\MyBlog.Entity.csproj.CopyComplete

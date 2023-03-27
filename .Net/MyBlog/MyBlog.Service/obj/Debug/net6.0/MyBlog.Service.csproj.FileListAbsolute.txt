@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\bin\Debug\net6.0\MyBlog.Service.deps.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\bin\Debug\net6.0\MyBlog.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\bin\Debug\net6.0\MyBlog.Service.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\net6.0\MyBlog.Service.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\net6.0\MyBlog.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\net6.0\MyBlog.Service.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\net6.0\MyBlog.Service.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\net6.0\MyBlog.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\net6.0\MyBlog.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\net6.0\refint\MyBlog.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\net6.0\MyBlog.Service.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\net6.0\ref\MyBlog.Service.dll
