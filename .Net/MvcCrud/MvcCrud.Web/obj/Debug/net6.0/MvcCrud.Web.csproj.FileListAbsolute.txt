@@ -85,3 +85,9 @@ C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Web\obj\Debug\ne
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Web\obj\Debug\net6.0\MvcCrud.Web.pdb
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Web\obj\Debug\net6.0\MvcCrud.Web.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Web\obj\Debug\net6.0\ref\MvcCrud.Web.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Web\bin\Debug\net6.0\MvcCrud.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Web\bin\Debug\net6.0\MvcCrud.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Web\bin\Debug\net6.0\MvcCrud.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Web\bin\Debug\net6.0\MvcCrud.Service.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Web\bin\Debug\net6.0\MvcCrud.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Web\bin\Debug\net6.0\MvcCrud.Repository.pdb

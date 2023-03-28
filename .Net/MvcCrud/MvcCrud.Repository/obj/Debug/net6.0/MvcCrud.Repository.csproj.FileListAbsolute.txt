@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\bin\Debug\net6.0\MvcCrud.Repository.deps.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\bin\Debug\net6.0\MvcCrud.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\bin\Debug\net6.0\MvcCrud.Repository.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\obj\Debug\net6.0\MvcCrud.Repository.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\obj\Debug\net6.0\MvcCrud.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\obj\Debug\net6.0\MvcCrud.Repository.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\obj\Debug\net6.0\MvcCrud.Repository.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\obj\Debug\net6.0\MvcCrud.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\obj\Debug\net6.0\MvcCrud.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\obj\Debug\net6.0\refint\MvcCrud.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\obj\Debug\net6.0\MvcCrud.Repository.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\obj\Debug\net6.0\ref\MvcCrud.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\bin\Debug\net6.0\MvcCrud.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\bin\Debug\net6.0\MvcCrud.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MvcCrud\MvcCrud.Repository\obj\Debug\net6.0\MvcCrud.Repository.csproj.CopyComplete

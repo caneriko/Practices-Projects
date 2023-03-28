@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MvcCrud.Repository/1.0.0": {
+        "dependencies": {
+          "MvcCrud.Core": "1.0.0"
+        },
+        "runtime": {
+          "MvcCrud.Repository.dll": {}
+        }
+      },
+      "MvcCrud.Core/1.0.0": {
+        "runtime": {
+          "MvcCrud.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MvcCrud.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MvcCrud.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
