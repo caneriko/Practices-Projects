@@ -10,3 +10,10 @@ C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\net6.0\refint\MyBlog.Service.dll
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\net6.0\MyBlog.Service.pdb
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\net6.0\ref\MyBlog.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\bin\Debug\net6.0\MyBlog.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\bin\Debug\net6.0\MyBlog.Data.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\bin\Debug\net6.0\MyBlog.Entity.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\bin\Debug\net6.0\MyBlog.Data.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\bin\Debug\net6.0\MyBlog.Entity.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\bin\Debug\net6.0\MyBlog.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyBlog\MyBlog.Service\obj\Debug\net6.0\MyBlog.Service.csproj.CopyComplete
