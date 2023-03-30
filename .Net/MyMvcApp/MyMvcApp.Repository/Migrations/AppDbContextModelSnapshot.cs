@@ -165,7 +165,7 @@ namespace MyMvcApp.Repository.Migrations
                     b.HasIndex("ProductId")
                         .IsUnique();
 
-                    b.ToTable("ProductFeature");
+                    b.ToTable("ProductFeature", (string)null);
 
                     b.HasData(
                         new
