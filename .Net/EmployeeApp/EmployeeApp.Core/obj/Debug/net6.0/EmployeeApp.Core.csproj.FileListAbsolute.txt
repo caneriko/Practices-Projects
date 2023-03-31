@@ -1,0 +1,12 @@
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Core\bin\Debug\net6.0\EmployeeApp.Core.deps.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Core\bin\Debug\net6.0\EmployeeApp.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Core\bin\Debug\net6.0\EmployeeApp.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Core\obj\Debug\net6.0\refint\EmployeeApp.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Core\obj\Debug\net6.0\EmployeeApp.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Core\obj\Debug\net6.0\ref\EmployeeApp.Core.dll

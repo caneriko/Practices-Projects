@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\bin\Debug\net6.0\EmployeeApp.Service.deps.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\bin\Debug\net6.0\EmployeeApp.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\bin\Debug\net6.0\EmployeeApp.Service.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\bin\Debug\net6.0\EmployeeApp.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\bin\Debug\net6.0\EmployeeApp.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\bin\Debug\net6.0\EmployeeApp.Repository.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\bin\Debug\net6.0\EmployeeApp.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\obj\Debug\net6.0\EmployeeApp.Service.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\obj\Debug\net6.0\EmployeeApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\obj\Debug\net6.0\EmployeeApp.Service.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\obj\Debug\net6.0\EmployeeApp.Service.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\obj\Debug\net6.0\EmployeeApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\obj\Debug\net6.0\EmployeeApp.Service.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\obj\Debug\net6.0\EmployeeApp.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\obj\Debug\net6.0\refint\EmployeeApp.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\obj\Debug\net6.0\EmployeeApp.Service.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Service\obj\Debug\net6.0\ref\EmployeeApp.Service.dll

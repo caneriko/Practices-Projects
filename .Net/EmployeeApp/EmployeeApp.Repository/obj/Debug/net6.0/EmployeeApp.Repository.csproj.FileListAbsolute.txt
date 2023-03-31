@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\bin\Debug\net6.0\EmployeeApp.Repository.deps.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\bin\Debug\net6.0\EmployeeApp.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\bin\Debug\net6.0\EmployeeApp.Repository.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\bin\Debug\net6.0\EmployeeApp.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\bin\Debug\net6.0\EmployeeApp.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\obj\Debug\net6.0\EmployeeApp.Repository.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\obj\Debug\net6.0\EmployeeApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\obj\Debug\net6.0\EmployeeApp.Repository.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\obj\Debug\net6.0\EmployeeApp.Repository.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\obj\Debug\net6.0\EmployeeApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\obj\Debug\net6.0\EmployeeApp.Repository.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\obj\Debug\net6.0\EmployeeApp.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\obj\Debug\net6.0\refint\EmployeeApp.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\obj\Debug\net6.0\EmployeeApp.Repository.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\obj\Debug\net6.0\ref\EmployeeApp.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\bin\Debug\net6.0\EmployeeApp.Repository.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EmployeeApp\EmployeeApp.Repository\obj\Debug\net6.0\EmployeeApp.Repository.genruntimeconfig.cache
