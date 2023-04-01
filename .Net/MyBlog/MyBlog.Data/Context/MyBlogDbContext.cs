@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using MyBlog.Entity.Entities;
 using System;
 using System.Collections.Generic;
@@ -9,7 +10,7 @@ using System.Threading.Tasks;
 
 namespace MyBlog.Data.Context
 {
-    public class MyBlogDbContext :DbContext 
+    public class MyBlogDbContext :IdentityDbContext<AppUser,AppRole,Guid,AppUserClaim,AppUserRole,AppUserLogin, AppRoleClaim, AppUserToken> 
     {
         public MyBlogDbContext(DbContextOptions<MyBlogDbContext> options) : base(options)
         {
@@ -24,7 +25,7 @@ namespace MyBlog.Data.Context
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
+            base.OnModelCreating(modelBuilder);
             modelBuilder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
 

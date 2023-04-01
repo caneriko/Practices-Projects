@@ -1,5 +1,7 @@
-﻿using MyBlog.Data.UnitOfWorks;
+﻿using AutoMapper;
+using MyBlog.Data.UnitOfWorks;
 using MyBlog.Entity.Entities;
+using MyBlog.Entity.ViewModels.Articles;
 using MyBlog.Service.Services.Abstractions;
 using System;
 using System.Collections.Generic;
@@ -13,14 +15,22 @@ namespace MyBlog.Service.Services.Concrete
     {
         private readonly IUnitOfWork _unitOfWork;
 
-        public ArticleService(IUnitOfWork unitOfWork)
+        private readonly IMapper _mapper;
+
+        public ArticleService(IUnitOfWork unitOfWork, IMapper mapper)
         {
             _unitOfWork = unitOfWork;
+            _mapper = mapper;
         }
 
-        public async Task<List<Article>> GetAllArticlesAsync()
+        public async Task<List<ArticleViewModel>> GetAllArticlesAsync()
         {
-            return await _unitOfWork.GetRepository<Article>().GetAllAsync();
+            var articles = await _unitOfWork.GetRepository<Article>().GetAllAsync();
+
+            var map = _mapper.Map<List<ArticleViewModel>>(articles);
+
+            return map;
+
         }
     }
 }

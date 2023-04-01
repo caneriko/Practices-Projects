@@ -9,6 +9,7 @@ using MyBlog.Service.Services.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -20,7 +21,7 @@ namespace MyBlog.Service.Extensions
         {
             services.AddScoped<IArticleService, ArticleService>();
 
-            
+            services.AddAutoMapper(Assembly.GetExecutingAssembly());
 
             return services;
         }

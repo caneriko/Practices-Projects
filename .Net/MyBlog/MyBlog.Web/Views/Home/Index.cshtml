@@ -1,8 +1,9 @@
-﻿@{
+﻿@using MyBlog.Entity.ViewModels.Articles;
+@{
     ViewData["Title"] = "Home Page";
 }
 
-@model List<Article>
+@model List<ArticleViewModel>
 
 <div class="text-center">
     <h1 class="display-4">Welcome to My Site</h1>
@@ -15,4 +16,8 @@
     <br/>
     <h3>@article.Content</h3>
     <br/>
+    <h3>@article.CreatedBy</h3>
+    <br />
 }
+
+
