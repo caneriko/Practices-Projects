@@ -1,11 +1,30 @@
+using Autofac;
+using Autofac.Extensions.DependencyInjection;
+using EmployeeApp.Core.Repositories;
+using EmployeeApp.Core.Services;
+using EmployeeApp.Core.UnitOfWorks;
 using EmployeeApp.Repository;
+using EmployeeApp.Repository.Repositories;
+using EmployeeApp.Repository.UnitOfWorks;
+using EmployeeApp.Service.Mapping;
+using EmployeeApp.Service.Services;
+using EmployeeApp.Service.Validations;
+using EmployeeApp.Web.Modules;
+using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+builder.Services.AddControllersWithViews().AddFluentValidation(x => x.RegisterValidatorsFromAssemblyContaining<EmployeeViewModelValidator>());
+
+builder.Services.AddAutoMapper(typeof(MapProfile));
+
+
+
+
+
 
 
 
@@ -16,6 +35,12 @@ builder.Services.AddDbContext<EmpAppDbContext>(x=>
         option.MigrationsAssembly(Assembly.GetAssembly(typeof(EmpAppDbContext)).GetName().Name);
     });
 });
+
+
+
+builder.Host.UseServiceProviderFactory(new AutofacServiceProviderFactory());
+builder.Host.ConfigureContainer<ContainerBuilder>(containerBuilder => containerBuilder.RegisterModule(new RepoServiceModule()));
+
 
 var app = builder.Build();
 

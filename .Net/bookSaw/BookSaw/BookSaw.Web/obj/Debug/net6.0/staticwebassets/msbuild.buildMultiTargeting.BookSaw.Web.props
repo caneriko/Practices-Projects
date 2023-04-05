@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\BookSaw.Web.props" />
+</Project>

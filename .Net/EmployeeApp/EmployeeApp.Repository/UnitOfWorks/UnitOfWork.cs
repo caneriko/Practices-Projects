@@ -10,6 +10,12 @@ namespace EmployeeApp.Repository.UnitOfWorks
     public class UnitOfWork : IUnitOfWork
     {
         private readonly EmpAppDbContext _empAppDbContext;
+
+        public UnitOfWork(EmpAppDbContext empAppDbContext)
+        {
+            _empAppDbContext = empAppDbContext;
+        }
+
         public void Commit()
         {
             _empAppDbContext.SaveChanges();
