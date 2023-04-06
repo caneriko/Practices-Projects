@@ -22,7 +22,8 @@ namespace MyBlog.Data.Mappings
                     FileType = "jpg",
                     CreatedBy = "Admin Test",
                     CreatedDate = DateTime.Now,
-                    IsDeleted = false
+                    IsDeleted = false,
+                    
                   },
                   new Image
                   {

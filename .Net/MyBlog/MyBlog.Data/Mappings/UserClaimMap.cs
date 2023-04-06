@@ -9,15 +9,15 @@ using System.Threading.Tasks;
 
 namespace MyBlog.Data.Mappings
 {
-    public class RoleClaimMap : IEntityTypeConfiguration<AppRoleClaim>
+    public class UserClaimMap : IEntityTypeConfiguration<AppUserClaim>
     {
-        public void Configure(EntityTypeBuilder<AppRoleClaim> builder)
+        public void Configure(EntityTypeBuilder<AppUserClaim> builder)
         {
             // Primary key
-            builder.HasKey(rc => rc.Id);
+            builder.HasKey(uc => uc.Id);
 
-            // Maps to the AspNetRoleClaims table
-            builder.ToTable("AspNetRoleClaims");
+            // Maps to the AspNetUserClaims table
+            builder.ToTable("AspNetUserClaims");
         }
     }
 }
