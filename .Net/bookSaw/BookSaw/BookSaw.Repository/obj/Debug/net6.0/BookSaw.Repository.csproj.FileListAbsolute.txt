@@ -22,3 +22,8 @@ C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Reposito
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Repository\obj\Debug\net6.0\refint\BookSaw.Repository.dll
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Repository\obj\Debug\net6.0\BookSaw.Repository.pdb
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Repository\obj\Debug\net6.0\ref\BookSaw.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Repository\bin\Debug\net6.0\BookSaw.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Repository\bin\Debug\net6.0\BookSaw.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Repository\obj\Debug\net6.0\BookSaw.Repository.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Repository\bin\Debug\net6.0\BookSaw.Repository.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Repository\obj\Debug\net6.0\BookSaw.Repository.genruntimeconfig.cache
