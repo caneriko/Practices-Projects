@@ -6,17 +6,14 @@ using System.Threading.Tasks;
 
 namespace BookSaw.Core.Models
 {
-    public class Writer
+    public class BookCategory
     {
         public int Id { get; set; }
 
-        public string FirstName { get; set; } = null!;
+        public string Name { get; set; } = null!;
 
-        public string LastName { get; set; } = null!;
+        public ICollection<Book>? Books { get; set; }
 
-        public ICollection<Book> Books { get; set; }
-
- 
 
     }
 }
