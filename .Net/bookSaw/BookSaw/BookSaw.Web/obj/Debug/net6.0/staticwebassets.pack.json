@@ -513,6 +513,42 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\bookSaw\\BookSaw\\BookSaw.Web\\wwwroot\\pages\\about.html",
+      "PackagePath": "staticwebassets\\pages\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\bookSaw\\BookSaw\\BookSaw.Web\\wwwroot\\pages\\blog.html",
+      "PackagePath": "staticwebassets\\pages\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\bookSaw\\BookSaw\\BookSaw.Web\\wwwroot\\pages\\contact.html",
+      "PackagePath": "staticwebassets\\pages\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\bookSaw\\BookSaw\\BookSaw.Web\\wwwroot\\pages\\index.html",
+      "PackagePath": "staticwebassets\\pages\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\bookSaw\\BookSaw\\BookSaw.Web\\wwwroot\\pages\\shop.html",
+      "PackagePath": "staticwebassets\\pages\\shop.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\bookSaw\\BookSaw\\BookSaw.Web\\wwwroot\\pages\\single-post.html",
+      "PackagePath": "staticwebassets\\pages\\single-post.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\bookSaw\\BookSaw\\BookSaw.Web\\wwwroot\\pages\\single-product.html",
+      "PackagePath": "staticwebassets\\pages\\single-product.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\bookSaw\\BookSaw\\BookSaw.Web\\wwwroot\\pages\\styles.html",
+      "PackagePath": "staticwebassets\\pages\\styles.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\bookSaw\\BookSaw\\BookSaw.Web\\wwwroot\\pages\\thank-you.html",
+      "PackagePath": "staticwebassets\\pages\\thank-you.html"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\bookSaw\\BookSaw\\BookSaw.Web\\wwwroot\\style.css",
       "PackagePath": "staticwebassets\\style.css"
     },

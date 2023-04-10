@@ -4,6 +4,7 @@ using BookSaw.Core.UnitOfWorks;
 using BookSaw.Repository;
 using BookSaw.Repository.Repositories;
 using BookSaw.Repository.UnitOfWorks;
+using BookSaw.Service.Mapping;
 using BookSaw.Service.Services;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
@@ -20,6 +21,7 @@ builder.Services.AddScoped(typeof(IGenericRepository<>), typeof(GenericRepositor
 
 builder.Services.AddScoped(typeof(IService<>), typeof(Service<>));
 
+builder.Services.AddAutoMapper(typeof(BookProfile));
 
 builder.Services.AddDbContext<BookSawDbContext>(x=>
 {

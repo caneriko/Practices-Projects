@@ -16,12 +16,20 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Web
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Lenovo/Desktop/Practices-Projects/.Net/bookSaw/BookSaw/BookSaw.Web/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Lenovo/Desktop/Practices-Projects/.Net/bookSaw/BookSaw/BookSaw.Web/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Lenovo/Desktop/Practices-Projects/.Net/bookSaw/BookSaw/BookSaw.Web/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Lenovo/Desktop/Practices-Projects/.Net/bookSaw/BookSaw/BookSaw.Web/Views/Home/Shop.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxTaG9wLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Lenovo/Desktop/Practices-Projects/.Net/bookSaw/BookSaw/BookSaw.Web/Views/Home/_BestSelling.cshtml]
