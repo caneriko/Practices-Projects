@@ -11,11 +11,13 @@ namespace BookSaw.Core.Models
     {
         public int Id { get; set; }
 
-        public string Name { get; set; } = null!;
+        public string Name { get; set; } 
 
         public decimal Price { get; set; }
 
         public decimal? DiscountedPrice { get; set; }
+
+        public int Stock { get; set; }
 
         public string Description { get; set; } = null!;
 
@@ -28,8 +30,8 @@ namespace BookSaw.Core.Models
 
         public int WriterId { get; set; }
 
-        [ForeignKey("CategoryId")] 
-        public BookCategory Category { get; set; } = null!;
+        
+        public Category Category { get; set; } = null!;
 
         public int CategoryId { get; set; }
 

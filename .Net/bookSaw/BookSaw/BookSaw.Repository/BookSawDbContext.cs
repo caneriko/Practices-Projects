@@ -4,6 +4,7 @@ using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -24,13 +25,14 @@ namespace BookSaw.Repository
 
         public DbSet<Quotation> Quotations { get; set; }
 
+        public DbSet<Category> Categories { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+
+        protected override void OnModelCreating(ModelBuilder builder)
         {
+            builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
 
-
-
-            base.OnConfiguring(optionsBuilder);
+            base.OnModelCreating(builder);
         }
 
 

@@ -8,7 +8,10 @@
 
   <ItemGroup>
     <Folder Include="Mapping\" />
-    <Folder Include="Services\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BookSaw.Repository\BookSaw.Repository.csproj" />
   </ItemGroup>
 
 </Project>

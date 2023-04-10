@@ -22,3 +22,8 @@ C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Service\
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Service\obj\Debug\net6.0\refint\BookSaw.Service.dll
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Service\obj\Debug\net6.0\BookSaw.Service.pdb
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Service\obj\Debug\net6.0\ref\BookSaw.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Service\bin\Debug\net6.0\BookSaw.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Service\bin\Debug\net6.0\BookSaw.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Service\bin\Debug\net6.0\BookSaw.Repository.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Service\bin\Debug\net6.0\BookSaw.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\bookSaw\BookSaw\BookSaw.Service\obj\Debug\net6.0\BookSaw.Service.csproj.CopyComplete
