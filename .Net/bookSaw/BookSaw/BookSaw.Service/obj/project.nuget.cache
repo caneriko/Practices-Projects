@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "kJD9+VaK2ECJqcUy0vaY6EmwswAX0mOvm5L+RI3a4x16Czl3sktlLj9LSnMZtGYU3+nADvTGgkvgZecFz90lsQ==",
+  "dgSpecHash": "yBgmSmUoKeK/J9ZAc2Nic7YV1sUPtjbICOKMP+7td0Kv/P8vUMJM5HdGhbozdzC253Le+yDwDWUAtDIzdDbCbQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\bookSaw\\BookSaw\\BookSaw.Service\\BookSaw.Service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.15\\microsoft.aspnetcore.cryptography.internal.6.0.15.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.15\\microsoft.aspnetcore.cryptography.keyderivation.6.0.15.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.15\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.15.nupkg.sha512",

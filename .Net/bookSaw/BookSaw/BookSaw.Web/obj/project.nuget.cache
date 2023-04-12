@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "yWA94/L6/rr6xi7iR/0cv6zT5hY+/hhe4ogqtVz9EpkCNbjUGk2eH52d4K7JXgp6Sf1MPo9+h5QvSq253I62XQ==",
+  "dgSpecHash": "mVU17jPN/zWMZ1JJvOyXONrPlXTzF6P0fgJia+zzYtTtjz2s0HiFr4jgH6Kv/ocfa7G+U7pQdCYXcVkIfN1hMA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\bookSaw\\BookSaw\\BookSaw.Web\\BookSaw.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",

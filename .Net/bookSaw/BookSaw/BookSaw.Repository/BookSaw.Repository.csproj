@@ -20,8 +20,4 @@
     <ProjectReference Include="..\BookSaw.Core\BookSaw.Core.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Seeds\" />
-  </ItemGroup>
-
 </Project>

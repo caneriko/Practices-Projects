@@ -15,6 +15,7 @@ namespace BookSaw.Core.Models
 
         public decimal Price { get; set; }
 
+        public bool IsDiscounted { get; set; }
         public decimal? DiscountedPrice { get; set; }
 
         public int Stock { get; set; }

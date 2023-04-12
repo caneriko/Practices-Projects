@@ -9,7 +9,7 @@ namespace BookSaw.Core.Models
 {
     public class AppUser : IdentityUser<Guid>
     {
-        public ICollection<Article>? Articles { get; set; }
+        public ICollection<Article>? Articles { get; set; } 
 
 
     }

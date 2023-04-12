@@ -14,6 +14,9 @@ namespace BookSaw.Service.Mapping
         public BookProfile()
         {
             CreateMap<Book, BookModel>().ReverseMap();
+            CreateMap<Book, BookUpdateModel>().ReverseMap();
+            CreateMap<Book, BookWithCategory>();
         }
     }
 }
+

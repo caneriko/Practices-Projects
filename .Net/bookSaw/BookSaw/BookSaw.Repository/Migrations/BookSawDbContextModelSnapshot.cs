@@ -172,6 +172,9 @@ namespace BookSaw.Repository.Migrations
                     b.Property<string>("ImagePath")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<bool>("IsDiscounted")
+                        .HasColumnType("bit");
+
                     b.Property<string>("Name")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -195,6 +198,64 @@ namespace BookSaw.Repository.Migrations
                     b.HasIndex("WriterId");
 
                     b.ToTable("Books", (string)null);
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 10,
+                            CategoryId = 30,
+                            Description = "Güzel Kitap",
+                            DiscountedPrice = 40m,
+                            ImagePath = "/images/single-image",
+                            IsDiscounted = false,
+                            Name = "Birds Gonna Be Happy",
+                            Price = 40m,
+                            PublishDate = new DateTime(2022, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Stock = 1500,
+                            WriterId = 4
+                        },
+                        new
+                        {
+                            Id = 2,
+                            CategoryId = 30,
+                            Description = "Güzel Kitap",
+                            DiscountedPrice = 50m,
+                            ImagePath = "/images/product-item2",
+                            IsDiscounted = false,
+                            Name = "Great Travel At Desert",
+                            Price = 50m,
+                            PublishDate = new DateTime(2019, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Stock = 1000,
+                            WriterId = 3
+                        },
+                        new
+                        {
+                            Id = 3,
+                            CategoryId = 50,
+                            Description = "Güzel Kitap",
+                            DiscountedPrice = 38m,
+                            ImagePath = "/images/tab-item7",
+                            IsDiscounted = false,
+                            Name = "Life Among The Pirates",
+                            Price = 38m,
+                            PublishDate = new DateTime(2021, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Stock = 2000,
+                            WriterId = 7
+                        },
+                        new
+                        {
+                            Id = 4,
+                            CategoryId = 20,
+                            Description = "Güzel Kitap",
+                            DiscountedPrice = 50m,
+                            ImagePath = "/images/product-item4",
+                            IsDiscounted = false,
+                            Name = "Kürk Mantolu Madonna",
+                            Price = 50m,
+                            PublishDate = new DateTime(1934, 10, 25, 0, 0, 0, 0, DateTimeKind.Unspecified),
+                            Stock = 20000,
+                            WriterId = 1
+                        });
                 });
 
             modelBuilder.Entity("BookSaw.Core.Models.Category", b =>
@@ -213,6 +274,38 @@ namespace BookSaw.Repository.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Categories");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 10,
+                            Name = "Fictional"
+                        },
+                        new
+                        {
+                            Id = 20,
+                            Name = "Romantic"
+                        },
+                        new
+                        {
+                            Id = 30,
+                            Name = "Adventure"
+                        },
+                        new
+                        {
+                            Id = 40,
+                            Name = "Technology"
+                        },
+                        new
+                        {
+                            Id = 50,
+                            Name = "Detective"
+                        },
+                        new
+                        {
+                            Id = 60,
+                            Name = "Kids"
+                        });
                 });
 
             modelBuilder.Entity("BookSaw.Core.Models.Quotation", b =>
@@ -254,6 +347,50 @@ namespace BookSaw.Repository.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Writers");
+
+                    b.HasData(
+                        new
+                        {
+                            Id = 1,
+                            FirstName = "Sabahattin",
+                            LastName = "Ali"
+                        },
+                        new
+                        {
+                            Id = 2,
+                            FirstName = "George",
+                            LastName = "Orwell"
+                        },
+                        new
+                        {
+                            Id = 3,
+                            FirstName = "Sanchit",
+                            LastName = "Howdy"
+                        },
+                        new
+                        {
+                            Id = 4,
+                            FirstName = "Timbur",
+                            LastName = "Hood"
+                        },
+                        new
+                        {
+                            Id = 5,
+                            FirstName = "Adam",
+                            LastName = "Silber"
+                        },
+                        new
+                        {
+                            Id = 6,
+                            FirstName = "Nicole",
+                            LastName = "Wilson"
+                        },
+                        new
+                        {
+                            Id = 7,
+                            FirstName = "Armor",
+                            LastName = "Ramsey"
+                        });
                 });
 
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<System.Guid>", b =>

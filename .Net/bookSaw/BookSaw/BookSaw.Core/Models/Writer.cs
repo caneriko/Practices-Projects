@@ -14,7 +14,7 @@ namespace BookSaw.Core.Models
 
         public string LastName { get; set; } 
 
-        public ICollection<Book>? Books { get; set; } 
+        public ICollection<Book> Books { get; set; } 
 
  
 

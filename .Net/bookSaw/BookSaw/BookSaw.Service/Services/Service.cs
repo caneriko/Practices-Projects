@@ -69,7 +69,7 @@ namespace BookSaw.Service.Services
             _repository.Update(entity);
             await _unitOfWork.CommitAsync();
         }
-
+         
         public IQueryable<T> Where(Expression<Func<T, bool>> expression)
         {
             return _repository.Where(expression);
