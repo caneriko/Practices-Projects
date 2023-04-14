@@ -33,7 +33,7 @@ namespace BookSaw.Web.Areas.Admin.Controllers
             }).ToList();
 
 
-            return View();
+            return View(userModelList);
         }
 
     }

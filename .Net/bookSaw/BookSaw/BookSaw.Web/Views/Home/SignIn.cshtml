@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewData["Title"] = "SignIn";
+}
+
+@model SignInModel 
+
+
+<div class="container">
+ 
+
+    <div class="row">
+        <div class="col-md-6 offset-3">
+
+            <h3>SignIn</h3>
+
+            @if (TempData["SuccessMessage"] != null)
+            {
+                <div class="btn btn-outline-accent btn-pill">
+                    <p class="m-3">  @TempData["SuccessMessage"] </p>
+                </div>
+            }
+
+            <div class="btn btn-outline-accent btn-pill p-2">
+                <div asp-validation-summary="ModelOnly">
+                </div>
+            </div>
+
+
+
+            <form asp-controller="home" asp-action="signin" method="post">
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <label asp-for="Email"></label>
+                        <input class="u-full-width" asp-for="Email" />
+                        <span class="label-body" asp-validation-for="Email"> </span>
+                    </div>
+                </div>
+
+
+                <div class="row">
+                    <div class="col-md-6">
+                        <label asp-for="Password"></label>
+                        <input class="u-full-width" asp-for="Password" />
+                        <span class="label-body" asp-validation-for="Password"> </span>
+                    </div>
+                </div>
+
+                <label class="example-send-yourself-copy" asp-for="RememberMe" >
+                    <input type="checkbox" asp-for="RememberMe">
+                    <span class="label-body">Beni Hatırla</span>
+                </label>
+
+
+                <div class="row col-md-6">
+                    <input class="button-primary" type="submit" value="Giriş Yap">
+                </div>
+
+
+            </form>
+
+        </div>
+
+    </div>
+
+</div>
+
+
+@section Scripts {
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+
+}

@@ -8,6 +8,7 @@ using BookSaw.Repository.UnitOfWorks;
 using BookSaw.Service.Mapping;
 using BookSaw.Service.Services;
 using BookSaw.Service.Validation;
+using BookSaw.Web.Extensions;
 using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 using System.Reflection;
@@ -43,7 +44,11 @@ builder.Services.AddDbContext<BookSawDbContext>(x=>
     });
 });
 
-builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<BookSawDbContext>();
+
+builder.Services.AddIdentityWithExtension();
+
+
+
 
 
 

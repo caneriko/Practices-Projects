@@ -16,6 +16,7 @@
 	<link rel="stylesheet" type="text/css" href="~/icomoon/icomoon.css">
 	<link rel="stylesheet" type="text/css" href="~/css/vendor.css">
 	<link rel="stylesheet" type="text/css" href="~/style.css">
+	@await RenderSectionAsync("Css", required: false)
 
 	<!-- script
 	================================================== -->
@@ -50,8 +51,8 @@
 					</div>
 					<div class="col-md-6">
 						<div class="right-element">
-							<a href="~/#" class="user-account for-buy"><i class="icon icon-user"></i><span>Account</span></a>
-							<a href="~/#" class="cart for-buy"><i class="icon icon-clipboard"></i><span>Cart:(0 $)</span></a>
+							<a asp-controller="home" asp-action="signin" class="user-account for-buy "><i class="icon icon-user"></i><span> Sign In</span></a>
+							<a asp-controller="home" asp-action="signup" class="cart for-buy "><i class="icomoon icon-enter"></i><span>Sign Up</span></a>
 
 							<div class="action-menu">
 

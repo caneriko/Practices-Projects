@@ -6,6 +6,7 @@ using BookSaw.Web.Models;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
+using BookSaw.Web.Extensions;
 
 namespace BookSaw.Web.Controllers
 {
@@ -13,14 +14,16 @@ namespace BookSaw.Web.Controllers
     {
         private readonly IMapper _mapper;
         private readonly IBookService _service;
+        private readonly SignInManager<AppUser> _signInManager;
 
         private readonly UserManager<AppUser> _userManager;
 
-        public HomeController(IMapper mapper, IBookService service, UserManager<AppUser> userManager)
+        public HomeController(IMapper mapper, IBookService service, UserManager<AppUser> userManager, SignInManager<AppUser> signInManager)
         {
             _mapper = mapper;
             _service = service;
             _userManager = userManager;
+            _signInManager = signInManager;
         }
 
         #region entityServices  
@@ -43,6 +46,11 @@ namespace BookSaw.Web.Controllers
 
         #endregion
 
+
+
+
+        #region Identity
+
         public IActionResult SignUp()
         {
             return View();
@@ -58,12 +66,12 @@ namespace BookSaw.Web.Controllers
             }
 
 
-           var result = await _userManager.CreateAsync(new()
+            var result = await _userManager.CreateAsync(new()
             {
-                UserName=request.UserName,
-                PhoneNumber=request.Phone,
-                Email=request.Email
-                
+                UserName = request.UserName,
+                PhoneNumber = request.Phone,
+                Email = request.Email
+
             }, request.Password);
 
             if (result.Succeeded)
@@ -74,19 +82,63 @@ namespace BookSaw.Web.Controllers
             }
 
 
-            foreach (var item in result.Errors)
-            {
-                ModelState.AddModelError(string.Empty, item.Description);
-            }
+            ModelState.AddModelErrorList(result.Errors.Select(x=>x.Description).ToList());
+
+            //foreach (var item in result.Errors)
+            //{
+            //    ModelState.AddModelError(string.Empty, item.Description);
+            //}
 
             return View();
         }
 
 
+        public IActionResult SignIn()
+        {
+            return View();
+        }
 
-        #region Identity
+        [HttpPost]
+        public async Task<IActionResult> SignIn(SignInModel request, string? returnUrl=null)
+        {
+            returnUrl = returnUrl ?? Url.Action("Index", "Home");
+
+            var user = await _userManager.FindByEmailAsync(request.Email);
+
+            if (user==null)
+            {
+                ModelState.AddModelError(string.Empty, "Bu email adresiyla kayıtlı kullanıcı bulunmamaktadır");
+                return View();
+            }
 
 
+
+            var result = await _signInManager.PasswordSignInAsync(user, request.Password, request.RememberMe, true);
+
+            if (result.Succeeded)
+            {
+                return Redirect(returnUrl);
+            }
+            else
+            {
+                if (result.IsLockedOut)
+                {
+                    ModelState.AddModelErrorList(new List<string>() { "3 dakika boyunca giriş yapamazsınız" });
+                    return View();
+
+                }
+
+                if (await _userManager.GetAccessFailedCountAsync(user) < 3)
+                {
+                    ModelState.AddModelErrorList(new List<string>() { $" Hatalı giriş, Kalan giriş hakkı {3 - await _userManager.GetAccessFailedCountAsync(user)} " });
+                }
+
+
+            } 
+
+
+            return View();
+        }
 
 
         #endregion
