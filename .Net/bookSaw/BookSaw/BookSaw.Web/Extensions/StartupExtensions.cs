@@ -31,5 +31,24 @@ namespace BookSaw.Web.Extensions
             .AddErrorDescriber<LocalizationIdentityErrorDescriber>()
                 .AddEntityFrameworkStores<BookSawDbContext>();
         }
+
+        public static void AddCookieWithExtension(this IServiceCollection services)
+        {
+            services.ConfigureApplicationCookie(opt =>
+            {
+                var cookieBuilder = new CookieBuilder();
+                cookieBuilder.Name = "BookSawCookie";
+                opt.Cookie = cookieBuilder;
+
+                opt.LoginPath = new PathString("/Home/Signin");
+                opt.LogoutPath = new PathString("/Member/Logout");
+                opt.AccessDeniedPath = new PathString("/Member/AccessDenied");
+
+                opt.ExpireTimeSpan=TimeSpan.FromDays(40);
+                opt.SlidingExpiration = true;
+
+            });
+        }
+
     }
 }

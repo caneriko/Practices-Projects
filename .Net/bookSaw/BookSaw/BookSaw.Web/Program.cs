@@ -47,6 +47,8 @@ builder.Services.AddDbContext<BookSawDbContext>(x=>
 
 builder.Services.AddIdentityWithExtension();
 
+builder.Services.AddCookieWithExtension();
+
 
 
 
