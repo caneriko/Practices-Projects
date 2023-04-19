@@ -28,7 +28,7 @@
 
 
 
-            <form asp-controller="home" asp-action="signin" method="post">
+            <form asp-controller="home" asp-action="signin" asp-route-returnUrl="@Context.Request.Query["returnUrl"]" method="post">
 
                 <div class="row">
                     <div class="col-md-6">
