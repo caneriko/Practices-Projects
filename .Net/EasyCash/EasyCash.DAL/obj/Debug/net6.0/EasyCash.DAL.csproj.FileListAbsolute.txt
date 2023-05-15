@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\bin\Debug\net6.0\EasyCash.DAL.deps.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\bin\Debug\net6.0\EasyCash.DAL.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\bin\Debug\net6.0\EasyCash.DAL.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\bin\Debug\net6.0\EasyCash.DAL.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\bin\Debug\net6.0\EasyCash.EntityLayer.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\bin\Debug\net6.0\EasyCash.EntityLayer.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\obj\Debug\net6.0\EasyCash.DAL.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\obj\Debug\net6.0\EasyCash.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\obj\Debug\net6.0\EasyCash.DAL.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\obj\Debug\net6.0\EasyCash.DAL.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\obj\Debug\net6.0\EasyCash.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\obj\Debug\net6.0\EasyCash.DAL.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\obj\Debug\net6.0\EasyCash.DAL.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\obj\Debug\net6.0\refint\EasyCash.DAL.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\obj\Debug\net6.0\EasyCash.DAL.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\obj\Debug\net6.0\EasyCash.DAL.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.DAL\obj\Debug\net6.0\ref\EasyCash.DAL.dll
