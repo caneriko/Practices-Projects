@@ -79,3 +79,11 @@ C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.Web\obj\Debug\
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.Web\obj\Debug\net6.0\EasyCash.Web.pdb
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.Web\obj\Debug\net6.0\EasyCash.Web.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.Web\obj\Debug\net6.0\ref\EasyCash.Web.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.Web\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.Web\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.Web\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.Web\obj\Debug\net6.0\EasyCash.Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.Web\bin\Debug\net6.0\MailKit.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.Web\bin\Debug\net6.0\MimeKit.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.Web\bin\Debug\net6.0\NETCore.MailKit.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\EasyCash\EasyCash.Web\bin\Debug\net6.0\BouncyCastle.Crypto.dll

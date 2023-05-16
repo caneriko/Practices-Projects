@@ -1309,6 +1309,23 @@
           }
         }
       },
+      "EasyCash.DAL/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "EasyCash.EntityLayer": "1.0.0",
+          "Microsoft.AspNetCore.Identity": "2.2.0",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.16",
+          "Microsoft.EntityFrameworkCore": "6.0.16",
+          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.16"
+        },
+        "compile": {
+          "bin/placeholder/EasyCash.DAL.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/EasyCash.DAL.dll": {}
+        }
+      },
       "EasyCash.DtoLayer/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -3059,6 +3076,11 @@
         "version.txt"
       ]
     },
+    "EasyCash.DAL/1.0.0": {
+      "type": "project",
+      "path": "../EasyCash.DAL/EasyCash.DAL.csproj",
+      "msbuildProject": "../EasyCash.DAL/EasyCash.DAL.csproj"
+    },
     "EasyCash.DtoLayer/1.0.0": {
       "type": "project",
       "path": "../EasyCash.DtoLayer/EasyCash.DtoLayer.csproj",
@@ -3072,6 +3094,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "EasyCash.DAL >= 1.0.0",
       "EasyCash.DtoLayer >= 1.0.0",
       "EasyCash.EntityLayer >= 1.0.0",
       "FluentValidation >= 11.5.2",
@@ -3110,6 +3133,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\EasyCash\\EasyCash.DAL\\EasyCash.DAL.csproj": {
+              "projectPath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\EasyCash\\EasyCash.DAL\\EasyCash.DAL.csproj"
+            },
             "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\EasyCash\\EasyCash.DtoLayer\\EasyCash.DtoLayer.csproj": {
               "projectPath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\EasyCash\\EasyCash.DtoLayer\\EasyCash.DtoLayer.csproj"
             },

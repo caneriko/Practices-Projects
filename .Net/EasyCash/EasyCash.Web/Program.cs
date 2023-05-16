@@ -1,3 +1,7 @@
+using EasyCash.DAL.Concrete;
+using EasyCash.EntityLayer.Concrete;
+using EasyCash.Web.Models;
+
 namespace EasyCash.Web
 {
     public class Program
@@ -8,6 +12,10 @@ namespace EasyCash.Web
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddDbContext<Context>();
+
+            builder.Services.AddIdentity<AppUser, AppRole>().AddEntityFrameworkStores<Context>().AddErrorDescriber<CustomIdentityValidator>();
 
             var app = builder.Build();
 
@@ -23,7 +31,7 @@ namespace EasyCash.Web
             app.UseStaticFiles();
 
             app.UseRouting();
-
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(
