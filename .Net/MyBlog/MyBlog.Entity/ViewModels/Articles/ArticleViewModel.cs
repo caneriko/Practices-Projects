@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MyBlog.Entity.ViewModels.Categories;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,13 +13,15 @@ namespace MyBlog.Entity.ViewModels.Articles
 
         public string Title { get; set; }
 
-        public string Content { get; set; }
+        public CategoryViewModel Category { get; set; }
 
-        public int ViewCount { get; set; }
+        public string Content { get; set; }
 
         public DateTime CreatedDate { get; set; }
 
         public string CreatedBy { get; set; }
+
+        public bool IsDeleted { get; set; }
 
 
 

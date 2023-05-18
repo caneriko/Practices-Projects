@@ -1,9 +1,11 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using MyBlog.Service.Services.Abstractions;
 
 namespace MyBlog.Web.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize]
     public class HomeController : Controller
     {
         private readonly IArticleService _articleService;
@@ -14,7 +16,7 @@ namespace MyBlog.Web.Areas.Admin.Controllers
         }
         public async Task<IActionResult> Index()
         {
-            var articles = await _articleService.GetAllArticlesAsync();
+            var articles = await _articleService.GetAllArticlesWithCategoryNonDeletedAsync();
 
             return View(articles);
         }

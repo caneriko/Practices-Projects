@@ -23,9 +23,9 @@ namespace MyBlog.Service.Services.Concrete
             _mapper = mapper;
         }
 
-        public async Task<List<ArticleViewModel>> GetAllArticlesAsync()
+        public async Task<List<ArticleViewModel>> GetAllArticlesWithCategoryNonDeletedAsync()
         {
-            var articles = await _unitOfWork.GetRepository<Article>().GetAllAsync();
+            var articles = await _unitOfWork.GetRepository<Article>().GetAllAsync(x=>x.IsDeleted==false, x=>x.Category);
 
             var map = _mapper.Map<List<ArticleViewModel>>(articles);
 
