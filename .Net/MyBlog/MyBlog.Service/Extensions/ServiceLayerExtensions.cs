@@ -1,9 +1,13 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using FluentValidation;
+using FluentValidation.AspNetCore;
+using Microsoft.AspNetCore.Http;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using MyBlog.Data.Context;
 using MyBlog.Data.Repositories.Abstarctions;
 using MyBlog.Data.Repositories.Concretes;
 using MyBlog.Data.UnitOfWorks;
+using MyBlog.Service.FluentValidations;
 using MyBlog.Service.Services.Abstractions;
 using MyBlog.Service.Services.Concrete;
 using System;
@@ -23,6 +27,16 @@ namespace MyBlog.Service.Extensions
             services.AddScoped<ICategoryService, CategoryService>();
 
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
+
+            services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
+            services.AddControllersWithViews().AddFluentValidation(opt =>
+            {
+                opt.RegisterValidatorsFromAssemblyContaining<ArticleValidator>();
+                opt.DisableDataAnnotationsValidation = true;
+
+                opt.ValidatorOptions.LanguageManager.Culture=new System.Globalization.CultureInfo("tr");
+            });
 
             return services;
         }

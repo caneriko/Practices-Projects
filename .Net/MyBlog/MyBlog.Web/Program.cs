@@ -4,6 +4,7 @@ using MyBlog.Data.Context;
 using MyBlog.Data.Extensions;
 using MyBlog.Entity.Entities;
 using MyBlog.Service.Extensions;
+using NToastNotify;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -41,7 +42,15 @@ builder.Services.ConfigureApplicationCookie(config =>
 });
 
 // Add services to the container.
-builder.Services.AddControllersWithViews().AddRazorRuntimeCompilation();
+builder.Services.AddControllersWithViews()
+    .AddNToastNotifyToastr(new ToastrOptions()
+    {
+        PositionClass=ToastPositions.TopRight,
+        TimeOut=3000
+        
+
+    })
+    .AddRazorRuntimeCompilation();
 
 builder.Services.AddDbContext<MyBlogDbContext>(options =>
 {
@@ -58,6 +67,7 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+app.UseNToastNotify();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 

@@ -16,8 +16,8 @@ namespace MyBlog.Service.Services.Abstractions
 
         Task<ArticleViewModel> GetArticleWithCategoryNonDeletedAsync(Guid id);
 
-        Task UpdateArticleAsync(ArticleUpdateViewModel articleUpdate);
+        Task<string> UpdateArticleAsync(ArticleUpdateViewModel articleUpdate);
 
-        Task SafeDeleteArticleAsync(Guid id);
+        Task<string> SafeDeleteArticleAsync(Guid id);
     }
 }

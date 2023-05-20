@@ -16,6 +16,8 @@ namespace MyBlog.Service.AutoMapper.Articles
             CreateMap<Article, ArticleViewModel>().ReverseMap();
             CreateMap<Article, ArticleUpdateViewModel>().ReverseMap();
             CreateMap<ArticleViewModel, ArticleUpdateViewModel>().ReverseMap();
+            CreateMap<ArticleAddViewModel, Article>().ReverseMap();
+
         }
     }
 }

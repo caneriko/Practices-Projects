@@ -1,6 +1,14 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Lenovo\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MyBlog.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\MyBlog.Web.bundle.scp.css"
     },

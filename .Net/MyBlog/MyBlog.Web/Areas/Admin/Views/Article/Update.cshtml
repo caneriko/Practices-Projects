@@ -11,6 +11,7 @@
                 <h5 class="card-header"></h5>
                 <form asp-controller="article" asp-action="update" method="post" enctype="multipart/form-data">
                     <div class="card-body">
+                        <div asp-validation-summary="ModelOnly"></div>
                         <input type="hidden" asp-for="Id" />
                         <div class="form-group">
                             <label class="form-label">Kategori</label>
@@ -21,10 +22,14 @@
                         <div class="form-group">
                             <label class="form-label" asp-for="Title">Başlık</label>
                             <input type="text" asp-for="Title" class="form-control mb-3" id="defaultFormControlInput" placeholder="Başlık Giriniz" aria-describedby="defaultFormControlHelp">
+                            <span asp-validation-for="Title" class="text-danger"></span>
+
                         </div>
                         <div class="form-group">
                             <label class="form-label" asp-for="Content">İçerik</label>
                             <textarea type="text" asp-for="Content" class="form-control mb-3" id="defaultFormControlInput" placeholder="İçerik Yazınız" aria-describedby="defaultFormControlHelp"></textarea>
+                            <span asp-validation-for="Content" class="text-danger"></span>
+
                         </div>
                     </div>
                     <div class="form-group"> <button type="submit" class="btn btn-primary btn-block">Kaydet</button> </div>

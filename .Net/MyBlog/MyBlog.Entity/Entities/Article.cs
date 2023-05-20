@@ -14,7 +14,7 @@ namespace MyBlog.Entity.Entities
             
         }
 
-        public Article(string title, string content, Guid userId, Guid categoryId,Guid imageId)
+        public Article(string title, string content, Guid userId, Guid categoryId,Guid imageId,string createdBy )
         {
             Title=title;
             Content = content;
