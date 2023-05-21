@@ -70,11 +70,9 @@ if (!app.Environment.IsDevelopment())
 app.UseNToastNotify();
 app.UseHttpsRedirection();
 app.UseStaticFiles();
-
-
 app.UseSession();
-app.UseRouting();
 
+app.UseRouting();
 app.UseAuthentication();
 app.UseAuthorization();
 

@@ -8,6 +8,7 @@ using MyBlog.Data.Repositories.Abstarctions;
 using MyBlog.Data.Repositories.Concretes;
 using MyBlog.Data.UnitOfWorks;
 using MyBlog.Service.FluentValidations;
+using MyBlog.Service.Helpers.Images;
 using MyBlog.Service.Services.Abstractions;
 using MyBlog.Service.Services.Concrete;
 using System;
@@ -25,6 +26,7 @@ namespace MyBlog.Service.Extensions
         {
             services.AddScoped<IArticleService, ArticleService>();
             services.AddScoped<ICategoryService, CategoryService>();
+            services.AddScoped<IImageHelper,ImageHelper>();
 
             services.AddAutoMapper(Assembly.GetExecutingAssembly());
 

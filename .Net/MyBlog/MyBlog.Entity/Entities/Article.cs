@@ -19,11 +19,12 @@ namespace MyBlog.Entity.Entities
             Title=title;
             Content = content;
             UserId=userId;
-            CategoryId=categoryId;
-            ImageId=imageId;
+            CategoryId= categoryId;
+            ImageId = imageId;
+            CreatedBy= createdBy;
         }
 
-        
+
         public string Title { get; set; }
 
         public string Content { get; set; }

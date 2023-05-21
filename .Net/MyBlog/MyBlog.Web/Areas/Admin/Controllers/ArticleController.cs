@@ -65,11 +65,6 @@ namespace MyBlog.Web.Areas.Admin.Controllers
 
             }
 
-
-
-            return View();
-            
-
         }
 
         [HttpGet]

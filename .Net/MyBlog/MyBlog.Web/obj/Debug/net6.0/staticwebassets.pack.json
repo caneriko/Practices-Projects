@@ -21,8 +21,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\images\\article-images\\deneme3_559.jpeg",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme3_559.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\images\\article-images\\resimli2_330.jpg",
+      "PackagePath": "staticwebassets\\images\\article-images\\resimli2_330.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\images\\article-images\\resimliilkmakale_934.jpg",
+      "PackagePath": "staticwebassets\\images\\article-images\\resimliilkmakale_934.jpg"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\js\\articleIndex.js",
       "PackagePath": "staticwebassets\\js\\articleIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\js\\categoryAdd.js",
+      "PackagePath": "staticwebassets\\js\\categoryAdd.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\js\\categoryIndex.js",
+      "PackagePath": "staticwebassets\\js\\categoryIndex.js"
     },
     {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\js\\site.js",

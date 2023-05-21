@@ -1,4 +1,5 @@
-﻿using MyBlog.Entity.ViewModels.Categories;
+﻿using MyBlog.Entity.Entities;
+using MyBlog.Entity.ViewModels.Categories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,6 +19,8 @@ namespace MyBlog.Entity.ViewModels.Articles
         public string Content { get; set; }
 
         public DateTime CreatedDate { get; set; }
+
+        public Image Image { get; set; }
 
         public string CreatedBy { get; set; }
 
