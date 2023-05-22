@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using MyBlog.Data.Context;
 using MyBlog.Data.Extensions;
 using MyBlog.Entity.Entities;
+using MyBlog.Service.Describers;
 using MyBlog.Service.Extensions;
 using NToastNotify;
 
@@ -18,7 +19,10 @@ builder.Services.AddIdentity<AppUser, AppRole>( options=>
     options.Password.RequireUppercase = false;
     options.Password.RequireLowercase = false;
 }
-    ).AddRoleManager<RoleManager<AppRole>>().AddEntityFrameworkStores<MyBlogDbContext>().AddDefaultTokenProviders();
+    ).AddRoleManager<RoleManager<AppRole>>()
+    .AddErrorDescriber<CustomIdentityErrorDescriber>()
+    .AddEntityFrameworkStores<MyBlogDbContext>()
+    .AddDefaultTokenProviders();
 
 builder.Services.ConfigureApplicationCookie(config =>
 {

@@ -12,6 +12,9 @@ namespace MyBlog.Service.Services.Abstractions
     {
         Task<List<ArticleViewModel>> GetAllArticlesWithCategoryNonDeletedAsync();
 
+        Task<List<ArticleViewModel>> GetAllDeletedArticlesWithCategoryAsync();
+
+
         Task CreateArticleAsync(ArticleAddViewModel articleAddViewModel);
 
         Task<ArticleViewModel> GetArticleWithCategoryNonDeletedAsync(Guid id);
@@ -19,5 +22,6 @@ namespace MyBlog.Service.Services.Abstractions
         Task<string> UpdateArticleAsync(ArticleUpdateViewModel articleUpdate);
 
         Task<string> SafeDeleteArticleAsync(Guid id);
+        Task<string> UndoDeleteArticleAsync(Guid id);
     }
 }
