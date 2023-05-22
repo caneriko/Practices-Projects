@@ -1,0 +1,4 @@
+.img-cropped {
+    object-fit: cover;
+    height: 250 px;
+}
