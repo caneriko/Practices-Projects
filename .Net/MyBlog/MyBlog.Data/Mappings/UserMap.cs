@@ -64,7 +64,7 @@ namespace MyBlog.Data.Mappings
                 EmailConfirmed = true,
                 PhoneNumberConfirmed = true,
                 SecurityStamp = Guid.NewGuid().ToString(),
-                ImageId = Guid.Parse("3435C2A1-305D-4105-9BBC-9F7327686546")
+                ImageId = Guid.Parse("C213FA88-5AD0-4B26-A1C9-9D1D793DAA3F")
 
             };
 

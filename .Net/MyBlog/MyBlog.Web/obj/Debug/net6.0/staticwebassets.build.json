@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Vj1IWK78oeaOM0/vSZAp8Wd2QaHMkZL7JUGIF8Ob/6I=",
+  "Hash": "zbHPyNjlxen6ikNw2wcFAWQBmDaqbl7kpJo0WCnA8DU=",
   "Source": "MyBlog.Web",
   "BasePath": "_content/MyBlog.Web",
   "Mode": "Default",
@@ -202,6 +202,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\article-images\\resimliilkmakale_934.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\images\\user-images\\Caner5AYDIN_484.JPG",
+      "SourceId": "MyBlog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\",
+      "BasePath": "_content/MyBlog.Web",
+      "RelativePath": "images/user-images/Caner5AYDIN_484.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\user-images\\Caner5AYDIN_484.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\images\\user-images\\CanerAYDIN_494.png",
+      "SourceId": "MyBlog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\",
+      "BasePath": "_content/MyBlog.Web",
+      "RelativePath": "images/user-images/CanerAYDIN_494.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\user-images\\CanerAYDIN_494.png"
     },
     {
       "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\js\\articleIndex.js",

@@ -33,6 +33,14 @@
       "PackagePath": "staticwebassets\\images\\article-images\\resimliilkmakale_934.jpg"
     },
     {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\images\\user-images\\Caner5AYDIN_484.JPG",
+      "PackagePath": "staticwebassets\\images\\user-images\\Caner5AYDIN_484.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\images\\user-images\\CanerAYDIN_494.png",
+      "PackagePath": "staticwebassets\\images\\user-images\\CanerAYDIN_494.png"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\js\\articleIndex.js",
       "PackagePath": "staticwebassets\\js\\articleIndex.js"
     },

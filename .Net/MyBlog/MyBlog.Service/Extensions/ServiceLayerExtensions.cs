@@ -25,6 +25,7 @@ namespace MyBlog.Service.Extensions
         public static IServiceCollection LoadServiceLayerExtensions(this IServiceCollection services )
         {
             services.AddScoped<IArticleService, ArticleService>();
+            services.AddScoped<IUserService, UserService>();
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IImageHelper,ImageHelper>();
 

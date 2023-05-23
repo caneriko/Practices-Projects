@@ -16,6 +16,7 @@ namespace MyBlog.Service.AutoMapper.Users
             CreateMap<AppUser,UserViewModel>().ReverseMap();
             CreateMap<AppUser,UserAddViewModel>().ReverseMap();
             CreateMap<AppUser,UserUpdateViewModel>().ReverseMap();
+            CreateMap<AppUser,UserProfileViewModel>().ReverseMap();
         }
     }
 }
