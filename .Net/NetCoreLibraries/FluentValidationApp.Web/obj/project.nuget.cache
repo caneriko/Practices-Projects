@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rzN6P3NBgpit7oJUrIiqSC9a1Frs3+awQnKIVRPUpWGrylCqKv4bZOD41xsPBGz0PlP22ixWdYiMIHkE9bnnuQ==",
+  "dgSpecHash": "nmmzAl/Y4a1Uny88cAunNw5HxyR77LtOphNAKweyaqF0UyoAy/yPFY+n82XklR89eBxKmvLWCk7PDaaXOiWskg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\pizzaMVC\\NetCoreLibraries\\FluentValidationApp.Web\\FluentValidationApp.Web.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\NetCoreLibraries\\FluentValidationApp.Web\\FluentValidationApp.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",

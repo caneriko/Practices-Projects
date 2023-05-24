@@ -20,26 +20,17 @@ namespace MyBlog.Web.Areas.Admin.Controllers
     [Area("Admin")]
     public class UserController : Controller
     {
-        private readonly UserManager<AppUser> _userManager;
         private readonly IMapper _mapper;
-        private readonly RoleManager<AppRole> _roleManager;
         private readonly IToastNotification _toastNotification;
         private readonly IValidator<AppUser> _validator;
-        private readonly SignInManager<AppUser> _signInManager;
-        private readonly IImageHelper _imageHelper;
-        private readonly IUnitOfWork _unitOfWork;
         private readonly IUserService _userService;
 
-        public UserController(UserManager<AppUser> userManager, IMapper mapper, RoleManager<AppRole> roleManager, IToastNotification toastNotification, IValidator<AppUser> validator, SignInManager<AppUser> signInManager, IImageHelper imageHelper, IUnitOfWork unitOfWork)
+        public UserController(IMapper mapper, IToastNotification toastNotification, IValidator<AppUser> validator, IUserService userService)
         {
-            _userManager = userManager;
             _mapper = mapper;
-            _roleManager = roleManager;
             _toastNotification = toastNotification;
             _validator = validator;
-            _signInManager = signInManager;
-            _imageHelper = imageHelper;
-            _unitOfWork = unitOfWork;
+            _userService = userService;
         }
 
         public async Task<IActionResult> Index()
@@ -79,9 +70,9 @@ namespace MyBlog.Web.Areas.Admin.Controllers
                 }
                 else
                 {
-                        result.AddToIdentityModelState(this.ModelState);
-                        validation.AddToModelState(this.ModelState);
-                        return View(new UserAddViewModel { Roles = roles });
+                    result.AddToIdentityModelState(this.ModelState);
+                    validation.AddToModelState(this.ModelState);
+                    return View(new UserAddViewModel { Roles = roles });
                 }
             }
 
@@ -115,7 +106,7 @@ namespace MyBlog.Web.Areas.Admin.Controllers
 
                 if (ModelState.IsValid)
                 {
-                   var map = _mapper.Map(userUpdate, user);
+                    var map = _mapper.Map(userUpdate, user);
                     var validation = await _validator.ValidateAsync(map);
 
                     if (validation.IsValid)
@@ -134,7 +125,7 @@ namespace MyBlog.Web.Areas.Admin.Controllers
                         {
                             result.AddToIdentityModelState(this.ModelState);
                             return View(new UserUpdateViewModel { Roles = roles });
-                            
+
                         }
                     }
                     else
@@ -169,88 +160,45 @@ namespace MyBlog.Web.Areas.Admin.Controllers
         [HttpGet]
         public async Task<IActionResult> Profile()
         {
-            var user = await _userManager.GetUserAsync(HttpContext.User);
-            var getImage = await _unitOfWork.GetRepository<AppUser>().GetAsync(x => x.Id == user.Id, x=>x.Image);
+            var profile = await _userService.GetUserProfileAsync();
 
-            var map = _mapper.Map<UserProfileViewModel>(user);
-            map.Image.FileName = getImage.Image.FileName;
-            return View(map);
+            return View(profile);
         }
 
         [HttpPost]
         public async Task<IActionResult> Profile(UserProfileViewModel userProfile)
         {
-            var user = await _userManager.GetUserAsync(HttpContext.User);
 
             if (ModelState.IsValid)
             {
-                var isVerified = await _userManager.CheckPasswordAsync(user, userProfile.CurrentPassword);
+                var result = await _userService.UserProfileUpdateAsync(userProfile);
 
-                if (isVerified && userProfile.NewPassword != null && userProfile.Photo!=null)
+                if (result)
                 {
-                    var result = await _userManager.ChangePasswordAsync(user, userProfile.CurrentPassword, userProfile.NewPassword);
+                    _toastNotification.AddSuccessToastMessage("Profil güncelleme tamamlandı", new ToastrOptions { Title = "Başarılı!" });
 
-                    if (result.Succeeded)
-                    {
-                        await _userManager.UpdateSecurityStampAsync(user);
-                        await _signInManager.SignOutAsync();
-                        await _signInManager.PasswordSignInAsync(user, userProfile.NewPassword, true, false);
-
-                        user.FirstName = userProfile.FirstName;
-                        user.LastName = userProfile.LastName;
-                        user.PhoneNumber = userProfile.PhoneNumber;
-
-                        var imageUpload = await _imageHelper.Upload($"{userProfile.FirstName} {userProfile.LastName}" , userProfile.Photo, ImageType.User);
-
-                        Image image = new(imageUpload.FullName,  userProfile.Photo.ContentType, user.Email);
-
-                        await _unitOfWork.GetRepository<Image>().AddAsync(image);
-
-                        user.ImageId = image.Id;
-                        await _userManager.UpdateAsync(user);
-                        await _unitOfWork.SaveAsync();
-
-                        _toastNotification.AddSuccessToastMessage("Şifreniz ve bilgileriniz başarıyla değiştirilmiştir");
-                        return View();
-
-                    }
-                    else
-                    {
-                        result.AddToIdentityModelState(ModelState);
-                        return View();
-                    }
-
-                }
-                else if (isVerified && userProfile.Photo != null)
-                {
-                    await _userManager.UpdateSecurityStampAsync(user);
-
-                    user.FirstName = userProfile.FirstName;
-                    user.LastName = userProfile.LastName;
-                    user.PhoneNumber = userProfile.PhoneNumber;
-
-                    var imageUpload = await _imageHelper.Upload($"{userProfile.FirstName} {userProfile.LastName}", userProfile.Photo, ImageType.User);
-
-                    Image image = new(imageUpload.FullName, userProfile.Photo.ContentType, user.Email);
-
-                    await _unitOfWork.GetRepository<Image>().AddAsync(image);
-
-                    user.ImageId = image.Id;
-                    await _userManager.UpdateAsync(user);
-                    await _unitOfWork.SaveAsync();
-
-                    _toastNotification.AddSuccessToastMessage("Bilgileriniz başarıyla değiştirilmiştir");
-                    return View(userProfile);
+                    return RedirectToAction("Index", "Home", new { Area = "Admin" });
                 }
                 else
                 {
-                    _toastNotification.AddErrorToastMessage("Bilgileriniz güncellenirken bir hata oluştu");
-                    return View(userProfile);
+                    var profile = await _userService.GetUserProfileAsync();
+
+                    _toastNotification.AddErrorToastMessage("Profil güncelleme tamamlanamadı", new ToastrOptions { Title = "Başarısız!" });
+                    return View(profile);
                 }
-            } 
+            }
 
-
-            return View();
+            else
+                return NotFound();
         }
+
+
+
     }
+
 }
+
+
+
+
+

@@ -18,13 +18,10 @@
     totalRevenueChartOptions = {
       series: [
         {
-          name: '2021',
-          data: [18, 7, 15, 29, 18, 12, 9]
+          
+          data: [ 7, 15, 29, 18, 12, 9,12,1,3,4,5,6]
         },
-        {
-          name: '2020',
-          data: [-13, -18, -9, -14, -5, -17, -15]
-        }
+        
       ],
       chart: {
         height: 300,
@@ -35,7 +32,7 @@
       plotOptions: {
         bar: {
           horizontal: false,
-          columnWidth: '33%',
+          columnWidth: '53%',
           borderRadius: 12,
           startingShape: 'rounded',
           endingShape: 'rounded'
@@ -78,7 +75,7 @@
         }
       },
       xaxis: {
-        categories: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul'],
+        categories: ['Ocak', 'Subat', 'Mart', 'Nisan', 'Mayis', 'Haziran', 'Temmuz', 'Agustos', 'Eylul','Ekim','Kasim','Aralik'],
         labels: {
           style: {
             fontSize: '13px',
@@ -107,7 +104,7 @@
             plotOptions: {
               bar: {
                 borderRadius: 10,
-                columnWidth: '32%'
+                columnWidth: '62%'
               }
             }
           }
@@ -118,7 +115,7 @@
             plotOptions: {
               bar: {
                 borderRadius: 10,
-                columnWidth: '35%'
+                columnWidth: '65%'
               }
             }
           }
@@ -129,7 +126,7 @@
             plotOptions: {
               bar: {
                 borderRadius: 10,
-                columnWidth: '42%'
+                columnWidth: '62%'
               }
             }
           }
@@ -140,7 +137,7 @@
             plotOptions: {
               bar: {
                 borderRadius: 10,
-                columnWidth: '48%'
+                columnWidth: '68%'
               }
             }
           }
@@ -151,7 +148,7 @@
             plotOptions: {
               bar: {
                 borderRadius: 10,
-                columnWidth: '40%'
+                columnWidth: '60%'
               }
             }
           }
@@ -162,7 +159,7 @@
             plotOptions: {
               bar: {
                 borderRadius: 11,
-                columnWidth: '48%'
+                columnWidth: '68%'
               }
             }
           }
@@ -173,7 +170,7 @@
             plotOptions: {
               bar: {
                 borderRadius: 10,
-                columnWidth: '30%'
+                columnWidth: '60%'
               }
             }
           }
@@ -184,7 +181,7 @@
             plotOptions: {
               bar: {
                 borderRadius: 10,
-                columnWidth: '35%'
+                columnWidth: '65%'
               }
             }
           }
@@ -195,7 +192,7 @@
             plotOptions: {
               bar: {
                 borderRadius: 10,
-                columnWidth: '28%'
+                columnWidth: '68%'
               }
             }
           }
@@ -206,7 +203,7 @@
             plotOptions: {
               bar: {
                 borderRadius: 10,
-                columnWidth: '32%'
+                columnWidth: '62%'
               }
             }
           }
@@ -217,7 +214,7 @@
             plotOptions: {
               bar: {
                 borderRadius: 10,
-                columnWidth: '37%'
+                columnWidth: '67%'
               }
             }
           }
@@ -228,7 +225,7 @@
             plotOptions: {
               bar: {
                 borderRadius: 10,
-                columnWidth: '45%'
+                columnWidth: '65%'
               }
             }
           }
@@ -239,7 +236,7 @@
             plotOptions: {
               bar: {
                 borderRadius: 10,
-                columnWidth: '52%'
+                columnWidth: '62%'
               }
             }
           }

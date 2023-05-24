@@ -33,6 +33,14 @@
       "PackagePath": "staticwebassets\\images\\article-images\\resimliilkmakale_934.jpg"
     },
     {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\images\\user-images\\Caner556AYDIN_499.JPG",
+      "PackagePath": "staticwebassets\\images\\user-images\\Caner556AYDIN_499.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\images\\user-images\\Caner55AYDIN_609.jpg",
+      "PackagePath": "staticwebassets\\images\\user-images\\Caner55AYDIN_609.jpg"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\images\\user-images\\Caner5AYDIN_484.JPG",
       "PackagePath": "staticwebassets\\images\\user-images\\Caner5AYDIN_484.JPG"
     },
@@ -51,6 +59,10 @@
     {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\js\\categoryIndex.js",
       "PackagePath": "staticwebassets\\js\\categoryIndex.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\js\\dashboard-index.js",
+      "PackagePath": "staticwebassets\\js\\dashboard-index.js"
     },
     {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\js\\site.js",

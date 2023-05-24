@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zbHPyNjlxen6ikNw2wcFAWQBmDaqbl7kpJo0WCnA8DU=",
+  "Hash": "T0WKw9/SK5jq8f9eEaxV95mLWgrJcwtZ8TjUnAjP66M=",
   "Source": "MyBlog.Web",
   "BasePath": "_content/MyBlog.Web",
   "Mode": "Default",
@@ -204,6 +204,40 @@
       "OriginalItemSpec": "wwwroot\\images\\article-images\\resimliilkmakale_934.jpg"
     },
     {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\images\\user-images\\Caner556AYDIN_499.JPG",
+      "SourceId": "MyBlog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\",
+      "BasePath": "_content/MyBlog.Web",
+      "RelativePath": "images/user-images/Caner556AYDIN_499.JPG",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\user-images\\Caner556AYDIN_499.JPG"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\images\\user-images\\Caner55AYDIN_609.jpg",
+      "SourceId": "MyBlog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\",
+      "BasePath": "_content/MyBlog.Web",
+      "RelativePath": "images/user-images/Caner55AYDIN_609.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\user-images\\Caner55AYDIN_609.jpg"
+    },
+    {
       "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\images\\user-images\\Caner5AYDIN_484.JPG",
       "SourceId": "MyBlog.Web",
       "SourceType": "Discovered",
@@ -287,6 +321,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\categoryIndex.js"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\js\\dashboard-index.js",
+      "SourceId": "MyBlog.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\",
+      "BasePath": "_content/MyBlog.Web",
+      "RelativePath": "js/dashboard-index.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\dashboard-index.js"
     },
     {
       "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\MyBlog\\MyBlog.Web\\wwwroot\\js\\site.js",

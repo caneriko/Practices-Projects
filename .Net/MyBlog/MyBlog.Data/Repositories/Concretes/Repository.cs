@@ -36,7 +36,13 @@ namespace MyBlog.Data.Repositories.Concretes
 
         public async Task<int> CountAsync(Expression<Func<T, bool>> predicate = null)
         {
-            return await _dbSet.CountAsync(predicate);
+            if (predicate is not null)
+                return await _dbSet.CountAsync(predicate);
+
+            return await _dbSet.CountAsync();
+
+
+
         }
 
         public async Task DeleteAsync(T entity)

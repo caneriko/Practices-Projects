@@ -26,6 +26,7 @@ namespace MyBlog.Service.Extensions
         {
             services.AddScoped<IArticleService, ArticleService>();
             services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IDashboardService, DashboardService>();
             services.AddScoped<ICategoryService, CategoryService>();
             services.AddScoped<IImageHelper,ImageHelper>();
 

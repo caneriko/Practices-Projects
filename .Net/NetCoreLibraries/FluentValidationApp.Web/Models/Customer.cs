@@ -10,7 +10,7 @@
 
         public int Age { get; set; }
 
-
         public DateTime? BirthDay { get; set; }
-    }
+
+     }
 }
