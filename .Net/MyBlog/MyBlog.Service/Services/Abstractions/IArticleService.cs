@@ -23,5 +23,12 @@ namespace MyBlog.Service.Services.Abstractions
 
         Task<string> SafeDeleteArticleAsync(Guid id);
         Task<string> UndoDeleteArticleAsync(Guid id);
+
+        Task<ArticleListViewModel> GetAllByPagingAsync(Guid? categoryId, int currentPage = 1, int pageSize = 3, bool isAscending = false);
+
+
+        Task<ArticleListViewModel> SearchAsync(string keyword, int currentPage = 1, int pageSize = 3, bool isAscending = false);
+
+
     }
 }

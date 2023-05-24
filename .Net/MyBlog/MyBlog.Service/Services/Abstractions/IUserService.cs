@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using MyBlog.Entity.Entities;
+using MyBlog.Entity.ViewModels.Articles;
 using MyBlog.Entity.ViewModels.Users;
 using System;
 using System.Collections.Generic;
@@ -20,5 +21,8 @@ namespace MyBlog.Service.Services.Abstractions
         Task<string> GetUserRoleAsync(AppUser user);
         Task<UserProfileViewModel> GetUserProfileAsync();
         Task<bool> UserProfileUpdateAsync(UserProfileViewModel userProfile);
+
+       
+
     }
 }
