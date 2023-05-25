@@ -1,4 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MyBlog.Data.UnitOfWorks;
+using MyBlog.Entity.Entities;
 using MyBlog.Service.Services.Abstractions;
 using MyBlog.Web.Models;
 using System.Diagnostics;
@@ -11,10 +13,16 @@ namespace MyBlog.Web.Controllers
 
         private readonly IArticleService _articleService;
 
-        public HomeController(ILogger<HomeController> logger, IArticleService articleService)
+        private readonly IHttpContextAccessor _httpContextAccessor;
+
+        private readonly IUnitOfWork _unitOfWork;
+
+        public HomeController(ILogger<HomeController> logger, IArticleService articleService, IHttpContextAccessor httpContextAccessor, IUnitOfWork unitOfWork)
         {
             _logger = logger;
             _articleService = articleService;
+            _httpContextAccessor = httpContextAccessor;
+            _unitOfWork = unitOfWork;
         }
 
         [HttpGet]
@@ -40,8 +48,30 @@ namespace MyBlog.Web.Controllers
 
         public async Task<IActionResult> Detail(Guid id) 
         {
-            var article = await _articleService.GetArticleWithCategoryNonDeletedAsync(id);
-            return View(article);
+            var ipAddress = _httpContextAccessor.HttpContext.Connection.RemoteIpAddress.MapToIPv4().ToString();
+
+            var articleVisitors = await _unitOfWork.GetRepository<ArticleVisitor>().GetAllAsync(null, x=>x.Visitor, y=>y.Article);
+
+            var article = await _unitOfWork.GetRepository<Article>().GetAsync(x => x.Id == id);
+
+            var result = await _articleService.GetArticleWithCategoryNonDeletedAsync(id);
+
+            var visitor = await _unitOfWork.GetRepository<Visitor>().GetAsync(x => x.IpAddress == ipAddress);
+
+            var addArticleVisitors = new ArticleVisitor(article.Id, visitor.Id);
+
+            if (articleVisitors.Any(x => x.VisitorId == addArticleVisitors.VisitorId && x.ArticleId == addArticleVisitors.ArticleId))
+                return View(result);
+            else
+            {
+                await _unitOfWork.GetRepository<ArticleVisitor>().AddAsync(addArticleVisitors);
+                article.ViewCount += 1;
+
+                await _unitOfWork.GetRepository<Article>().UpdateAsync(article);
+                await _unitOfWork.SaveAsync();
+            }
+
+            return View(result);
         }
 
 

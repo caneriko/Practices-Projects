@@ -11,6 +11,7 @@ namespace MyBlog.Service.Services.Abstractions
     public interface ICategoryService
     {
         Task<List<CategoryViewModel>> GetAllCategoriesNonDeleted();
+        Task<List<CategoryViewModel>> GetAllCategoriesNonDeletedTake24();
         Task<List<CategoryViewModel>> GetAllCategoriesDeleted();
 
         Task CreateCategoryAsync(CategoryAddViewModel categoryAddViewModel);
@@ -21,5 +22,7 @@ namespace MyBlog.Service.Services.Abstractions
 
         Task<string> SafeDeleteCategoryAsync(Guid id);
         Task<string> UndoDeleteCategoryAsync(Guid id);
+
+
     }
 }

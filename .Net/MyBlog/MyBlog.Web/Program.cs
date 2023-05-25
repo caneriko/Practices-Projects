@@ -5,6 +5,7 @@ using MyBlog.Data.Extensions;
 using MyBlog.Entity.Entities;
 using MyBlog.Service.Describers;
 using MyBlog.Service.Extensions;
+using MyBlog.Web.Filters.ArticleVisitors;
 using NToastNotify;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,7 +14,7 @@ builder.Services.LoadDataLayerExtensions(builder.Configuration);
 builder.Services.LoadServiceLayerExtensions();
 builder.Services.AddSession();
 
-builder.Services.AddIdentity<AppUser, AppRole>( options=>
+builder.Services.AddIdentity<AppUser, AppRole>(options =>
 {
     options.Password.RequireNonAlphanumeric = false;
     options.Password.RequireUppercase = false;
@@ -46,12 +47,15 @@ builder.Services.ConfigureApplicationCookie(config =>
 });
 
 // Add services to the container.
-builder.Services.AddControllersWithViews()
+builder.Services.AddControllersWithViews(opt =>
+{
+    opt.Filters.Add<ArticleVisitorFilter>();
+})
     .AddNToastNotifyToastr(new ToastrOptions()
     {
-        PositionClass=ToastPositions.TopRight,
-        TimeOut=3000
-        
+        PositionClass = ToastPositions.TopRight,
+        TimeOut = 3000
+
 
     })
     .AddRazorRuntimeCompilation();
@@ -86,10 +90,10 @@ app.UseEndpoints(endpoints =>
     endpoints.MapAreaControllerRoute(
        name: "Admin",
        areaName: "Admin",
-       pattern:"Admin/{controller=Home}/{action=Index}/{id?}"
+       pattern: "Admin/{controller=Home}/{action=Index}/{id?}"
         );
 
-        endpoints.MapDefaultControllerRoute();
+    endpoints.MapDefaultControllerRoute();
 });
 
 

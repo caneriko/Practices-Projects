@@ -114,5 +114,17 @@ namespace MyBlog.Service.Services.Concrete
 
             return category.Name;
         }
+
+       public async Task<List<CategoryViewModel>> GetAllCategoriesNonDeletedTake24()
+        {
+            var categories = await _unitOfWork.GetRepository<Category>().GetAllAsync(x => !x.IsDeleted);
+            var map = _mapper.Map<List<CategoryViewModel>>(categories);
+             
+
+            return map.Take(24).ToList();
+        }
+
+
+
     }
 }

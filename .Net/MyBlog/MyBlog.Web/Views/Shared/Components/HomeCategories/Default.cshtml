@@ -1,0 +1,15 @@
+﻿@using MyBlog.Entity.ViewModels.Categories;
+ @model List<CategoryViewModel>
+
+
+<div class="content">
+    <ul>
+        @foreach (var category in Model)
+        {
+            @*<li><a href="/Home/Search?Keyword=@category.Name.ToLower()">@category.Name</a></li>*@
+            <li><a asp-controller="Home" asp-action="index" asp-route-categoryId="@category.Id">@category.Name</a></li>
+        }
+    </ul>
+</div>
+
+
