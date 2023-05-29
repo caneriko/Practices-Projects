@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Victory.Repository/1.0.0": {
+        "dependencies": {
+          "Victory.Core": "1.0.0"
+        },
+        "runtime": {
+          "Victory.Repository.dll": {}
+        }
+      },
+      "Victory.Core/1.0.0": {
+        "runtime": {
+          "Victory.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Victory.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Victory.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

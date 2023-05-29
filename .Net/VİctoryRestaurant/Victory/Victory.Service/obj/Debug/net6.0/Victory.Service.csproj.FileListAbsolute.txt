@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\bin\Debug\net6.0\Victory.Service.deps.json
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\bin\Debug\net6.0\Victory.Service.dll
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\bin\Debug\net6.0\Victory.Service.pdb
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\bin\Debug\net6.0\Victory.Core.dll
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\bin\Debug\net6.0\Victory.Repository.dll
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\bin\Debug\net6.0\Victory.Repository.pdb
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\bin\Debug\net6.0\Victory.Core.pdb
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\obj\Debug\net6.0\Victory.Service.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\obj\Debug\net6.0\Victory.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\obj\Debug\net6.0\Victory.Service.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\obj\Debug\net6.0\Victory.Service.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\obj\Debug\net6.0\Victory.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\obj\Debug\net6.0\Victory.Service.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\obj\Debug\net6.0\Victory.Service.dll
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\obj\Debug\net6.0\refint\Victory.Service.dll
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\obj\Debug\net6.0\Victory.Service.pdb
+C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Service\obj\Debug\net6.0\ref\Victory.Service.dll

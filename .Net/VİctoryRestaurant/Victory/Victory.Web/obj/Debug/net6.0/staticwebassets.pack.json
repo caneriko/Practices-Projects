@@ -1,0 +1,769 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Victory.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Victory.Web.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\accounts.html",
+      "PackagePath": "staticwebassets\\victoryAdmin\\accounts.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\add-product.html",
+      "PackagePath": "staticwebassets\\victoryAdmin\\add-product.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\victoryAdmin\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\victoryAdmin\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\css\\templatemo-style.css",
+      "PackagePath": "staticwebassets\\victoryAdmin\\css\\templatemo-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\edit-product.html",
+      "PackagePath": "staticwebassets\\victoryAdmin\\edit-product.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\arrow-down.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\img\\arrow-down.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\img\\avatar.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\check-mark.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\img\\check-mark.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\notification-01.jpg",
+      "PackagePath": "staticwebassets\\victoryAdmin\\img\\notification-01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\notification-02.jpg",
+      "PackagePath": "staticwebassets\\victoryAdmin\\img\\notification-02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\notification-03.jpg",
+      "PackagePath": "staticwebassets\\victoryAdmin\\img\\notification-03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\product-image.jpg",
+      "PackagePath": "staticwebassets\\victoryAdmin\\img\\product-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\index.html",
+      "PackagePath": "staticwebassets\\victoryAdmin\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\AUTHORS.txt",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\AUTHORS.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\external\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\external\\jquery\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\index.html",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.min.css",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.min.js",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.structure.css",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.structure.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.structure.min.css",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.structure.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.theme.css",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.theme.min.css",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\package.json",
+      "PackagePath": "staticwebassets\\victoryAdmin\\jquery-ui-datepicker\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\victoryAdmin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\victoryAdmin\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\victoryAdmin\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\victoryAdmin\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\tooplate-scripts.js",
+      "PackagePath": "staticwebassets\\victoryAdmin\\js\\tooplate-scripts.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\login.html",
+      "PackagePath": "staticwebassets\\victoryAdmin\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\products.html",
+      "PackagePath": "staticwebassets\\victoryAdmin\\products.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\victoryAdmin\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\blog.html",
+      "PackagePath": "staticwebassets\\victoryTemp\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\contact.html",
+      "PackagePath": "staticwebassets\\victoryTemp\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fontAwesome.css",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\fontAwesome.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.eot",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\fonts\\flexslider-icon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.svg",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\fonts\\flexslider-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.ttf",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\fonts\\flexslider-icon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.woff",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\fonts\\flexslider-icon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\hero-slider.css",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\hero-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\owl-carousel.css",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\owl-carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\templatemo-style.css",
+      "PackagePath": "staticwebassets\\victoryTemp\\css\\templatemo-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\victoryTemp\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\victoryTemp\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\victoryTemp\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\victoryTemp\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\victoryTemp\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\victoryTemp\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\victoryTemp\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\victoryTemp\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\victoryTemp\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\victoryTemp\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\banner-bg.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\banner-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_item_01.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\blog_item_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_item_02.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\blog_item_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_item_03.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\blog_item_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_item_04.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\blog_item_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_post_01.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\blog_post_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_post_02.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\blog_post_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_post_03.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\blog_post_03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_post_04.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\blog_post_04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\book-bg.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\book-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\book_left_image.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\book_left_image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\breakfast_item.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\breakfast_item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\breakfast_menu.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\breakfast_menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\close.png",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_01.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\cook_01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_02.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\cook_02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_breakfast.png",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\cook_breakfast.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_dessert.png",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\cook_dessert.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_dinner.png",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\cook_dinner.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_lunch.png",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\cook_lunch.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\dinner_item.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\dinner_item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\dinner_menu.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\dinner_menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\heading-bg.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\heading-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\loading.gif",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\lunch_item.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\lunch_item.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\lunch_menu.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\lunch_menu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\next.png",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\prev.png",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\signup-bg.jpg",
+      "PackagePath": "staticwebassets\\victoryTemp\\img\\signup-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\index.html",
+      "PackagePath": "staticwebassets\\victoryTemp\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\main.js",
+      "PackagePath": "staticwebassets\\victoryTemp\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\victoryTemp\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\bootstrap.js",
+      "PackagePath": "staticwebassets\\victoryTemp\\js\\vendor\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\victoryTemp\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\jquery-1.11.2.min.js",
+      "PackagePath": "staticwebassets\\victoryTemp\\js\\vendor\\jquery-1.11.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js",
+      "PackagePath": "staticwebassets\\victoryTemp\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\npm.js",
+      "PackagePath": "staticwebassets\\victoryTemp\\js\\vendor\\npm.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\menu.html",
+      "PackagePath": "staticwebassets\\victoryTemp\\menu.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Victory.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Victory.Web.props",
+      "PackagePath": "build\\Victory.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Victory.Web.props",
+      "PackagePath": "buildMultiTargeting\\Victory.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Victory.Web.props",
+      "PackagePath": "buildTransitive\\Victory.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
