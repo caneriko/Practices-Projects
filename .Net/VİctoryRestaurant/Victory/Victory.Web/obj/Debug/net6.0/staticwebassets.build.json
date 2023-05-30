@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "UcctAnNYXQmRAA0d8Z2C51lWjnFdhq77vqnWNDcmKlA=",
+  "Hash": "B4somJbD2gsvtr0oH7b0UEVabyBbSijcBvLJZx5Qlx0=",
   "Source": "Victory.Web",
   "BasePath": "_content/Victory.Web",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Victory.Web\\wwwroot",
       "Source": "Victory.Web",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Victory.Web.styles.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Victory.Web.styles.css",
       "SourceId": "Victory.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "Victory.Web.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Victory.Web.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Victory.Web.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Victory.Web.bundle.scp.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Victory.Web.bundle.scp.css",
       "SourceId": "Victory.Web",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "Victory.Web.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Victory.Web.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Victory.Web.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\css\\site.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\favicon.ico",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\js\\site.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\accounts.html",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\accounts.html",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/accounts.html",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\accounts.html"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\add-product.html",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\add-product.html",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/add-product.html",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\add-product.html"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\css\\bootstrap.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\css\\fontawesome.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\css\\fontawesome.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/css/fontawesome.min.css",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\css\\fontawesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\css\\templatemo-style.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\css\\templatemo-style.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/css/templatemo-style.css",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\css\\templatemo-style.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\edit-product.html",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\edit-product.html",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/edit-product.html",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\edit-product.html"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\arrow-down.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\arrow-down.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/img/arrow-down.png",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\img\\arrow-down.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\avatar.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\avatar.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/img/avatar.png",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\img\\avatar.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\check-mark.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\check-mark.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/img/check-mark.png",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\img\\check-mark.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\notification-01.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\notification-01.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/img/notification-01.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\img\\notification-01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\notification-02.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\notification-02.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/img/notification-02.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\img\\notification-02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\notification-03.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\notification-03.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/img/notification-03.jpg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\img\\notification-03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\product-image.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\img\\product-image.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/img/product-image.jpg",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\img\\product-image.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\index.html",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\index.html",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/index.html",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\AUTHORS.txt",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\AUTHORS.txt",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/AUTHORS.txt",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\AUTHORS.txt"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\external\\jquery\\jquery.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\external\\jquery\\jquery.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/external/jquery/jquery.js",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\external\\jquery\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/images/ui-bg_glass_75_d0e5f5_1x400.png",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_75_d0e5f5_1x400.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/images/ui-bg_glass_85_dfeffc_1x400.png",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_85_dfeffc_1x400.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/images/ui-bg_glass_95_fef1ec_1x400.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_glass_95_fef1ec_1x400.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/images/ui-bg_gloss-wave_55_5c9ccc_500x100.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_gloss-wave_55_5c9ccc_500x100.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_f5f8f9_1x100.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_f5f8f9_1x100.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/images/ui-bg_inset-hard_100_fcfdfd_1x100.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-bg_inset-hard_100_fcfdfd_1x100.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/images/ui-icons_217bc0_256x240.png",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_217bc0_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/images/ui-icons_2e83ff_256x240.png",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_2e83ff_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/images/ui-icons_469bdd_256x240.png",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_469bdd_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/images/ui-icons_6da8d5_256x240.png",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_6da8d5_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/images/ui-icons_cd0a0a_256x240.png",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_cd0a0a_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/images/ui-icons_d8e7f3_256x240.png",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_d8e7f3_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/images/ui-icons_f9bd01_256x240.png",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\images\\ui-icons_f9bd01_256x240.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\index.html",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\index.html",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/index.html",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/jquery-ui.css",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/jquery-ui.js",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/jquery-ui.min.css",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/jquery-ui.min.js",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.structure.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.structure.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/jquery-ui.structure.css",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.structure.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.structure.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.structure.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/jquery-ui.structure.min.css",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.structure.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.theme.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.theme.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/jquery-ui.theme.css",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.theme.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.theme.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.theme.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/jquery-ui.theme.min.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\jquery-ui.theme.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\LICENSE.txt",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\LICENSE.txt",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/LICENSE.txt",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\package.json",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\jquery-ui-datepicker\\package.json",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/jquery-ui-datepicker/package.json",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\jquery-ui-datepicker\\package.json"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\bootstrap.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\Chart.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\Chart.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/js/Chart.min.js",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\js\\Chart.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\jquery-3.3.1.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\jquery-3.3.1.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/js/jquery-3.3.1.min.js",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\js\\jquery-3.3.1.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\moment.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\moment.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/js/moment.min.js",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\js\\moment.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\tooplate-scripts.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\js\\tooplate-scripts.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/js/tooplate-scripts.js",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\js\\tooplate-scripts.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\login.html",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\login.html",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/login.html",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\login.html"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\products.html",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\products.html",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/products.html",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\products.html"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.eot",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.svg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.ttf",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.woff",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.woff2",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.eot",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.svg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.ttf",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.woff",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.woff2",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.eot",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.svg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.ttf",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.woff",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.woff2",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryAdmin/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\victoryAdmin\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\blog.html",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\blog.html",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/blog.html",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\blog.html"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\contact.html",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\contact.html",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/contact.html",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\contact.html"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/bootstrap.css",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap-theme.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap-theme.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/bootstrap-theme.css",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\bootstrap-theme.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap-theme.css.map",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap-theme.css.map",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/bootstrap-theme.css.map",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\bootstrap-theme.css.map"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap-theme.min.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\bootstrap-theme.min.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/bootstrap-theme.min.css",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\bootstrap-theme.min.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fontAwesome.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fontAwesome.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/fontAwesome.css",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\fontAwesome.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.eot",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.eot",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/fonts/flexslider-icon.eot",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.eot"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.svg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.svg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/fonts/flexslider-icon.svg",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.svg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.ttf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.ttf",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/fonts/flexslider-icon.ttf",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.ttf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.woff",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.woff",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/fonts/flexslider-icon.woff",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\fonts\\flexslider-icon.woff"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\hero-slider.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\hero-slider.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/hero-slider.css",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\hero-slider.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\owl-carousel.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\owl-carousel.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/owl-carousel.css",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\owl-carousel.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\templatemo-style.css",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\css\\templatemo-style.css",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/css/templatemo-style.css",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\css\\templatemo-style.css"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\FontAwesome.otf",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.eot",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.svg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -2465,10 +2465,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.woff",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -2482,10 +2482,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -2499,10 +2499,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -2516,10 +2516,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -2533,10 +2533,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -2550,10 +2550,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -2567,10 +2567,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\banner-bg.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\banner-bg.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/banner-bg.jpg",
       "AssetKind": "All",
@@ -2584,10 +2584,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\banner-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_item_01.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_item_01.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/blog_item_01.jpg",
       "AssetKind": "All",
@@ -2601,10 +2601,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\blog_item_01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_item_02.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_item_02.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/blog_item_02.jpg",
       "AssetKind": "All",
@@ -2618,10 +2618,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\blog_item_02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_item_03.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_item_03.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/blog_item_03.jpg",
       "AssetKind": "All",
@@ -2635,10 +2635,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\blog_item_03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_item_04.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_item_04.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/blog_item_04.jpg",
       "AssetKind": "All",
@@ -2652,10 +2652,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\blog_item_04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_post_01.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_post_01.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/blog_post_01.jpg",
       "AssetKind": "All",
@@ -2669,10 +2669,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\blog_post_01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_post_02.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_post_02.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/blog_post_02.jpg",
       "AssetKind": "All",
@@ -2686,10 +2686,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\blog_post_02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_post_03.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_post_03.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/blog_post_03.jpg",
       "AssetKind": "All",
@@ -2703,10 +2703,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\blog_post_03.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_post_04.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\blog_post_04.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/blog_post_04.jpg",
       "AssetKind": "All",
@@ -2720,10 +2720,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\blog_post_04.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\book_left_image.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\book_left_image.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/book_left_image.jpg",
       "AssetKind": "All",
@@ -2737,10 +2737,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\book_left_image.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\book-bg.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\book-bg.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/book-bg.jpg",
       "AssetKind": "All",
@@ -2754,10 +2754,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\book-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\breakfast_item.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\breakfast_item.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/breakfast_item.jpg",
       "AssetKind": "All",
@@ -2771,10 +2771,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\breakfast_item.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\breakfast_menu.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\breakfast_menu.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/breakfast_menu.jpg",
       "AssetKind": "All",
@@ -2788,10 +2788,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\breakfast_menu.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\close.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\close.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/close.png",
       "AssetKind": "All",
@@ -2805,10 +2805,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\close.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_01.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_01.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/cook_01.jpg",
       "AssetKind": "All",
@@ -2822,10 +2822,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\cook_01.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_02.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_02.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/cook_02.jpg",
       "AssetKind": "All",
@@ -2839,10 +2839,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\cook_02.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_breakfast.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_breakfast.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/cook_breakfast.png",
       "AssetKind": "All",
@@ -2856,10 +2856,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\cook_breakfast.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_dessert.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_dessert.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/cook_dessert.png",
       "AssetKind": "All",
@@ -2873,10 +2873,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\cook_dessert.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_dinner.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_dinner.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/cook_dinner.png",
       "AssetKind": "All",
@@ -2890,10 +2890,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\cook_dinner.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_lunch.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\cook_lunch.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/cook_lunch.png",
       "AssetKind": "All",
@@ -2907,10 +2907,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\cook_lunch.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\dinner_item.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\dinner_item.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/dinner_item.jpg",
       "AssetKind": "All",
@@ -2924,10 +2924,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\dinner_item.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\dinner_menu.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\dinner_menu.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/dinner_menu.jpg",
       "AssetKind": "All",
@@ -2941,10 +2941,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\dinner_menu.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\heading-bg.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\heading-bg.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/heading-bg.jpg",
       "AssetKind": "All",
@@ -2958,10 +2958,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\heading-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\loading.gif",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\loading.gif",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/loading.gif",
       "AssetKind": "All",
@@ -2975,10 +2975,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\loading.gif"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\lunch_item.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\lunch_item.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/lunch_item.jpg",
       "AssetKind": "All",
@@ -2992,10 +2992,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\lunch_item.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\lunch_menu.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\lunch_menu.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/lunch_menu.jpg",
       "AssetKind": "All",
@@ -3009,10 +3009,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\lunch_menu.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\next.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\next.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/next.png",
       "AssetKind": "All",
@@ -3026,10 +3026,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\next.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\prev.png",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\prev.png",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/prev.png",
       "AssetKind": "All",
@@ -3043,10 +3043,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\prev.png"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\signup-bg.jpg",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\img\\signup-bg.jpg",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/img/signup-bg.jpg",
       "AssetKind": "All",
@@ -3060,10 +3060,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\img\\signup-bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\index.html",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\index.html",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/index.html",
       "AssetKind": "All",
@@ -3077,10 +3077,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\main.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\main.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/js/main.js",
       "AssetKind": "All",
@@ -3094,10 +3094,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\plugins.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\plugins.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/js/plugins.js",
       "AssetKind": "All",
@@ -3111,10 +3111,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\js\\plugins.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\bootstrap.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\bootstrap.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/js/vendor/bootstrap.js",
       "AssetKind": "All",
@@ -3128,10 +3128,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\js\\vendor\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\bootstrap.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/js/vendor/bootstrap.min.js",
       "AssetKind": "All",
@@ -3145,10 +3145,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\js\\vendor\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\jquery-1.11.2.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\jquery-1.11.2.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/js/vendor/jquery-1.11.2.min.js",
       "AssetKind": "All",
@@ -3162,10 +3162,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\js\\vendor\\jquery-1.11.2.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js",
       "AssetKind": "All",
@@ -3179,10 +3179,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\js\\vendor\\modernizr-2.8.3-respond-1.4.2.min.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\npm.js",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\js\\vendor\\npm.js",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/js/vendor/npm.js",
       "AssetKind": "All",
@@ -3196,10 +3196,10 @@
       "OriginalItemSpec": "wwwroot\\victoryTemp\\js\\vendor\\npm.js"
     },
     {
-      "Identity": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\menu.html",
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\victoryTemp\\menu.html",
       "SourceId": "Victory.Web",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\",
       "BasePath": "_content/Victory.Web",
       "RelativePath": "victoryTemp/menu.html",
       "AssetKind": "All",

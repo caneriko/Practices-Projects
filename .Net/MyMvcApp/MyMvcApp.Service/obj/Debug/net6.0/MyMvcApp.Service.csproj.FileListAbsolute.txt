@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\bin\Debug\net6.0\MyMvcApp.Service.deps.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\bin\Debug\net6.0\MyMvcApp.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\bin\Debug\net6.0\MyMvcApp.Service.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\bin\Debug\net6.0\MyMvcApp.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\bin\Debug\net6.0\MyMvcApp.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\bin\Debug\net6.0\MyMvcApp.Repository.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\bin\Debug\net6.0\MyMvcApp.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\obj\Debug\net6.0\MyMvcApp.Service.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\obj\Debug\net6.0\MyMvcApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\obj\Debug\net6.0\MyMvcApp.Service.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\obj\Debug\net6.0\MyMvcApp.Service.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\obj\Debug\net6.0\MyMvcApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\obj\Debug\net6.0\MyMvcApp.Service.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\obj\Debug\net6.0\MyMvcApp.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\obj\Debug\net6.0\refint\MyMvcApp.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\obj\Debug\net6.0\MyMvcApp.Service.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\MyMvcApp\MyMvcApp.Service\obj\Debug\net6.0\ref\MyMvcApp.Service.dll

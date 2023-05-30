@@ -1,3 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using System.Reflection;
+using Victory.Core.Services;
+using Victory.Core.UnitOfWork;
+using Victory.Repository;
+using Victory.Repository.UnitOfWork;
+using Victory.Service.Mapping;
+using Victory.Service.Services;
+
 namespace Victory.Web
 {
     public class Program
@@ -8,6 +17,20 @@ namespace Victory.Web
 
             // Add services to the container.
             builder.Services.AddControllersWithViews();
+
+            builder.Services.AddAutoMapper(typeof(SignUpProfile));
+
+            builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+            builder.Services.AddScoped<ISignUpService, SignUpService>();
+
+            builder.Services.AddDbContext<VictoryDbContext>(x =>
+            {
+                x.UseSqlServer(builder.Configuration.GetConnectionString("SqlCon"), opt =>
+                {
+                    opt.MigrationsAssembly(Assembly.GetAssembly(typeof(VictoryDbContext)).GetName().Name);
+                });
+            });
 
             var app = builder.Build();
 

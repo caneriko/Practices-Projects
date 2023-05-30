@@ -10,3 +10,15 @@ C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Core\obj\Debug\net6.0
 C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Core\obj\Debug\net6.0\refint\Victory.Core.dll
 C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Core\obj\Debug\net6.0\Victory.Core.pdb
 C:\Users\Lenovo\Desktop\VİctoryRestaurant\Victory\Victory.Core\obj\Debug\net6.0\ref\Victory.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\VİctoryRestaurant\Victory\Victory.Core\bin\Debug\net6.0\Victory.Core.deps.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\VİctoryRestaurant\Victory\Victory.Core\bin\Debug\net6.0\Victory.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\VİctoryRestaurant\Victory\Victory.Core\bin\Debug\net6.0\Victory.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\VİctoryRestaurant\Victory\Victory.Core\obj\Debug\net6.0\Victory.Core.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\VİctoryRestaurant\Victory\Victory.Core\obj\Debug\net6.0\Victory.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\VİctoryRestaurant\Victory\Victory.Core\obj\Debug\net6.0\Victory.Core.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\VİctoryRestaurant\Victory\Victory.Core\obj\Debug\net6.0\Victory.Core.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\VİctoryRestaurant\Victory\Victory.Core\obj\Debug\net6.0\Victory.Core.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\VİctoryRestaurant\Victory\Victory.Core\obj\Debug\net6.0\Victory.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\VİctoryRestaurant\Victory\Victory.Core\obj\Debug\net6.0\refint\Victory.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\VİctoryRestaurant\Victory\Victory.Core\obj\Debug\net6.0\Victory.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\VİctoryRestaurant\Victory\Victory.Core\obj\Debug\net6.0\ref\Victory.Core.dll
