@@ -28,7 +28,7 @@ namespace Victory.Core.ViewModels.User
 
         public string? PictureUrl { get; set; }
 
-        public ImageType ImageType { get; set; } = (ImageType)1;
+        public ImageType ImageType { get; set; } = ImageType.User;
 
 
 

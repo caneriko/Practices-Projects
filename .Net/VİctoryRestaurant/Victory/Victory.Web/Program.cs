@@ -11,6 +11,7 @@ using Victory.Core.Services;
 using Victory.Core.UnitOfWork;
 using Victory.Repository;
 using Victory.Repository.UnitOfWork;
+using Victory.Service.Describers;
 using Victory.Service.FluentValidations;
 using Victory.Service.Mapping;
 using Victory.Service.Services;
@@ -63,7 +64,8 @@ namespace Victory.Web
                 opt.Password.RequireNonAlphanumeric = false;
                 opt.Password.RequireUppercase = false;
                 opt.Password.RequireLowercase = false;
-            }).AddRoleManager<RoleManager<AppRole>>()
+            }).AddErrorDescriber<CustomIdentityErrorDescriber>()
+                .AddRoleManager<RoleManager<AppRole>>()
                 .AddEntityFrameworkStores<VictoryDbContext>()
                     .AddDefaultTokenProviders();
 

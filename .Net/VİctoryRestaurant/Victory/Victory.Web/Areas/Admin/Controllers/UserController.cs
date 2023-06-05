@@ -1,10 +1,13 @@
 ﻿using AutoMapper;
+using FluentValidation;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using NToastNotify;
+using System.ComponentModel.DataAnnotations;
 using Victory.Core.Entities;
 using Victory.Core.Services;
 using Victory.Core.ViewModels.User;
+using Victory.Service.Extensions;
 using Victory.Service.Services;
 using Victory.Service.ToastrMessages;
 
@@ -17,17 +20,19 @@ namespace Victory.Web.Areas.Admin.Controllers
         private readonly IUserService _userService;
         private readonly UserManager<AppUser> _userManager;
         private readonly IMapper _mapper;
-        
+        private readonly IValidator<AppUser> _validator;
 
-        public UserController(IUserService userService, IToastNotification toast, UserManager<AppUser> userManager, IMapper mapper)
+
+        public UserController(IUserService userService, IToastNotification toast, UserManager<AppUser> userManager, IMapper mapper, IValidator<AppUser> validator)
         {
             _userService = userService;
             _toast = toast;
             _userManager = userManager;
             _mapper = mapper;
+            _validator = validator;
         }
 
-        public  async Task<IActionResult> Index()
+        public async Task<IActionResult> Index()
         {
             var viewModel = await _userService.GetUserListAsync();
 
@@ -49,28 +54,41 @@ namespace Victory.Web.Areas.Admin.Controllers
         {
             ViewBag.Roles = await _userService.GetRolesAsync();
 
+
             if (ModelState.IsValid)
             {
-                var result = await _userService.AddAsync(viewModel);
+                var entity = _mapper.Map<AppUser>(viewModel);
 
-                if (result.Succeeded)
+                var validation = await _validator.ValidateAsync(entity);
+
+                if (validation.IsValid)
                 {
-                    _toast.AddSuccessToastMessage(ResultMessage.User.Add(viewModel.UserName), new ToastrOptions { Title = "Başarılı" });
-                    return RedirectToAction("Index", "User", new { Area = "Admin" });
+                    var result = await _userService.AddAsync(viewModel);
+
+                    if (result.Succeeded)
+                    {
+                        _toast.AddSuccessToastMessage(ResultMessage.User.Add(viewModel.UserName), new ToastrOptions { Title = "Başarılı" });
+                        return RedirectToAction("Index", "User", new { Area = "Admin" });
+
+                    }
+                    else
+                    {
+
+                        result.AddToIdentityModelState(this.ModelState);
+                        return View();
+
+                    }
 
                 }
                 else
                 {
-                    foreach (var error in result.Errors)
-                    {
-                        ModelState.AddModelError("", error.Description);
-                        return View();
-                    }
-                }
+                    validation.AddToModelState(this.ModelState);
+                    return View();
 
+                }
             }
 
-            return View();
+            return NotFound();
         }
 
 
@@ -96,7 +114,7 @@ namespace Victory.Web.Areas.Admin.Controllers
 
             var user = await _userService.GetAppUserByIdAsync(viewModel.Id);
 
-            if (user!=null)
+            if (user != null)
             {
 
                 if (ModelState.IsValid)
@@ -104,20 +122,31 @@ namespace Victory.Web.Areas.Admin.Controllers
 
                     var map = _mapper.Map(viewModel, user);
 
-                    user.SecurityStamp = Guid.NewGuid().ToString();
+                    var validation = await _validator.ValidateAsync(map);
 
-                    var result = await _userService.UpdateAsync(viewModel);
-
-                    if (result.Succeeded)
+                    if (validation.IsValid)
                     {
-                        _toast.AddSuccessToastMessage(ResultMessage.User.Update(viewModel.Email), new ToastrOptions { Title = "İşlem Başarılı" });
-                        return RedirectToAction("Index", "User", new { Area = "Admin" });
+                        user.SecurityStamp = Guid.NewGuid().ToString();
+
+                        var result = await _userService.UpdateAsync(viewModel);
+
+                        if (result.Succeeded)
+                        {
+                            _toast.AddSuccessToastMessage(ResultMessage.User.Update(viewModel.Email), new ToastrOptions { Title = "İşlem Başarılı" });
+                            return RedirectToAction("Index", "User", new { Area = "Admin" });
+                        }
+                        else
+                        {
+                            result.AddToIdentityModelState(this.ModelState);
+                            return View(viewModel);
+                        }
                     }
                     else
                     {
+                        validation.AddToModelState(this.ModelState);
                         return View(viewModel);
-                    }
 
+                    }
                 }
                 else
                 {
@@ -140,10 +169,7 @@ namespace Victory.Web.Areas.Admin.Controllers
             }
             else
             {
-                foreach (var error in result.identityResult.Errors)
-                {
-                    ModelState.AddModelError("", error.Description);
-                }
+                result.identityResult.AddToIdentityModelState(this.ModelState);
             }
 
             return NotFound();
@@ -155,7 +181,7 @@ namespace Victory.Web.Areas.Admin.Controllers
 
             var viewModel = await _userService.ProfileAsync(name);
 
- 
+
             return View(viewModel);
         }
 

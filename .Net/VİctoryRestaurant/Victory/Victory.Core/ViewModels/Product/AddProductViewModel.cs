@@ -1,10 +1,10 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Http;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
- 
-
+using Victory.Core.Enums;
 
 namespace Victory.Core.ViewModels.Product
 {
@@ -18,7 +18,11 @@ namespace Victory.Core.ViewModels.Product
 
         public int CategoryId { get; set; }
 
+        public IFormFile? Photo { get; set; }
 
+        public string? PictureUrl { get; set; }
+
+        public ImageType ImageType { get; set; } = ImageType.Article;
 
     }
 }

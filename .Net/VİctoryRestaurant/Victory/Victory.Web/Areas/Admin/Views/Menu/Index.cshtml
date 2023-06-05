@@ -74,7 +74,7 @@
                     </table>
                 </div>
                 <!-- table container -->
-                <a class="btn btn-primary btn-block text-uppercase mb-3" asp-area="admin" asp-controller="category" asp-action="add">
+                <a class="btn btn-primary btn-block text-uppercase mb-3" data-bs-toggle="modal" data-bs-target="#exampleModalCenter" >
                     Add new category
                 </a>
             </div>
@@ -82,3 +82,47 @@
     </div>
 </div>
 
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <form>
+
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Add Category</h5>
+                <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                    
+                    <div class="form-group col-lg-6">
+                        <label class="d-block form-label" style="color:black">Category Name</label>
+                        <input type="text"
+                               class="form-control validate" id="categoryName" />
+                    </div>
+                    <span ></span>
+                
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" data-keyboard="false" id="btnSave" class="btn btn-primary">Save changes</button>
+            </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+    {
+
+    <script src="~/js/categoryAdd.js"></script>
+    <script>
+        var app = app || {};
+        app.Urls = app.Urls || {};
+        app.Urls.baseUrl = '@Url.Content("~")';
+        app.Urls.categoryAddUrl = "@(Url.Action("AddWithAjax", "Category"))";
+        app.Urls.indexMenuUrl = "@(Url.Action("index", "menu"))";
+    </script>
+
+}

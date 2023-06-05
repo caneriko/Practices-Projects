@@ -14,6 +14,7 @@ namespace Victory.Service.Mapping
         public ArticleProfile()
         {
             CreateMap<Article, ArticleListViewModel>().ReverseMap();
+            CreateMap<Article, ArticleBlogViewModel>().ReverseMap();
             CreateMap<Article, UpdateArticleViewModel>().ReverseMap();
             CreateMap<Article, AddArticleViewModel>().ReverseMap();
         }

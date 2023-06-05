@@ -25,6 +25,22 @@
       "PackagePath": "staticwebassets\\images\\default_user.jpg"
     },
     {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\images\\product-images\\Classaptenttacitisociosqu_876.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\Classaptenttacitisociosqu_876.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\images\\product-images\\Nisinonvariustincidunt_388.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\Nisinonvariustincidunt_388.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\images\\product-images\\Nullamornarepurusmassa_365.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\Nullamornarepurusmassa_365.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\images\\product-images\\Vivamuseuismodlorem_816.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\Vivamuseuismodlorem_816.jpg"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\images\\product-images\\asyayemekleri_346.jpg",
       "PackagePath": "staticwebassets\\images\\product-images\\asyayemekleri_346.jpg"
     },
@@ -39,6 +55,14 @@
     {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\images\\user-images\\yeniUser_323.JPG",
       "PackagePath": "staticwebassets\\images\\user-images\\yeniUser_323.JPG"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\images\\user-images\\yeniUser_57.png",
+      "PackagePath": "staticwebassets\\images\\user-images\\yeniUser_57.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\js\\categoryAdd.js",
+      "PackagePath": "staticwebassets\\js\\categoryAdd.js"
     },
     {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\js\\site.js",

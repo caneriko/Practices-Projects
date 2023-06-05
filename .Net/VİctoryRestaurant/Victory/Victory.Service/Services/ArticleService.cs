@@ -92,6 +92,16 @@ namespace Victory.Service.Services
         }
 
 
+        public async Task<List<ArticleBlogViewModel>> GetBlogArticlesAsync()
+        {
+            var entities = await _unitOfWork.GetRepository<Article>().GetAllAsync(x=>x.IsActive==true);
+
+            var map = _mapper.Map<List<ArticleBlogViewModel>>(entities);
+
+            return map;
+
+        }
+
 
     }
 }

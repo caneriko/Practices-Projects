@@ -18,5 +18,7 @@ namespace Victory.Core.Entities
 
         public Category Category { get; set; }
 
+        public string? PictureUrl { get; set; }
+
     }
 }

@@ -91,6 +91,27 @@ namespace Victory.Web.Areas.Admin.Controllers
             return View(viewModel);
         }
 
+        [HttpPost]
+
+        public async Task<IActionResult> AddWithAjax([FromBody] AddCategoryViewModel viewModel)
+        {
+            var entity = _mapper.Map<Category>(viewModel);
+            var result = await _validator.ValidateAsync(entity);
+
+            if (result.IsValid)
+            {
+                _toast.AddSuccessToastMessage(ResultMessage.Category.Add(viewModel.Name), new ToastrOptions { Title = "Başarılı" });
+                await _categoryService.AddAsync(viewModel);
+                return Json(ResultMessage.Category.Add(viewModel.Name));
+            }
+            else
+            {
+                _toast.AddErrorToastMessage(result.Errors.First().ErrorMessage, new ToastrOptions { Title = "İşlem Başarısız" });
+                return Json(result.Errors.First().ErrorMessage);
+            }
+            
+        }
+
 
         public async Task<IActionResult> SafeDelete(int id)
         {

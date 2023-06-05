@@ -19,6 +19,6 @@ namespace Victory.Core.Services
 
         Task SafeDeleteAsync(int id);
 
-
+        Task<List<ArticleBlogViewModel>> GetBlogArticlesAsync();
     }
 }

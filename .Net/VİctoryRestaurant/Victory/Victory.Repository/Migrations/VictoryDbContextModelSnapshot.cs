@@ -156,21 +156,21 @@ namespace Victory.Repository.Migrations
                         new
                         {
                             Id = new Guid("16ea936c-7a28-4c30-86a2-9a9704b6115e"),
-                            ConcurrencyStamp = "0dda6657-7b6e-43a6-a54e-457c8bed9e61",
+                            ConcurrencyStamp = "fbfd9013-e924-476b-82e3-ee34b7362f22",
                             Name = "Superadmin",
                             NormalizedName = "SUPERADMIN"
                         },
                         new
                         {
                             Id = new Guid("7cb750cf-3612-4fb4-9f7d-a38ba8f16bf4"),
-                            ConcurrencyStamp = "912f1fc5-c194-49b5-96dd-f6e39fe400e4",
+                            ConcurrencyStamp = "3f01e7ab-76ad-4654-abc1-41b9bb9dd906",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         },
                         new
                         {
                             Id = new Guid("edf6c246-41d8-475f-8d92-41dddac3aefb"),
-                            ConcurrencyStamp = "65e89e53-8e8e-4ba7-a5e2-fae4efe92a82",
+                            ConcurrencyStamp = "1b4a4c61-5d98-4f17-ba61-9e51b0db8730",
                             Name = "User",
                             NormalizedName = "USER"
                         });
@@ -257,7 +257,7 @@ namespace Victory.Repository.Migrations
                         {
                             Id = new Guid("cb94223b-ccb8-4f2f-93d7-0df96a7f065c"),
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "bcf78e3f-99f6-4dc7-a70f-15c53a90ca79",
+                            ConcurrencyStamp = "850dc2dc-1b29-4147-ab07-34712c627e8b",
                             Email = "superadmin@gmail.com",
                             EmailConfirmed = true,
                             FirstName = "Caner",
@@ -265,11 +265,11 @@ namespace Victory.Repository.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "SUPERADMIN@GMAIL.COM",
                             NormalizedUserName = "SUPERADMIN@GMAIL.COM",
-                            PasswordHash = "AQAAAAEAACcQAAAAEAKxe6hIDO13o7ozhJYDT2gLnGRrOZlbaCMqXycTbM2tvKWzChKRaiVlD35D9EDtcQ==",
+                            PasswordHash = "AQAAAAEAACcQAAAAECrOBsQPDIKg+5ctFbrGYJcVWSitYMGYN/z5Asmm1qAoLWkbi5E6zLeBNmPK52Lyew==",
                             PhoneNumber = "+905439999999",
                             PhoneNumberConfirmed = true,
                             PictureUrl = "default_user.jpg",
-                            SecurityStamp = "2ba43b94-1557-4390-8610-f2ccd66987da",
+                            SecurityStamp = "eaa34ac4-48e9-492b-b3e8-84d637cbdbb5",
                             TwoFactorEnabled = false,
                             UserName = "superadmin@gmail.com"
                         },
@@ -277,7 +277,7 @@ namespace Victory.Repository.Migrations
                         {
                             Id = new Guid("3aa42229-1c0f-4630-8c1a-db879ecd0427"),
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "afa4287e-6a6c-4705-9182-2704482e3072",
+                            ConcurrencyStamp = "1bb4715b-48b7-4876-a7a9-6e029222a881",
                             Email = "admin@gmail.com",
                             EmailConfirmed = false,
                             FirstName = "Admin",
@@ -285,11 +285,11 @@ namespace Victory.Repository.Migrations
                             LockoutEnabled = false,
                             NormalizedEmail = "ADMIN@GMAIL.COM",
                             NormalizedUserName = "ADMIN@GMAIL.COM",
-                            PasswordHash = "AQAAAAEAACcQAAAAEFDtfvNVBapYw3N+NyFtE+xFuIu/VZDePpiU0zUGeM+7luO4YTPyzsuq9GHgNcyqfw==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEAQ9yi2DfF/Ibyd4OqJjOz6hhikMk8gFvOg7XQ/Jo6GrwDOTj1YVBNgSyJ31wul21Q==",
                             PhoneNumber = "+905439999988",
                             PhoneNumberConfirmed = false,
                             PictureUrl = "default_user.jpg",
-                            SecurityStamp = "bc5e03b9-02b7-4d32-9310-20db09cd69c9",
+                            SecurityStamp = "60d2aa18-e557-45ea-a320-f91d285982e4",
                             TwoFactorEnabled = false,
                             UserName = "admin@gmail.com"
                         });
@@ -305,13 +305,13 @@ namespace Victory.Repository.Migrations
 
                     b.Property<string>("Content")
                         .IsRequired()
-                        .HasMaxLength(1000)
-                        .HasColumnType("nvarchar(1000)");
+                        .HasMaxLength(2500)
+                        .HasColumnType("nvarchar(2500)");
 
                     b.Property<DateTime>("CreatedDate")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2023, 6, 4, 12, 1, 51, 646, DateTimeKind.Local).AddTicks(5077));
+                        .HasDefaultValue(new DateTime(2023, 6, 5, 12, 53, 34, 621, DateTimeKind.Local).AddTicks(9976));
 
                     b.Property<bool>("IsActive")
                         .HasColumnType("bit");
@@ -321,8 +321,8 @@ namespace Victory.Repository.Migrations
 
                     b.Property<string>("Title")
                         .IsRequired()
-                        .HasMaxLength(20)
-                        .HasColumnType("nvarchar(20)");
+                        .HasMaxLength(30)
+                        .HasColumnType("nvarchar(30)");
 
                     b.HasKey("Id");
 
@@ -344,7 +344,7 @@ namespace Victory.Repository.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2023, 6, 4, 12, 1, 51, 646, DateTimeKind.Local).AddTicks(5912));
+                        .HasDefaultValue(new DateTime(2023, 6, 5, 12, 53, 34, 622, DateTimeKind.Local).AddTicks(1236));
 
                     b.Property<bool>("IsActive")
                         .HasColumnType("bit");
@@ -370,7 +370,7 @@ namespace Victory.Repository.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2023, 6, 4, 12, 1, 51, 646, DateTimeKind.Local).AddTicks(6614));
+                        .HasDefaultValue(new DateTime(2023, 6, 5, 12, 53, 34, 622, DateTimeKind.Local).AddTicks(2411));
 
                     b.Property<string>("Email")
                         .IsRequired()
@@ -414,7 +414,7 @@ namespace Victory.Repository.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2023, 6, 4, 12, 1, 51, 646, DateTimeKind.Local).AddTicks(7580));
+                        .HasDefaultValue(new DateTime(2023, 6, 5, 12, 53, 34, 622, DateTimeKind.Local).AddTicks(9323));
 
                     b.Property<string>("Description")
                         .IsRequired()
@@ -428,6 +428,9 @@ namespace Victory.Repository.Migrations
                         .IsRequired()
                         .HasMaxLength(30)
                         .HasColumnType("nvarchar(30)");
+
+                    b.Property<string>("PictureUrl")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<decimal>("Price")
                         .HasColumnType("decimal(18,2)");
@@ -450,7 +453,7 @@ namespace Victory.Repository.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2023, 6, 4, 12, 1, 51, 646, DateTimeKind.Local).AddTicks(8358));
+                        .HasDefaultValue(new DateTime(2023, 6, 5, 12, 53, 34, 623, DateTimeKind.Local).AddTicks(1837));
 
                     b.Property<string>("FullName")
                         .IsRequired()
@@ -487,7 +490,7 @@ namespace Victory.Repository.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .ValueGeneratedOnAdd()
                         .HasColumnType("datetime2")
-                        .HasDefaultValue(new DateTime(2023, 6, 4, 12, 1, 51, 646, DateTimeKind.Local).AddTicks(9401));
+                        .HasDefaultValue(new DateTime(2023, 6, 5, 12, 53, 34, 623, DateTimeKind.Local).AddTicks(4406));
 
                     b.Property<string>("Email")
                         .IsRequired()
@@ -505,21 +508,21 @@ namespace Victory.Repository.Migrations
                         new
                         {
                             Id = 1,
-                            CreatedDate = new DateTime(2023, 6, 4, 12, 1, 51, 647, DateTimeKind.Local).AddTicks(708),
+                            CreatedDate = new DateTime(2023, 6, 5, 12, 53, 34, 624, DateTimeKind.Local).AddTicks(369),
                             Email = "caner@gmail.com",
                             IsActive = true
                         },
                         new
                         {
                             Id = 2,
-                            CreatedDate = new DateTime(2023, 6, 4, 12, 1, 51, 647, DateTimeKind.Local).AddTicks(713),
+                            CreatedDate = new DateTime(2023, 6, 5, 12, 53, 34, 624, DateTimeKind.Local).AddTicks(421),
                             Email = "caner123@gmail.com",
                             IsActive = true
                         },
                         new
                         {
                             Id = 3,
-                            CreatedDate = new DateTime(2023, 6, 4, 12, 1, 51, 647, DateTimeKind.Local).AddTicks(715),
+                            CreatedDate = new DateTime(2023, 6, 5, 12, 53, 34, 624, DateTimeKind.Local).AddTicks(544),
                             Email = "caner423@gmail.com",
                             IsActive = true
                         });

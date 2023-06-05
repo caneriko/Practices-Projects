@@ -14,8 +14,8 @@ namespace Victory.Repository.Configurations
         public void Configure(EntityTypeBuilder<Article> builder)
         {
             builder.Property(x => x.CreatedDate).HasDefaultValue(DateTime.Now);
-            builder.Property(x => x.Title).IsRequired().HasMaxLength(20);
-            builder.Property(x => x.Content).IsRequired().HasMaxLength(1000);
+            builder.Property(x => x.Title).IsRequired().HasMaxLength(30);
+            builder.Property(x => x.Content).IsRequired().HasMaxLength(2500);
         }
     }
 }

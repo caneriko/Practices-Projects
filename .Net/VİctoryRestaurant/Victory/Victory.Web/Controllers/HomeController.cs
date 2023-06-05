@@ -13,20 +13,32 @@ namespace Victory.Web.Controllers
         private readonly ILogger<HomeController> _logger;
         private readonly ISignUpService _signUpService;
         private readonly IContactService _contactService;
+        private readonly IArticleService _articleService;
         private readonly IReservationService _reservationService;
 
-        public HomeController(ILogger<HomeController> logger, ISignUpService signUpService, IContactService contactService, IReservationService reservationService)
+        public HomeController(ILogger<HomeController> logger, ISignUpService signUpService, IContactService contactService, IReservationService reservationService, IArticleService articleService)
         {
             _logger = logger;
             _signUpService = signUpService;
             _contactService = contactService;
             _reservationService = reservationService;
+            _articleService = articleService;
         }
 
         public IActionResult Index()
         {
             return View();
         }
+
+
+        public async Task<IActionResult> Blog()
+        {
+            var viewModel = await _articleService.GetBlogArticlesAsync();
+            return View(viewModel);
+        }
+
+
+
         [HttpGet]
         public IActionResult Contact()
         {

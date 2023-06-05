@@ -17,7 +17,7 @@ namespace Victory.Core.ViewModels.Article
         public IFormFile? Photo { get; set; }
 
 
-        public ImageType ImageType { get; set; } = 0;
+        public ImageType ImageType { get; set; } = ImageType.Article;
 
     }
 }

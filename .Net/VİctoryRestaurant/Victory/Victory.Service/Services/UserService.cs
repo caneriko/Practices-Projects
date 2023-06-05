@@ -103,8 +103,7 @@ namespace Victory.Service.Services
                 {
                     _imageHelper.Delete(viewModel.PictureUrl);
                 }
-                _imageHelper.Delete(viewModel.PictureUrl);
-
+ 
                 user.PictureUrl = await _imageHelper.ImageUpload(viewModel.UserName, viewModel.Photo, viewModel.ImageType); 
             }
 
