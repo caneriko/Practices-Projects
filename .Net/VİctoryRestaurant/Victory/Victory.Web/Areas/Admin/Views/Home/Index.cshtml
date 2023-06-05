@@ -1,5 +1,4 @@
-﻿@using Victory.Core.ViewModels.SigUp;
-@{
+﻿ @{
     ViewData["Title"] = "Victory Admin Panel";
 }
 
@@ -229,7 +228,7 @@
                         @foreach (var item in Model)
                         {
                             <tr>
-                                <th scope="row"><b>@item.CreatedTime.ToShortDateString()</b></th>
+                                <th scope="row"><b>@item.CreatedDate.ToShortDateString()</b></th>
                                 <td>
                                     <div class="tm-status-circle @(item.IsActive ? "moving" : "cancelled") ">
                                     </div> @(item.IsActive ? "Active" : "Inactive")

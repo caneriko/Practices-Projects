@@ -12,5 +12,8 @@ namespace Victory.Core.Entities
 
         public string Content { get; set; }
 
-     }
+        public string? PictureUrl { get; set; }  
+
+
+    }
 }

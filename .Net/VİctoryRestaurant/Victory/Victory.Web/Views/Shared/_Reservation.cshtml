@@ -1,0 +1,67 @@
+﻿@using Victory.Core.ViewModels;
+
+@model AddReservationViewModel
+
+
+
+
+
+
+<section id="book-table">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading">
+                    <h2>Book Your Table Now</h2>
+                </div>
+            </div>
+            <div class="col-md-4 col-md-offset-2 col-sm-12">
+                <div class="left-image">
+                    <img src="~/victoryTemp/img/book_left_image.jpg" alt="">
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="right-info">
+                    <h4>Reservation</h4>
+                    <form id="form-submit" asp-controller="home" asp-action="addreservation" method="post">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <fieldset>
+                                    <input type="datetime-local" class="form-control" asp-for="ReservationDate" required="" name="name" />
+                                </fieldset>
+                            </div>
+                            
+                            <div class="col-md-6">
+                                <fieldset>
+                                    <input  asp-for="FullName" class="form-control" id="name" placeholder="Full name" required="">
+                                </fieldset>
+                            </div>
+                            <div class="col-md-6">
+                                <fieldset>
+                                    <input asp-for="PhoneNumber" class="form-control" id="phone" placeholder="Phone" required="">
+                                </fieldset>
+                            </div>
+                           
+                            <div class="col-md-6">
+                                    <select required class="person" asp-for="NumberOfPersons" onchange='this.form.()'>
+                                        <option value="">How many persons?</option>
+                                        <option value=1>1 Person</option>
+                                        <option value=2>2 Persons</option>
+                                        <option value=3>3 Persons</option>
+                                        <option value=4>4 Persons</option>
+                                        <option value=5>5 Persons</option>
+                                        <option value=6>6 Persons</option>
+                                    </select>
+                            </div>
+                            <div class="col-md-12">
+                                <fieldset>
+                                    <button type="submit" id="form-submit" class="btn">Book Table</button>
+                                </fieldset>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

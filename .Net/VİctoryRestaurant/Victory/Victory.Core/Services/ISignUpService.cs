@@ -10,5 +10,13 @@ namespace Victory.Core.Services
     public interface ISignUpService
     {
         Task<List<SignUpViewModel>> GetAllActiveSignUps();
+
+        Task<UpdateSignUpViewModel> GetByIdAsync(int id);
+
+        Task UpdateAsync(UpdateSignUpViewModel viewModel);
+
+        Task AddAsync(AddSignUpViewModel viewModel);
+
+        Task SafeDeleteAsync(int id);
     }
 }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "vLbKxiHjfJ/KdYnPyOEAJvQGODLdHwrr/yGGgGDksLVNR/bELF38+3oQbNUxv2QbHpBq3XiRlNIFJ19qpGDIdg==",
+  "dgSpecHash": "bFFgjpkWL2eQ98uJO4t6YShFHS8aVFrQz1wpzItBSnoJT9AQ9oSPkXa8NdOhsRnlmdcxGS6Pdt3MxcqmDyRwKg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Service\\Victory.Service.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "C:\\Users\\Lenovo\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.16\\microsoft.aspnetcore.cryptography.internal.6.0.16.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\6.0.16\\microsoft.aspnetcore.cryptography.keyderivation.6.0.16.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.identity.entityframeworkcore\\6.0.16\\microsoft.aspnetcore.identity.entityframeworkcore.6.0.16.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

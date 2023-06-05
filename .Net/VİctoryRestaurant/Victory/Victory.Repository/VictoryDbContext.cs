@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ using Victory.Core.Entities;
 
 namespace Victory.Repository
 {
-    public class VictoryDbContext : DbContext
+    public class VictoryDbContext : IdentityDbContext<AppUser,AppRole,Guid>
     {
         public VictoryDbContext(DbContextOptions<VictoryDbContext> options) : base(options)
         {
@@ -25,10 +26,12 @@ namespace Victory.Repository
         public DbSet<Signup> Signups { get; set; }
 
         public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder builder)
         {
+            base.OnModelCreating(builder);
             builder.ApplyConfigurationsFromAssembly(Assembly.GetExecutingAssembly());
         }
 

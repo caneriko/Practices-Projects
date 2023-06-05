@@ -1,0 +1,52 @@
+﻿@using Victory.Core.ViewModels.User;
+
+@{
+    ViewData["Title"] = "Victory Admin Panel Users";
+}
+
+@model List<UserListViewModel>
+
+
+<div class="container mt-5">
+    <div class="row tm-content-row">
+        <div class="col-sm-12 col-md-12 col-lg-8 col-xl-12 tm-block-col">
+            <div class="tm-bg-primary-dark tm-block tm-block-products">
+                <div class="tm-product-table-container">
+                    <table class="table table-hover tm-table-small tm-product-table">
+                        <thead>
+                            <tr>
+                                <th scope="col">User Name</th>
+                                <th scope="col">Email</th>
+                                <th scope="col">Role</th>
+                                <th scope="col">&nbsp; Tools</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td class="tm-product-name">@item.UserName</td>
+                                    <td>@item.Email</td>
+                                    <td>@item.Role</td>
+                                     
+                                    <td>
+                                        <a asp-area="admin" asp-controller="user" asp-action="delete" asp-route-id="@item.Id" class="tm-product-delete-link">
+                                            <i class="far fa-trash-alt tm-product-delete-icon"></i>
+                                        </a>
+                                        <a asp-area="admin" asp-controller="user" asp-action="update" asp-route-id="@item.Id" class="tm-product-delete-link"><i class="fas fa-cog"></i></a>
+                                    </td>
+                                </tr>
+                            }
+
+                        </tbody>
+                    </table>
+                </div>
+                <!-- table container -->
+                <a asp-area="admin" asp-controller="user" asp-action="add"
+                   class="btn btn-primary btn-block text-uppercase mb-3">Add User</a>
+            </div>
+        </div>
+
+    </div>
+</div>

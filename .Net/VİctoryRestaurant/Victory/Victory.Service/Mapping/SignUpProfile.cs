@@ -13,7 +13,9 @@ namespace Victory.Service.Mapping
     {
         public SignUpProfile()
         {
-            CreateMap<Signup, SignUpViewModel>();
+            CreateMap<Signup, SignUpViewModel>().ReverseMap();
+            CreateMap<Signup,UpdateSignUpViewModel>().ReverseMap();
+            CreateMap<Signup,AddSignUpViewModel>().ReverseMap();
         }
     }
 }

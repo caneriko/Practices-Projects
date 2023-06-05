@@ -43,9 +43,9 @@ namespace Victory.Repository.Repository
             return await _dbSet.CountAsync();
         }
 
-        public void Delete(T entity)
+        public async Task DeleteAsync(T entity)
         {
-            _dbSet.Remove(entity);
+            await Task.Run(() => _dbSet.Remove(entity));
         }
 
         public async Task<List<T>> GetAllAsync(Expression<Func<T, bool>> predicate = null, params Expression<Func<T, object>>[] includeProperties)
@@ -95,9 +95,9 @@ namespace Victory.Repository.Repository
             return await _dbSet.FindAsync(id);
         }
 
-        public void Update(T entity)
+        public async Task UpdateAsync(T entity)
         {
-            _dbSet.Update(entity);
+            await Task.Run(() => _dbSet.Update(entity));
         }
     }
 }

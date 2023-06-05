@@ -8,6 +8,7 @@ namespace Victory.Core.Entities
 {
     public class Signup : EntityBase
     {
+        
         public string Email { get; set; }
     }
 }

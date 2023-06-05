@@ -10,7 +10,7 @@ namespace Victory.Core.Entities
     {
         public int Id { get; set; }
 
-        public DateTime CreatedDate { get; set; } = DateTime.Now;
+        public virtual DateTime CreatedDate { get; set; } = DateTime.UtcNow;
 
         public virtual bool IsActive { get; set; } = true;
 

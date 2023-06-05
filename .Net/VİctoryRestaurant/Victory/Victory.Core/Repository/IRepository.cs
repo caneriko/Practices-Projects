@@ -14,9 +14,9 @@ namespace Victory.Core.Repository
         Task AddAsync(T entity);
 
         Task AddRangeAsync(IEnumerable<T> entities);
-        void Delete(T entity);
+        Task DeleteAsync(T entity);
 
-        void Update(T entity);
+        Task UpdateAsync(T entity);
 
         Task<T> GetAsync(Expression<Func<T, bool>> predicate, params Expression<Func<T, Object>>[] includeProperties);
 

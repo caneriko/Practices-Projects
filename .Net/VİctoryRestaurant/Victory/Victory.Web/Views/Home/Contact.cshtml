@@ -2,6 +2,8 @@
     ViewData["Title"] = "Contact";
 }
 
+@model AddContactViewModel
+
     <section class="page-heading">
         <div class="container">
             <div class="row">
@@ -22,22 +24,30 @@
                     <div class="section-heading">
                         <h2>Message</h2>
                     </div>
-                    <form id="contact" action="" method="post">
+                    <form id="contact" asp-controller="home" asp-action="contact" method="post">
                         <div class="row">
                             <div class="col-md-6">
                                 <fieldset>
-                                    <input name="name" type="text" class="form-control" id="name" placeholder="Your name..." required="">
+                                    <input asp-for="Name" type="text" class="form-control" id="name" placeholder="Your name..." required="">
+                                <span asp-validation-for="Name"></span>
+
                                 </fieldset>
                                 <fieldset>
-                                    <input name="email" type="text" class="form-control" id="email" placeholder="Your email..." required="">
+                                    <input  asp-for="Email" type="text" class="form-control" id="email" placeholder="Your email..." required="">
+                                <span asp-validation-for="Email"></span>
+
                                 </fieldset>
                                 <fieldset>
-                                    <input name="phone" type="text" class="form-control" id="phone" placeholder="Your phone..." required="">
+                                    <input  type="text" asp-for="PhoneNumber" class="form-control" id="phone" placeholder="Your phone..." required="">
+                                <span asp-validation-for="PhoneNumber"></span>
+
                                 </fieldset>
                             </div>
                             <div class="col-md-6">
                                 <fieldset>
-                                    <textarea name="message" rows="6" class="form-control" id="message" placeholder="Your message..." required=""></textarea>
+                                    <textarea  asp-for="Message" rows="6" class="form-control" id="message" placeholder="Your message..." required=""></textarea>
+                                <span asp-validation-for="Message"></span>
+
                                 </fieldset>
                                 <fieldset>
                                     <button type="submit" id="form-submit" class="btn">Send Message</button>

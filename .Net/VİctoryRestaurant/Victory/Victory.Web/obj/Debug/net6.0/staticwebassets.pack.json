@@ -1,6 +1,14 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\Lenovo\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Victory.Web.bundle.scp.css",
       "PackagePath": "staticwebassets\\Victory.Web.bundle.scp.css"
     },
@@ -11,6 +19,26 @@
     {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\images\\default_user.jpg",
+      "PackagePath": "staticwebassets\\images\\default_user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\images\\product-images\\asyayemekleri_346.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\asyayemekleri_346.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\images\\product-images\\asyayemekleri_714.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\asyayemekleri_714.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\images\\product-images\\asyayemekleri_923.jpg",
+      "PackagePath": "staticwebassets\\images\\product-images\\asyayemekleri_923.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\images\\user-images\\yeniUser_323.JPG",
+      "PackagePath": "staticwebassets\\images\\user-images\\yeniUser_323.JPG"
     },
     {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\VİctoryRestaurant\\Victory\\Victory.Web\\wwwroot\\js\\site.js",
