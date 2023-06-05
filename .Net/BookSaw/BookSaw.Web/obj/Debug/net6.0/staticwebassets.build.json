@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "qD2vjn/D8qlfwwkR3JsoWaO7dB/KM9XjWOK9E2/5Js0=",
+  "Hash": "PIfrtl13XJbFKz0x5tNmUCJ8AAfdwmM6q5Am+uFw74U=",
   "Source": "BookSaw.Web",
   "BasePath": "_content/BookSaw.Web",
   "Mode": "Default",
@@ -151,6 +151,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\images\\default_book_image.jpg",
+      "SourceId": "BookSaw.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\",
+      "BasePath": "_content/BookSaw.Web",
+      "RelativePath": "images/default_book_image.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\default_book_image.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\images\\default_user.jpg",
+      "SourceId": "BookSaw.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\",
+      "BasePath": "_content/BookSaw.Web",
+      "RelativePath": "images/default_user.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\default_user.jpg"
     },
     {
       "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\js\\site.js",

@@ -6,7 +6,16 @@ using System.Threading.Tasks;
 
 namespace BookSaw.Core.Entities
 {
-    public class Article
+    public class Article : EntityBase
     {
+        public string Title { get; set; }
+
+        public string Content { get; set; }
+
+        public string CreatedBy { get; set; }
+
+        public string? PictureUrl { get; set; } = "default_book_image.jpg";
+
+
     }
 }

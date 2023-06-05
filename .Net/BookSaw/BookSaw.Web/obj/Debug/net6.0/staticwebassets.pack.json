@@ -21,6 +21,14 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\images\\default_book_image.jpg",
+      "PackagePath": "staticwebassets\\images\\default_book_image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\images\\default_user.jpg",
+      "PackagePath": "staticwebassets\\images\\default_user.jpg"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

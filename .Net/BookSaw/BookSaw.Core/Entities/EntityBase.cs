@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BookSaw.Core.Entities
 {
-    public abstract class EntityBase
+    public abstract class EntityBase : IEntityBase
     {
         public int Id { get; set; }
 

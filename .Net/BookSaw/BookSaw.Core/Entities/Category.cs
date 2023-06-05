@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace BookSaw.Core.Entities
 {
-    public class Category
+    public class Category : EntityBase
     {
-
+        public string Name { get; set; }
     }
 }

@@ -2081,6 +2081,7 @@
       },
       "BookSaw.Core/1.0.0": {
         "dependencies": {
+          "Microsoft.AspNetCore.Http.Features": "2.2.0",
           "Microsoft.Extensions.Identity.Stores": "6.0.16"
         },
         "runtime": {
