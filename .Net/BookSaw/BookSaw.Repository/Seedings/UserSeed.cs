@@ -18,7 +18,7 @@ namespace BookSaw.Repository.Seedings
             {
                 Id = 1,
                 UserName = "Caneriko",
-                NormalizedUserName = "SUPERADMIN@GMAIL.COM",
+                NormalizedUserName = "CANERIKO",
                 Email = "superadmin@gmail.com",
                 NormalizedEmail = "SUPERADMIN@GMAIL.COM",
                 PhoneNumber = "+905439999999",
@@ -34,7 +34,7 @@ namespace BookSaw.Repository.Seedings
             {
                 Id = 2,
                 UserName = "Bafe",
-                NormalizedUserName = "ADMIN@GMAIL.COM",
+                NormalizedUserName = "BAFE",
                 Email = "admin@gmail.com",
                 NormalizedEmail = "ADMIN@GMAIL.COM",
                 PhoneNumber = "+905439999988",

@@ -12,5 +12,9 @@ namespace BookSaw.Core.Entities
         public string FullName { get; set; }
 
         public string? PictureUrl { get; set; } = "default_user.jpg";
+
+        public string? City { get; set; }
+
+        public DateTime? BirthDay { get; set; }
     }
 }

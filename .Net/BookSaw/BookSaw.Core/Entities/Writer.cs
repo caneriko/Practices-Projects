@@ -12,6 +12,8 @@ namespace BookSaw.Core.Entities
 
         public string Country { get; set; }
 
-         
+        public ICollection<Book> Books { get; set; }
+
+
     }
 }

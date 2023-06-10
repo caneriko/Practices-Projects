@@ -56,21 +56,21 @@ namespace BookSaw.Repository.Migrations
                         new
                         {
                             Id = 1,
-                            ConcurrencyStamp = "43aae3e7-6cfd-485c-b373-3b8d08cb5b0a",
+                            ConcurrencyStamp = "c9e7f53c-7e8e-493a-984c-89bd2810c9a4",
                             Name = "Superadmin",
                             NormalizedName = "SUPERADMIN"
                         },
                         new
                         {
                             Id = 2,
-                            ConcurrencyStamp = "9f535594-6f28-4591-a672-f68c8ec11b8d",
+                            ConcurrencyStamp = "e5f7fc88-4752-44f9-ba50-bff2fe1f1e95",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         },
                         new
                         {
                             Id = 3,
-                            ConcurrencyStamp = "0477b634-ed7f-4cbd-a527-0fd8d91034fa",
+                            ConcurrencyStamp = "6f5ea6c0-9ee7-4b8a-acfa-fd3f554cf249",
                             Name = "User",
                             NormalizedName = "USER"
                         });
@@ -86,6 +86,12 @@ namespace BookSaw.Repository.Migrations
 
                     b.Property<int>("AccessFailedCount")
                         .HasColumnType("int");
+
+                    b.Property<DateTime?>("BirthDay")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("City")
+                        .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("ConcurrencyStamp")
                         .IsConcurrencyToken()
@@ -155,18 +161,18 @@ namespace BookSaw.Repository.Migrations
                         {
                             Id = 1,
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "49ebc3cc-3cb8-4ccd-8b96-c9c6d2d4606a",
+                            ConcurrencyStamp = "62616d24-ed48-47e9-9259-b510a5bf70db",
                             Email = "superadmin@gmail.com",
                             EmailConfirmed = true,
                             FullName = "Caner Aydın",
                             LockoutEnabled = false,
                             NormalizedEmail = "SUPERADMIN@GMAIL.COM",
-                            NormalizedUserName = "SUPERADMIN@GMAIL.COM",
-                            PasswordHash = "AQAAAAEAACcQAAAAEN6WbqflMiAUiEqrQ2ceEHe5UqsxJ/gM/0So1LNUWGmNpTNX/X5y6Z5joXo6XHTw0Q==",
+                            NormalizedUserName = "CANERIKO",
+                            PasswordHash = "AQAAAAEAACcQAAAAEEvbJ/ORz+OXyCt0TgNy7cgW/l49Hky10aGPu7E9ET8kx1mxuo0xnkGaU3Aidtustg==",
                             PhoneNumber = "+905439999999",
                             PhoneNumberConfirmed = true,
                             PictureUrl = "default_user.jpg",
-                            SecurityStamp = "9388e29c-e8e4-455a-b7a9-9c7d43b2741c",
+                            SecurityStamp = "f431aeff-502c-4f96-9313-440cfa611307",
                             TwoFactorEnabled = false,
                             UserName = "Caneriko"
                         },
@@ -174,18 +180,18 @@ namespace BookSaw.Repository.Migrations
                         {
                             Id = 2,
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "c1856623-c9d0-43da-aee7-89cd88ec23b9",
+                            ConcurrencyStamp = "d87d50aa-60a1-48b7-a569-ba3a8b02b8f5",
                             Email = "admin@gmail.com",
                             EmailConfirmed = false,
                             FullName = "Bafetimbi Gomis",
                             LockoutEnabled = false,
                             NormalizedEmail = "ADMIN@GMAIL.COM",
-                            NormalizedUserName = "ADMIN@GMAIL.COM",
-                            PasswordHash = "AQAAAAEAACcQAAAAEMwc5+9zSOmuTL0f+Kgn0pC7MpQBE1D3j1fFlh5Do046/c8uW2IUTGUCRXXf4I6GqA==",
+                            NormalizedUserName = "BAFE",
+                            PasswordHash = "AQAAAAEAACcQAAAAEOey2LBCHdp/IVZ9Lh8Ynf6cvwlTE3PhfNrBSuHxwui4VVvvN6xY2cYvrGezu/2BlA==",
                             PhoneNumber = "+905439999988",
                             PhoneNumberConfirmed = false,
                             PictureUrl = "default_user.jpg",
-                            SecurityStamp = "a81f21bc-fc31-475f-91f6-41fb6420e53b",
+                            SecurityStamp = "8880939b-c651-4035-a98d-9184a6442f34",
                             TwoFactorEnabled = false,
                             UserName = "Bafe"
                         });
@@ -204,7 +210,6 @@ namespace BookSaw.Repository.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("CreatedBy")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<DateTime>("CreatedDate")
@@ -233,6 +238,9 @@ namespace BookSaw.Repository.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
 
+                    b.Property<int?>("CategoryId")
+                        .HasColumnType("int");
+
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
 
@@ -256,7 +264,14 @@ namespace BookSaw.Repository.Migrations
                     b.Property<DateTime>("PublishDate")
                         .HasColumnType("datetime2");
 
+                    b.Property<int?>("WriterId")
+                        .HasColumnType("int");
+
                     b.HasKey("Id");
+
+                    b.HasIndex("CategoryId");
+
+                    b.HasIndex("WriterId");
 
                     b.ToTable("Books");
                 });
@@ -414,6 +429,21 @@ namespace BookSaw.Repository.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("BookSaw.Core.Entities.Book", b =>
+                {
+                    b.HasOne("BookSaw.Core.Entities.Category", "Category")
+                        .WithMany("Books")
+                        .HasForeignKey("CategoryId");
+
+                    b.HasOne("BookSaw.Core.Entities.Writer", "Writer")
+                        .WithMany("Books")
+                        .HasForeignKey("WriterId");
+
+                    b.Navigation("Category");
+
+                    b.Navigation("Writer");
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<int>", b =>
                 {
                     b.HasOne("BookSaw.Core.Entities.AppRole", null)
@@ -463,6 +493,16 @@ namespace BookSaw.Repository.Migrations
                         .HasForeignKey("UserId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
+                });
+
+            modelBuilder.Entity("BookSaw.Core.Entities.Category", b =>
+                {
+                    b.Navigation("Books");
+                });
+
+            modelBuilder.Entity("BookSaw.Core.Entities.Writer", b =>
+                {
+                    b.Navigation("Books");
                 });
 #pragma warning restore 612, 618
         }

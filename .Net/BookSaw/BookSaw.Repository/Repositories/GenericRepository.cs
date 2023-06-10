@@ -35,9 +35,25 @@ namespace BookSaw.Repository.Repositories
             return await _dbSet.AnyAsync(expression);
         }
 
-        public IQueryable<T> GetAll()
+        public IQueryable<T> GetAll(Expression<Func<T, bool>> predicate = null, params Expression<Func<T, object>>[] includeProperties)
         {
-            return _dbSet.AsNoTracking().AsQueryable();
+            IQueryable<T> query = _dbSet;
+
+            if (predicate != null)
+            {
+                query = query.Where(predicate);
+            }
+
+            if (includeProperties.Any())
+            {
+                foreach (var item in includeProperties)
+                {
+                    query = query.Include(item);
+                }
+
+            }
+
+            return query;
         }
 
         public async Task<T> GetByIdAsync(int id)
@@ -64,5 +80,25 @@ namespace BookSaw.Repository.Repositories
         {
             return _dbSet.Where(expression);
         }
+
+        public async Task<T> GetAsync(Expression<Func<T, bool>> predicate, params Expression<Func<T, object>>[] includeProperties)
+        {
+            IQueryable<T> query = _dbSet;
+            query = query.Where(predicate);
+
+            if (includeProperties.Any())
+            {
+                foreach (var item in includeProperties)
+                {
+                    query = query.Include(item);
+                }
+
+            }
+
+            return await query.SingleAsync();
+
+
+        }
+
     }
 }

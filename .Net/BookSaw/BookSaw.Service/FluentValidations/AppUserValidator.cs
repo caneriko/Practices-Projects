@@ -16,6 +16,39 @@ namespace BookSaw.Service.FluentValidations
              .NotEmpty()
              .MinimumLength(5)
              .MaximumLength(50);
+
+            RuleFor(x => x.UserName)
+            .NotEmpty()
+            .MinimumLength(5)
+            .MaximumLength(50);
+
+            RuleFor(x => x.Email)
+            .NotEmpty()
+            .MinimumLength(3)
+            .EmailAddress();
+
+
+            RuleFor(x => x.PhoneNumber)
+            .NotEmpty()
+            .MinimumLength(9);
+            
+
+
+
+
+
+
+
+
+
+
+
+
         }
+
+         
+           
+          
+
     }
 }

@@ -5,6 +5,7 @@ using BookSaw.Core.UnitOfWorks;
 using BookSaw.Repository;
 using BookSaw.Repository.Repositories;
 using BookSaw.Repository.UnitOfWorks;
+using BookSaw.Service.Helpers;
 using BookSaw.Service.Services;
 using System;
 using System.Collections.Generic;
@@ -24,6 +25,9 @@ namespace BookSaw.Service.Modules
             builder.RegisterGeneric(typeof(Service<>)).As(typeof(IService<>)).InstancePerLifetimeScope();
 
             builder.RegisterType<UnitOfWork>().As<IUnitOfWork>();
+
+            builder.RegisterType<ImageHelper>().As<IImageHelper>();
+
 
             var repoAssembly = Assembly.GetAssembly(typeof(BookSawDbContext));
             var serviceAssembly = Assembly.GetExecutingAssembly();

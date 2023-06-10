@@ -1,0 +1,94 @@
+﻿@model List<ArticleListViewModel>
+
+
+
+
+<div class="col-12">
+    <h2 class="mb-2 page-title">Data table</h2>
+    <p class="card-text">DataTables is a plug-in for the jQuery Javascript library. It is a highly flexible tool, built upon the foundations of progressive enhancement, that adds all of these advanced features to any HTML table. </p>
+    <div class="row my-4">
+        <!-- Small table -->
+        <div class="col-md-12">
+            <div class="card shadow">
+                <div class="card-body">
+                    <!-- table -->
+                    <table class="table datatables" id="dataTable-1">
+
+                        <thead>
+                            <tr>
+                                <th></th>
+                                <th>#</th>
+                                <th>Title</th>
+                                <th>Writer</th>
+                                <th>Date</th>
+                                <th>Status</th>
+                                <th>Address</th>
+                                <th>City</th>
+                                <th>Date</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>
+                                        <div class="custom-control custom-checkbox">
+                                            <input type="checkbox" class="custom-control-input">
+                                            <label class="custom-control-label"></label>
+                                        </div>
+                                    </td>
+                                    <td>368</td>
+                                    <td>@item.Title</td>
+                                    <td>@item.CreatedBy</td>
+                                    <td>@item.CreatedDate</td>
+                                    <td>@item.IsDeleted</td>
+                                    <td>9022 Suspendisse Rd.</td>
+                                    <td>High Wycombe</td>
+                                    <td>Jun 8, 2019</td>
+                                    <td>
+                                        <button class="btn btn-sm dropdown-toggle more-horizontal" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <span class="text-muted sr-only">Action</span>
+                                        </button>
+                                        <div class="dropdown-menu dropdown-menu-right">
+                                            <a class="dropdown-item" asp-area="admin" asp-controller="article" asp-action="update" asp-route-id="@item.Id">Edit</a>
+                                            <a class="dropdown-item" asp-area="admin" asp-controller="article" asp-action="safedelete" asp-route-id="@item.Id">Remove</a>
+                                            <a class="dropdown-item" href="#">Assign</a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+
+
+
+                        </tbody>
+
+                    </table>
+                </div>
+            </div>
+        </div> <!-- simple table -->
+    </div> <!-- end section -->
+</div> <!-- .col-12 -->
+@section Scripts {
+
+
+
+    <script src='~/admintemp/js/jquery.dataTables.min.js'></script>
+    <script src='~/admintemp/js/dataTables.bootstrap4.min.js'></script>
+
+    <script>
+        $('#dataTable-1').DataTable(
+            {
+                autoWidth: true,
+                "lengthMenu": [
+                    [16, 32, 64, -1],
+                    [16, 32, 64, "All"]
+                ]
+            });
+    </script>
+
+}
+
+

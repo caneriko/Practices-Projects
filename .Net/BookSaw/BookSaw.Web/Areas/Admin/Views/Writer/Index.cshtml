@@ -1,0 +1,153 @@
+﻿@model List<WriterListViewModel>
+
+
+<div class="col-12">
+    <div class="row align-items-center my-4">
+        <div class="col">
+            <h2 class="h3 mb-0 page-title">Writers</h2>
+        </div>
+        <div class="col-auto">
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
+                Add Writer
+            </button>
+        </div>
+    </div>
+
+    <div class="row my-4">
+        <!-- Small table -->
+        <div class="col-md-12">
+            <div class="card shadow">
+                <div class="card-body ">
+                    <!-- table -->
+                    <table class="table datatables text-center" id="dataTable-1">
+
+                        <thead>
+                            <tr>
+                                 
+                                <th>Name</th>
+                                <th>Country</th>
+                                <th>Number of Books</th>
+                                <th>All Books</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td>@item.FullName</td>
+                                    <td>@item.Country</td>
+                                    <td> @item.Books.Count</td>
+                                    <td><a>All Books</a></td>
+                                     
+                                    <td>
+                                        <button class="btn btn-sm dropdown-toggle more-horizontal" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <span class="text-muted sr-only">Action</span>
+                                        </button>
+                                        <div class="dropdown-menu dropdown-menu-right">
+                                            <a class="dropdown-item" asp-area="admin" asp-controller="writer" asp-action="update" asp-route-id="@item.Id">Edit</a>
+                                            <a class="dropdown-item" asp-area="admin" asp-controller="writer" asp-action="safedelete" asp-route-id="@item.Id">Remove</a>
+                                            <a class="dropdown-item" asp-area="admin" asp-controller="writer" asp-action="delete" asp-route-id="@item.Id">Hard Delete</a>
+                                         </div>
+                                    </td>
+                                </tr>
+                            }
+
+
+
+                        </tbody>
+
+                    </table>
+                </div>
+            </div>
+        </div> <!-- simple table -->
+    </div> <!-- end section -->
+</div> <!-- .col-12 -->
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Add Writer</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label class="d-block form-label">Full Name</label>
+                        <input class="form-control" type="text" id="writerName" />
+                        <label class="d-block form-label">Country</label>
+                        <input class="form-control" type="text" id="writerCountry" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" data-keyboard="false" class="btn btn-primary" id="btnSave">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+@section Scripts {
+
+
+
+    <script src='~/admintemp/js/jquery.dataTables.min.js'></script>
+    <script src='~/admintemp/js/dataTables.bootstrap4.min.js'></script>
+
+
+    <script src="~/js/addWriter.js"></script>
+
+    <script>
+        var app = app || {};
+        app.Urls = app.Urls || {};
+        app.Urls.baseUrl = '@Url.Content("~")';
+        app.Urls.writerAddUrl = "@(Url.Action("AddWithAjax", "Writer"))";
+        app.Urls.writerIndexUrl = "@(Url.Action("Index", "Writer"))";
+    </script>
+
+
+
+    <script>
+        $('#dataTable-1').DataTable(
+            {
+                autoWidth: true,
+                "lengthMenu": [
+                    [16, 32, 64, -1],
+                    [16, 32, 64, "All"]
+                ]
+            });
+    </script>
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

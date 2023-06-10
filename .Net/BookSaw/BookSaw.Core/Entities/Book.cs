@@ -18,6 +18,13 @@ namespace BookSaw.Core.Entities
 
         public string? PictureUrl { get; set; } = "default_book_image.jpg";
 
+        public Category? Category { get; set; }
+
+        public int? CategoryId { get; set; }
+
+        public Writer? Writer { get; set; }
+
+        public int? WriterId { get; set; }
 
     }
 }

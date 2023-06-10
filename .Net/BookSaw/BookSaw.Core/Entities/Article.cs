@@ -12,7 +12,7 @@ namespace BookSaw.Core.Entities
 
         public string Content { get; set; }
 
-        public string CreatedBy { get; set; }
+        public string? CreatedBy { get; set; } = "Undefined";
 
         public string? PictureUrl { get; set; } = "default_book_image.jpg";
 

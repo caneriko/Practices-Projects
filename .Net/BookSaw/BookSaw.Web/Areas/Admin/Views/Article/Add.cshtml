@@ -1,0 +1,52 @@
+﻿@model ArticleAddViewModel
+
+
+
+
+<div class="col-12 col-xl-10">
+    <div class="row align-items-center my-4">
+        <div class="col">
+            <h2 class="h3 mb-0 page-title">Add Article</h2>
+        </div>
+    </div>
+    <form asp-area="admin" asp-controller="article" asp-action="add" method="post" enctype="multipart/form-data">
+        <hr class="my-4">
+
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label asp-for="Title">Name</label>
+                <input type="text" asp-for="Title" class="form-control">
+                <span asp-validation-for="Title"></span>
+            </div>
+        </div>
+
+        <div class="form-row">
+            <div class="form-group col-md-12">
+                <label asp-for="Content">Content</label>
+                <textarea asp-for="Content" class="form-control" id="inputEmail4"></textarea>
+                <span asp-validation-for="Content"></span>
+            </div>
+        </div>
+
+        <div class="form-row">
+            <div class="form-group col-md-4">
+                <label asp-for="Photo">Picture</label>
+                <input type="file" asp-for="Photo" class="form-control-file">
+            </div>
+
+        </div>
+
+        <hr class="my-4">
+
+        <div class="form-row">
+            <div class="col-md-6">
+                <div class="custom-control">
+                    <span class="">Click on save buttun to save the article</span>
+                </div>
+            </div>
+            <div class="col-md-6 text-right">
+                <button type="button" class="btn btn-primary">Save Article</button>
+            </div>
+        </div>
+    </form>
+</div> <!-- .col-12 -->

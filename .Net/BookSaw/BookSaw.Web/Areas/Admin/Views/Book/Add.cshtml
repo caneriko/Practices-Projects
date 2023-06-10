@@ -1,0 +1,162 @@
+﻿@model BookAddViewModel
+
+
+
+
+<div class="col-12 col-xl-10">
+    <div class="row align-items-center my-4">
+        <div class="col">
+            <h2 class="h3 mb-0 page-title">Add Book</h2>
+        </div>
+        <div class="col-auto">
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter1">
+                Add Category
+            </button>
+            <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
+                Add Writer
+            </button>
+        </div>
+    </div>
+    <form asp-area="admin" asp-controller="book" asp-action="add" method="post" enctype="multipart/form-data">
+        <hr class="my-4">
+
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label asp-for="Name">Name</label>
+                <input type="text" asp-for="Name" class="form-control">
+                <span asp-validation-for="Name"></span>
+            </div>
+            <div class="form-group col-md-6">
+                <label asp-for="Price">Price</label>
+                <input  asp-for="Price" class="form-control">
+                <span asp-validation-for="Price"></span>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-4">
+                <label for="custom-placeholder">Publish Date</label>
+                <input class="form-control" asp-for="PublishDate" type="date">
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="CategoryId">Category</label>
+                <select asp-for="CategoryId" asp-items="@ViewBag.Kategori" class="form-control">
+                    <option value="">Choose Category</option>
+                </select>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="WriterId">Writer</label>
+                <select asp-for="WriterId" asp-items="@ViewBag.Writer" class="form-control">
+                    <option value="">Choose Writer</option>
+                 </select>
+            </div>
+        </div>
+        <div class="form-row">
+            <div class="form-group col-md-8">
+                <label asp-for="Description">Description</label>
+                <textarea asp-for="Description" class="form-control" id="inputEmail4"></textarea>
+                <span asp-validation-for="Price"></span>
+            </div>
+            <div class="form-group col-md-4">
+                <label asp-for="Photo">Picture</label>
+                <input type="file" asp-for="Photo" class="form-control-file">
+            </div>
+        </div>
+         
+        <hr class="my-4">
+        
+        <div class="form-row">
+            <div class="col-md-6">
+                <div class="custom-control">
+                     <span>Click on save buttun to save the book</span>
+                </div>
+            </div>
+            <div class="col-md-6 text-right">
+                <button type="submit" class="btn btn-primary">Save Change</button>
+            </div>
+        </div>
+    </form>
+</div> <!-- .col-12 -->
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter1" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle1">Add Category</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label class="d-block form-label">Kategori İsmi</label>
+                        <input class="form-control" type="text" id="categoryName" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" data-keyboard="false" class="btn btn-primary" id="btnSave1">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLongTitle">Add Writer</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <form>
+                    <div class="form-group">
+                        <label class="d-block form-label">Full Name</label>
+                        <input class="form-control" type="text" id="writerName" />
+                        <label class="d-block form-label">Country</label>
+                        <input class="form-control" type="text" id="writerCountry" />
+                    </div>
+                </form>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
+                <button type="button" data-keyboard="false" class="btn btn-primary" id="btnSave">Save</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+@section Scripts {
+
+    <script src="~/js/addCategory.js"></script>
+    <script>
+        var app = app || {};
+        app.Urls = app.Urls || {};
+        app.Urls.baseUrl = '@Url.Content("~")';
+        app.Urls.categoryAddUrl = "@(Url.Action("AddWithAjax", "Category"))";
+        app.Urls.categoryIndexUrl = "@(Url.Action("Add", "Book"))";
+    </script>
+
+    <script src="~/js/addWriter.js"></script>
+
+    <script>
+        var app = app || {};
+        app.Urls = app.Urls || {};
+        app.Urls.baseUrl = '@Url.Content("~")';
+        app.Urls.writerAddUrl = "@(Url.Action("AddWithAjax", "Writer"))";
+        app.Urls.writerIndexUrl = "@(Url.Action("Add", "Book"))";
+    </script>
+
+
+    <script src='~/admintemp/js/jquery.dataTables.min.js'></script>
+    <script src='~/admintemp/js/dataTables.bootstrap4.min.js'></script>
+
+  
+
+}

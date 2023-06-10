@@ -1,0 +1,118 @@
+﻿@model BookUpdateViewModel
+
+
+
+<div class="row justify-content-center">
+    <div class="col-12 col-lg-10 col-xl-8">
+        <h2 class="h3 mb-4 page-title">Profile Update</h2>
+        <div class="my-4">
+            <ul class="nav nav-tabs mb-4" id="myTab" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link" asp-area="admin" asp-controller="book" asp-action="bookProfile" asp-route-id="@Model.Id">Book</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" href="#profile">Update Book</a>
+                </li>
+            </ul> 
+
+            <div class="row mt-5 align-items-center">
+                <div class="col-md-3 text-center mb-5">
+                    <div class="avatar avatar-xl">
+                        <img src="~/images/@Model.PictureUrl" alt="..." width="170px" height="220" />
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="row align-items-center">
+                        <div class="col-md-7">
+                            <h4 class="mb-1">@Model.Name</h4>
+                            <p class="small mb-3"><span class="badge badge-dark"></span></p>
+                        </div>
+                    </div>
+                    <div class="row mb-4">
+                        <div class="col-md-7">
+                            <p class="text-muted"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris blandit nisl ullamcorper, rutrum metus in, congue lectus. In hac habitasse platea dictumst. Cras urna quam, malesuada vitae risus at, pretium blandit sapien. </p>
+                        </div>
+                        <div class="col">
+                            <p class="small mb-0 text-muted">Nec Urna Suscipit Ltd</p>
+                            <p class="small mb-0 text-muted">P.O. Box 464, 5975 Eget Avenue</p>
+                            <p class="small mb-0 text-muted">(537) 315-1481</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <form asp-area="admin" asp-controller="book" asp-action="update" method="post" enctype="multipart/form-data">
+                <input type="hidden" asp-for="Id" />
+                <input type="hidden" asp-for="PictureUrl" />
+                <hr class="my-4">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label asp-for="Name">Name</label>
+                        <input type="text" asp-for="Name" id="firstname" class="form-control" />
+                        <span asp-validation-for="Name"></span>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label for="lastname">Price $</label>
+                        <input type="text" id="lastname" class="form-control" asp-for="Price" />
+                        <span asp-validation-for="Price"></span>
+                    </div>
+                </div>
+             
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label for="date-input1">Publish Date</label>
+                        <div class="input-group">
+                            <input type="date" asp-for="PublishDate" class="form-control">
+                        </div>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label asp-for="CategoryId">Category</label>
+                        <select  asp-for="CategoryId" asp-items="@ViewBag.Kategori" class="form-control">
+                            <option selected="">Choose Category</option>
+                        </select>
+
+                    </div>
+                    <div class="form-group col-md-2">
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label asp-for="Description"> Description</label>
+                        <textarea asp-for="Description" class="form-control" id="inputEmail4"> </textarea>
+                        <span asp-validation-for="Description"></span>
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label asp-for="WriterId">Writer</label>
+                        <select   class="form-control" asp-for="WriterId" asp-items="@ViewBag.Writer">
+                            <option selected="">Choose Writer</option>
+                        </select>
+
+                    </div>
+                </div>
+
+
+                <div class="form-row col-md-6">
+                    <label asp-for="Photo">Picture</label>
+                    <input type="file" asp-for="Photo" class="form-control-file">
+                </div>
+                <hr class="my-4">
+
+                <div class="row mb-4">
+
+                    <div class="col-md-6">
+                    </div>
+                </div>
+
+                <button type="submit" class="btn btn-primary">Update Book</button>
+
+            </form>
+        </div> <!-- /.card-body -->
+    </div> <!-- /.col-12 -->
+</div> <!-- .row -->
+@section Scripts{
+
+
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+            }

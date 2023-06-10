@@ -13,6 +13,522 @@
       "PackagePath": "staticwebassets\\BookSaw.Web.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\.DS_Store",
+      "PackagePath": "staticwebassets\\admintemp\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\avatars\\face-1.jpg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\avatars\\face-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\avatars\\face-2.jpg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\avatars\\face-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\avatars\\face-3.jpg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\avatars\\face-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\avatars\\face-4.jpg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\avatars\\face-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\avatars\\face-5.jpg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\avatars\\face-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\avatars\\face-6.jpg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\avatars\\face-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\avatars\\face-7.jpg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\avatars\\face-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\avatars\\face-8.jpg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\avatars\\face-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\images\\qrcode.svg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\images\\qrcode.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\products\\p1.jpg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\products\\p1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\products\\p2.jpg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\products\\p2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\products\\p3.jpg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\products\\p3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\assets\\products\\p4.jpg",
+      "PackagePath": "staticwebassets\\admintemp\\assets\\products\\p4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\auth-confirm.html",
+      "PackagePath": "staticwebassets\\admintemp\\auth-confirm.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\auth-login-half.html",
+      "PackagePath": "staticwebassets\\admintemp\\auth-login-half.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\auth-login.html",
+      "PackagePath": "staticwebassets\\admintemp\\auth-login.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\auth-register.html",
+      "PackagePath": "staticwebassets\\admintemp\\auth-register.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\auth-resetpw.html",
+      "PackagePath": "staticwebassets\\admintemp\\auth-resetpw.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\calendar.html",
+      "PackagePath": "staticwebassets\\admintemp\\calendar.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\chart-apexcharts.html",
+      "PackagePath": "staticwebassets\\admintemp\\chart-apexcharts.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\chart-chartjs.html",
+      "PackagePath": "staticwebassets\\admintemp\\chart-chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\chart-inline.html",
+      "PackagePath": "staticwebassets\\admintemp\\chart-inline.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\contacts-grid.html",
+      "PackagePath": "staticwebassets\\admintemp\\contacts-grid.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\contacts-list.html",
+      "PackagePath": "staticwebassets\\admintemp\\contacts-list.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\contacts-new.html",
+      "PackagePath": "staticwebassets\\admintemp\\contacts-new.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\apexcharts.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\apexcharts.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\app-dark.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\app-dark.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\app-light.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\app-light.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\app-rtl.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\app-rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\daterangepicker.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\daterangepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\dropzone.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\dropzone.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\dropzone.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\feather.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\feather.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\fullcalendar.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\fullcalendar.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\jquery.steps.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\jquery.steps.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\jquery.timepicker.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\jquery.timepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\quill.snow.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\select2-bootstrap4.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\select2-bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\select2.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\simplebar.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\simplebar.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\css\\uppy.min.css",
+      "PackagePath": "staticwebassets\\admintemp\\css\\uppy.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\dashboard-analytics.html",
+      "PackagePath": "staticwebassets\\admintemp\\dashboard-analytics.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\dashboard-saas.html",
+      "PackagePath": "staticwebassets\\admintemp\\dashboard-saas.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\dashboard-sales.html",
+      "PackagePath": "staticwebassets\\admintemp\\dashboard-sales.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\dashboard-system.html",
+      "PackagePath": "staticwebassets\\admintemp\\dashboard-system.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\data\\contacts.json",
+      "PackagePath": "staticwebassets\\admintemp\\data\\contacts.json"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\data\\eu.topo.json",
+      "PackagePath": "staticwebassets\\admintemp\\data\\eu.topo.json"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\datamaps.html",
+      "PackagePath": "staticwebassets\\admintemp\\datamaps.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\files-grid.html",
+      "PackagePath": "staticwebassets\\admintemp\\files-grid.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\files-list.html",
+      "PackagePath": "staticwebassets\\admintemp\\files-list.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\fonts\\feather.eot",
+      "PackagePath": "staticwebassets\\admintemp\\fonts\\feather.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\fonts\\feather.svg",
+      "PackagePath": "staticwebassets\\admintemp\\fonts\\feather.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\fonts\\feather.ttf",
+      "PackagePath": "staticwebassets\\admintemp\\fonts\\feather.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\fonts\\feather.woff",
+      "PackagePath": "staticwebassets\\admintemp\\fonts\\feather.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\form_advanced.html",
+      "PackagePath": "staticwebassets\\admintemp\\form_advanced.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\form_elements.html",
+      "PackagePath": "staticwebassets\\admintemp\\form_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\form_layouts.html",
+      "PackagePath": "staticwebassets\\admintemp\\form_layouts.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\form_upload.html",
+      "PackagePath": "staticwebassets\\admintemp\\form_upload.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\form_validation.html",
+      "PackagePath": "staticwebassets\\admintemp\\form_validation.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\form_wizard.html",
+      "PackagePath": "staticwebassets\\admintemp\\form_wizard.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\index-boxed.html",
+      "PackagePath": "staticwebassets\\admintemp\\index-boxed.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\index-horizontal.html",
+      "PackagePath": "staticwebassets\\admintemp\\index-horizontal.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\index-vertical.html",
+      "PackagePath": "staticwebassets\\admintemp\\index-vertical.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\index.html",
+      "PackagePath": "staticwebassets\\admintemp\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\apexcharts.custom.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\apexcharts.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\apps.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\apps.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\config.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\d3.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\d3.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\datamaps-zoomto.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\datamaps-zoomto.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\datamaps.all.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\datamaps.all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\datamaps.custom.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\datamaps.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\daterangepicker.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\daterangepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\fullcalendar.custom.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\fullcalendar.custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\fullcalendar.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\fullcalendar.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\gauge.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\gauge.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\jquery.mask.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\jquery.mask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\jquery.steps.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\jquery.steps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\jquery.stickOnScroll.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\jquery.stickOnScroll.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\jquery.timepicker.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\jquery.timepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\perfect-scrollbar.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\perfect-scrollbar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\quill.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\select2.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\tinycolor-min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\tinycolor-min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\topojson.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\topojson.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\js\\uppy.min.js",
+      "PackagePath": "staticwebassets\\admintemp\\js\\uppy.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\page-404.html",
+      "PackagePath": "staticwebassets\\admintemp\\page-404.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\page-500.html",
+      "PackagePath": "staticwebassets\\admintemp\\page-500.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\page-blank.html",
+      "PackagePath": "staticwebassets\\admintemp\\page-blank.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\page-invoice.html",
+      "PackagePath": "staticwebassets\\admintemp\\page-invoice.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\page-orders.html",
+      "PackagePath": "staticwebassets\\admintemp\\page-orders.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\page-timeline.html",
+      "PackagePath": "staticwebassets\\admintemp\\page-timeline.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\profile-notification.html",
+      "PackagePath": "staticwebassets\\admintemp\\profile-notification.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\profile-security.html",
+      "PackagePath": "staticwebassets\\admintemp\\profile-security.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\profile-settings.html",
+      "PackagePath": "staticwebassets\\admintemp\\profile-settings.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\profile.html",
+      "PackagePath": "staticwebassets\\admintemp\\profile.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\support-center.html",
+      "PackagePath": "staticwebassets\\admintemp\\support-center.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\support-faqs.html",
+      "PackagePath": "staticwebassets\\admintemp\\support-faqs.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\support-ticket-detail.html",
+      "PackagePath": "staticwebassets\\admintemp\\support-ticket-detail.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\support-tickets.html",
+      "PackagePath": "staticwebassets\\admintemp\\support-tickets.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\table_advanced.html",
+      "PackagePath": "staticwebassets\\admintemp\\table_advanced.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\table_basic.html",
+      "PackagePath": "staticwebassets\\admintemp\\table_basic.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\table_datatables.html",
+      "PackagePath": "staticwebassets\\admintemp\\table_datatables.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\ui-buttons.html",
+      "PackagePath": "staticwebassets\\admintemp\\ui-buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\ui-color.html",
+      "PackagePath": "staticwebassets\\admintemp\\ui-color.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\ui-icons.html",
+      "PackagePath": "staticwebassets\\admintemp\\ui-icons.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\ui-modals.html",
+      "PackagePath": "staticwebassets\\admintemp\\ui-modals.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\ui-notification.html",
+      "PackagePath": "staticwebassets\\admintemp\\ui-notification.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\ui-progress.html",
+      "PackagePath": "staticwebassets\\admintemp\\ui-progress.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\ui-tabs-accordion.html",
+      "PackagePath": "staticwebassets\\admintemp\\ui-tabs-accordion.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\ui-typograpy.html",
+      "PackagePath": "staticwebassets\\admintemp\\ui-typograpy.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\admintemp\\widgets.html",
+      "PackagePath": "staticwebassets\\admintemp\\widgets.html"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -21,12 +537,28 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\images\\book-images\\KurkMantoluMadonna_208.jpg",
+      "PackagePath": "staticwebassets\\images\\book-images\\KurkMantoluMadonna_208.jpg"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\images\\default_book_image.jpg",
       "PackagePath": "staticwebassets\\images\\default_book_image.jpg"
     },
     {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\images\\default_user.jpg",
       "PackagePath": "staticwebassets\\images\\default_user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\images\\user-images\\Caneriko_606.jpg",
+      "PackagePath": "staticwebassets\\images\\user-images\\Caneriko_606.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\js\\addCategory.js",
+      "PackagePath": "staticwebassets\\js\\addCategory.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\js\\addWriter.js",
+      "PackagePath": "staticwebassets\\js\\addWriter.js"
     },
     {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\js\\site.js",
