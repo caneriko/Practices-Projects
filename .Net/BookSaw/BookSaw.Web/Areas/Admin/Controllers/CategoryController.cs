@@ -2,11 +2,14 @@
 using BookSaw.Service.Extensions;
 using BookSaw.Service.Messages;
 using CategorySaw.Core.Services;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using NToastNotify;
 
 namespace BookSaw.Web.Areas.Admin.Controllers
 {
+    [Authorize(Roles ="SuperAdmin, Admin")]
+
     [Area("Admin")]
     public class CategoryController : Controller
     {
@@ -19,6 +22,8 @@ namespace BookSaw.Web.Areas.Admin.Controllers
             _categoryService = categoryService;
             _toast = toast;
         }
+
+        [Authorize(Roles = "Superadmin, Admin, User")]
 
         public async Task<IActionResult> Index()
         {

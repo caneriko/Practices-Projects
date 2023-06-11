@@ -18,6 +18,31 @@ namespace BookSaw.Web.Controllers
             return View();
         }
 
+        public IActionResult About()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Contact()
+        {
+            return View();
+        }
+
+        //[HttpPost]
+        //public IActionResult Contact()
+        //{
+        //    return View();
+        //}
+
+        [HttpGet]
+
+        public IActionResult ThankYou()
+        {
+            return View();
+        }
+
+
         public IActionResult Privacy()
         {
             return View();

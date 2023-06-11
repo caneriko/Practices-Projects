@@ -529,6 +529,330 @@
       "PackagePath": "staticwebassets\\admintemp\\widgets.html"
     },
     {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\about.html",
+      "PackagePath": "staticwebassets\\bookSaw\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\blog.html",
+      "PackagePath": "staticwebassets\\bookSaw\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\contact.html",
+      "PackagePath": "staticwebassets\\bookSaw\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\contact.php",
+      "PackagePath": "staticwebassets\\bookSaw\\contact.php"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\css\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\bookSaw\\css\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\css\\normalize.css",
+      "PackagePath": "staticwebassets\\bookSaw\\css\\normalize.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\css\\vendor.css",
+      "PackagePath": "staticwebassets\\bookSaw\\css\\vendor.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\bookSaw\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\bookSaw\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\bookSaw\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\bookSaw\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\bookSaw\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\icomoon\\icomoon.css",
+      "PackagePath": "staticwebassets\\bookSaw\\icomoon\\icomoon.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\bookSaw\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\app-store.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\app-store.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\banner.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\chocolat\\close.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\chocolat\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\chocolat\\fullscreen-black.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\chocolat\\fullscreen-black.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\chocolat\\fullscreen.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\chocolat\\fullscreen.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\chocolat\\left.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\chocolat\\left.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\chocolat\\loader.gif",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\chocolat\\loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\chocolat\\right.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\chocolat\\right.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\client-image1.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\client-image1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\client-image2.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\client-image2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\client-image3.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\client-image3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\client-image4.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\client-image4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\client-image5.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\client-image5.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\curly-divider.svg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\curly-divider.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\default.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\default.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\device.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\device.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\google-play.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\google-play.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\item.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\item.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\item1.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\item1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\item3.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\item3.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\item4.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\item4.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\item5.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\item5.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\leaf.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\leaf.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\main-banner1.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\main-banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\main-banner2.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\main-banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\main-logo.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\main-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\ns-arrow-right.svg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\ns-arrow-right.svg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\pattern1.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\pattern1.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\pattern2.png",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\pattern2.png"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\post-img1.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\post-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\post-img2.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\post-img2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\post-img3.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\post-img3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\product-item1.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\product-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\product-item2.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\product-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\product-item3.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\product-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\product-item4.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\product-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\product-item5.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\product-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\product-item6.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\product-item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\product-item7.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\product-item7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\product-item8.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\product-item8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\single-image.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\single-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\tab-item1.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\tab-item1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\tab-item2.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\tab-item2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\tab-item3.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\tab-item3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\tab-item4.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\tab-item4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\tab-item5.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\tab-item5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\tab-item6.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\tab-item6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\tab-item7.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\tab-item7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\tab-item8.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\tab-item8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\team-member2.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\team-member2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\team-member3.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\team-member3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\team-member5.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\team-member5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\images\\team-member7.jpg",
+      "PackagePath": "staticwebassets\\bookSaw\\images\\team-member7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\index.html",
+      "PackagePath": "staticwebassets\\bookSaw\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\js\\jquery-1.11.0.min.js",
+      "PackagePath": "staticwebassets\\bookSaw\\js\\jquery-1.11.0.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\js\\modernizr.js",
+      "PackagePath": "staticwebassets\\bookSaw\\js\\modernizr.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\js\\plugins.js",
+      "PackagePath": "staticwebassets\\bookSaw\\js\\plugins.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\js\\script.js",
+      "PackagePath": "staticwebassets\\bookSaw\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\js\\slideNav.js",
+      "PackagePath": "staticwebassets\\bookSaw\\js\\slideNav.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\js\\slideNav.min.js",
+      "PackagePath": "staticwebassets\\bookSaw\\js\\slideNav.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\readme.txt",
+      "PackagePath": "staticwebassets\\bookSaw\\readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\shop.html",
+      "PackagePath": "staticwebassets\\bookSaw\\shop.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\single-post.html",
+      "PackagePath": "staticwebassets\\bookSaw\\single-post.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\single-product.html",
+      "PackagePath": "staticwebassets\\bookSaw\\single-product.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\style.css",
+      "PackagePath": "staticwebassets\\bookSaw\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\styles.html",
+      "PackagePath": "staticwebassets\\bookSaw\\styles.html"
+    },
+    {
+      "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\bookSaw\\thank-you.html",
+      "PackagePath": "staticwebassets\\bookSaw\\thank-you.html"
+    },
+    {
       "Id": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\BookSaw\\BookSaw.Web\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },

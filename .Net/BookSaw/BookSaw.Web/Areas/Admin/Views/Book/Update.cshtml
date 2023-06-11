@@ -4,14 +4,12 @@
 
 <div class="row justify-content-center">
     <div class="col-12 col-lg-10 col-xl-8">
-        <h2 class="h3 mb-4 page-title">Profile Update</h2>
+        <h2 class="h3 mb-4 page-title">Book Update</h2>
         <div class="my-4">
             <ul class="nav nav-tabs mb-4" id="myTab" role="tablist">
+                 
                 <li class="nav-item">
-                    <a class="nav-link" asp-area="admin" asp-controller="book" asp-action="bookProfile" asp-route-id="@Model.Id">Book</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link active" href="#profile">Update Book</a>
+                    <a class="nav-link active " asp-area="admin" asp-controller="book" asp-action="update" asp-route-id="@Model.Id">Update Book</a>
                 </li>
             </ul> 
 
@@ -33,9 +31,7 @@
                             <p class="text-muted"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris blandit nisl ullamcorper, rutrum metus in, congue lectus. In hac habitasse platea dictumst. Cras urna quam, malesuada vitae risus at, pretium blandit sapien. </p>
                         </div>
                         <div class="col">
-                            <p class="small mb-0 text-muted">Nec Urna Suscipit Ltd</p>
-                            <p class="small mb-0 text-muted">P.O. Box 464, 5975 Eget Avenue</p>
-                            <p class="small mb-0 text-muted">(537) 315-1481</p>
+                            
                         </div>
                     </div>
                 </div>
@@ -110,6 +106,8 @@
         </div> <!-- /.card-body -->
     </div> <!-- /.col-12 -->
 </div> <!-- .row -->
+
+
 @section Scripts{
 
 

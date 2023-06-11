@@ -1,4 +1,5 @@
 ﻿using BookSaw.Core.ViewModels.Category;
+using BookSaw.Core.ViewModels.Writer;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,7 +10,7 @@ namespace BookSaw.Core.ViewModels.Book
 {
     public class BookViewModel
     {
-        public string Name { get; set; }
+         public string Name { get; set; }
 
         public string Description { get; set; }
 
@@ -17,7 +18,7 @@ namespace BookSaw.Core.ViewModels.Book
 
         public DateTime PublishDate { get; set; }
 
-        public string? PictureUrl { get; set; }  
+        public string? PictureUrl { get; set; }
 
         public int? CategoryId { get; set; }
 

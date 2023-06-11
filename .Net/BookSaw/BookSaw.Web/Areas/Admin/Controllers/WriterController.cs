@@ -3,13 +3,16 @@ using BookSaw.Service.Extensions;
 using BookSaw.Service.FluentValidations;
 using BookSaw.Service.Messages;
 using FluentValidation;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using NToastNotify;
+using System.Data;
 using WriterSaw.Core.Services;
 
 namespace BookSaw.Web.Areas.Admin.Controllers
 {
     [Area("Admin")]
+    [Authorize(Roles = "SuperAdmin, Admin")]
 
     public class WriterController : Controller
     {
@@ -22,6 +25,8 @@ namespace BookSaw.Web.Areas.Admin.Controllers
             _writerService = writerService;
             _toast = toast;
         }
+
+        [Authorize(Roles = "SuperAdmin, Admin, User")]
 
         public async Task<IActionResult> Index()
         {

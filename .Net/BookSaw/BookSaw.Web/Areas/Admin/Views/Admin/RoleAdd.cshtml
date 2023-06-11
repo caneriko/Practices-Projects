@@ -1,0 +1,48 @@
+﻿@model RoleAddViewModel
+
+
+
+
+<div class="col-12 col-xl-10">
+    <div class="row align-items-center my-4">
+        <div class="col">
+            <h2 class="h3 mb-0 page-title">Add Role</h2>
+        </div>
+     </div>
+    <form asp-area="admin" asp-controller="admin" asp-action="roleadd" method="post"  >
+        <hr class="my-4">
+        <div asp-validation-summary="ModelOnly"></div>
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label asp-for="Name">Role Name</label>
+                <input type="text" asp-for="Name" class="form-control">
+                <span asp-validation-for="Name"></span>
+            </div>
+         </div>
+  
+        <hr class="my-4">
+
+        <div class="form-row">
+            <div class="col-md-6">
+                <div class="custom-control">
+                    <span>Click on save buttun to save the role</span>
+                </div>
+            </div>
+            <div class="col-md-6 text-right">
+                <button type="submit" class="btn btn-primary">Save</button>
+            </div>
+        </div>
+    </form>
+</div> <!-- .col-12 -->
+
+
+ 
+  
+
+
+@section Scripts {
+
+    <script src='~/admintemp/js/jquery.dataTables.min.js'></script>
+    <script src='~/admintemp/js/dataTables.bootstrap4.min.js'></script>
+
+}

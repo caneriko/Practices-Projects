@@ -23,7 +23,6 @@
 
                         <thead>
                             <tr>
-                                 
                                 <th>Name</th>
                                 <th>Country</th>
                                 <th>Number of Books</th>
@@ -37,7 +36,7 @@
                             @foreach (var item in Model)
                             {
                                 <tr>
-                                    <td>@item.FullName</td>
+                                    <td><a asp-area="admin" asp-controller="writer" asp-action="writerprofile" asp-route-id="@item.Id">@item.FullName</a> </td>
                                     <td>@item.Country</td>
                                     <td> @item.Books.Count</td>
                                     <td><a>All Books</a></td>
@@ -49,8 +48,7 @@
                                         <div class="dropdown-menu dropdown-menu-right">
                                             <a class="dropdown-item" asp-area="admin" asp-controller="writer" asp-action="update" asp-route-id="@item.Id">Edit</a>
                                             <a class="dropdown-item" asp-area="admin" asp-controller="writer" asp-action="safedelete" asp-route-id="@item.Id">Remove</a>
-                                            <a class="dropdown-item" asp-area="admin" asp-controller="writer" asp-action="delete" asp-route-id="@item.Id">Hard Delete</a>
-                                         </div>
+                                          </div>
                                     </td>
                                 </tr>
                             }

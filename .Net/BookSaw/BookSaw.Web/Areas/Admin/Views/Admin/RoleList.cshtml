@@ -1,0 +1,103 @@
+﻿@model List<RoleListViewModel>
+
+
+<div class="col-12">
+    <div class="row align-items-center my-4">
+        <div class="col">
+            <h2 class="h3 mb-0 page-title">Roles</h2>
+        </div>
+        <div class="col-auto">
+            <a  class="btn btn-primary" asp-area="admin" asp-controller="admin" asp-action="roleadd" >
+                Add Role
+            </a>
+        </div>
+    </div>
+
+    <div class="row my-4">
+        <!-- Small table -->
+        <div class="col-md-12">
+            <div class="card shadow">
+                <div class="card-body ">
+                    <!-- table -->
+                    <table class="table datatables text-center" id="dataTable-1">
+
+                        <thead>
+                            <tr>
+                                <th>Id</th>
+                                <th>Name</th>
+                                <th>Action</th>
+                            </tr>
+                        </thead>
+
+                        <tbody>
+
+                            @foreach (var item in Model)
+                            {
+                                <tr>
+                                    <td> @item.Id  </td>
+                                    <td>@item.Name</td>
+                                    <td>
+                                        <button class="btn btn-sm dropdown-toggle more-horizontal" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                            <span class="text-muted sr-only">Action</span>
+                                        </button>
+                                        <div class="dropdown-menu dropdown-menu-right">
+                                            <a class="dropdown-item" asp-area="admin" asp-controller="admin" asp-action="roleupdate" asp-route-id="@item.Id">Edit</a>
+                                            <a class="dropdown-item" asp-area="admin" asp-controller="admin" asp-action="roledelete" asp-route-id="@item.Id">Remove</a>
+                                        </div>
+                                    </td>
+                                </tr>
+                            }
+
+
+
+                        </tbody>
+
+                    </table>
+                </div>
+            </div>
+        </div> <!-- simple table -->
+    </div> <!-- end section -->
+</div> <!-- .col-12 -->
+@section Scripts {
+
+
+
+    <script src='~/admintemp/js/jquery.dataTables.min.js'></script>
+    <script src='~/admintemp/js/dataTables.bootstrap4.min.js'></script>
+
+
+    <script>
+        $('#dataTable-1').DataTable(
+            {
+                autoWidth: true,
+                "lengthMenu": [
+                    [16, 32, 64, -1],
+                    [16, 32, 64, "All"]
+                ]
+            });
+    </script>
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

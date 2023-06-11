@@ -56,21 +56,21 @@ namespace BookSaw.Repository.Migrations
                         new
                         {
                             Id = 1,
-                            ConcurrencyStamp = "c9e7f53c-7e8e-493a-984c-89bd2810c9a4",
+                            ConcurrencyStamp = "386e2f1e-9020-44a2-bb38-8a2dbb275b4a",
                             Name = "Superadmin",
                             NormalizedName = "SUPERADMIN"
                         },
                         new
                         {
                             Id = 2,
-                            ConcurrencyStamp = "e5f7fc88-4752-44f9-ba50-bff2fe1f1e95",
+                            ConcurrencyStamp = "15c0547b-d83a-4c1e-ba35-36899fc22a97",
                             Name = "Admin",
                             NormalizedName = "ADMIN"
                         },
                         new
                         {
                             Id = 3,
-                            ConcurrencyStamp = "6f5ea6c0-9ee7-4b8a-acfa-fd3f554cf249",
+                            ConcurrencyStamp = "2ae73e3c-0d20-4081-8f84-d076a9c2149a",
                             Name = "User",
                             NormalizedName = "USER"
                         });
@@ -161,18 +161,18 @@ namespace BookSaw.Repository.Migrations
                         {
                             Id = 1,
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "62616d24-ed48-47e9-9259-b510a5bf70db",
+                            ConcurrencyStamp = "204f2bb9-ca3f-490f-9010-3255228dde22",
                             Email = "superadmin@gmail.com",
                             EmailConfirmed = true,
                             FullName = "Caner Aydın",
                             LockoutEnabled = false,
                             NormalizedEmail = "SUPERADMIN@GMAIL.COM",
                             NormalizedUserName = "CANERIKO",
-                            PasswordHash = "AQAAAAEAACcQAAAAEEvbJ/ORz+OXyCt0TgNy7cgW/l49Hky10aGPu7E9ET8kx1mxuo0xnkGaU3Aidtustg==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEJbS+rRdFB+pxzECJaS6PcpRjc8cyqC12EEs/f6H92EamBkjwZ5hM7NRT4W1/QxGwQ==",
                             PhoneNumber = "+905439999999",
                             PhoneNumberConfirmed = true,
                             PictureUrl = "default_user.jpg",
-                            SecurityStamp = "f431aeff-502c-4f96-9313-440cfa611307",
+                            SecurityStamp = "549de2de-8f85-4f95-85c6-b77701725472",
                             TwoFactorEnabled = false,
                             UserName = "Caneriko"
                         },
@@ -180,18 +180,18 @@ namespace BookSaw.Repository.Migrations
                         {
                             Id = 2,
                             AccessFailedCount = 0,
-                            ConcurrencyStamp = "d87d50aa-60a1-48b7-a569-ba3a8b02b8f5",
+                            ConcurrencyStamp = "ce9986f4-3af2-4014-afae-efa98e2fed66",
                             Email = "admin@gmail.com",
                             EmailConfirmed = false,
                             FullName = "Bafetimbi Gomis",
                             LockoutEnabled = false,
                             NormalizedEmail = "ADMIN@GMAIL.COM",
                             NormalizedUserName = "BAFE",
-                            PasswordHash = "AQAAAAEAACcQAAAAEOey2LBCHdp/IVZ9Lh8Ynf6cvwlTE3PhfNrBSuHxwui4VVvvN6xY2cYvrGezu/2BlA==",
+                            PasswordHash = "AQAAAAEAACcQAAAAEI6DyaSvKQz1oDD/GkvdeWYQs7jYL+lZiTvecQUqvAy3ecR8TAq5gpPKQ2ZJbSbWpw==",
                             PhoneNumber = "+905439999988",
                             PhoneNumberConfirmed = false,
                             PictureUrl = "default_user.jpg",
-                            SecurityStamp = "8880939b-c651-4035-a98d-9184a6442f34",
+                            SecurityStamp = "c8aecc33-9c0e-4ba5-872f-3dd6bf3aacb4",
                             TwoFactorEnabled = false,
                             UserName = "Bafe"
                         });
