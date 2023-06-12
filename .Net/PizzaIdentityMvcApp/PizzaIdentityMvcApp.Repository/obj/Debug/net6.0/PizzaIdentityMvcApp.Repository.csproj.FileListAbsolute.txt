@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\bin\Debug\net6.0\PizzaIdentityMvcApp.Repository.deps.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\bin\Debug\net6.0\PizzaIdentityMvcApp.Repository.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\bin\Debug\net6.0\PizzaIdentityMvcApp.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\bin\Debug\net6.0\PizzaIdentityMvcApp.Repository.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\obj\Debug\net6.0\PizzaIdentityMvcApp.Repository.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\obj\Debug\net6.0\PizzaIdentityMvcApp.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\obj\Debug\net6.0\PizzaIdentityMvcApp.Repository.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\obj\Debug\net6.0\PizzaIdentityMvcApp.Repository.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\obj\Debug\net6.0\PizzaIdentityMvcApp.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\obj\Debug\net6.0\PizzaIdentityMvcApp.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\obj\Debug\net6.0\refint\PizzaIdentityMvcApp.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\obj\Debug\net6.0\PizzaIdentityMvcApp.Repository.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\obj\Debug\net6.0\PizzaIdentityMvcApp.Repository.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\obj\Debug\net6.0\ref\PizzaIdentityMvcApp.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\bin\Debug\net6.0\PizzaIdentityMvcApp.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\bin\Debug\net6.0\PizzaIdentityMvcApp.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Repository\obj\Debug\net6.0\PizzaIdentityMvcApp.Repository.csproj.CopyComplete

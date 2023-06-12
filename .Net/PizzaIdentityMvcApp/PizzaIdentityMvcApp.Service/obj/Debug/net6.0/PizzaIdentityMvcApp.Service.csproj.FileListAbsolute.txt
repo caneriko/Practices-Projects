@@ -1,0 +1,17 @@
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\bin\Debug\net6.0\PizzaIdentityMvcApp.Service.deps.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\bin\Debug\net6.0\PizzaIdentityMvcApp.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\bin\Debug\net6.0\PizzaIdentityMvcApp.Service.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\obj\Debug\net6.0\PizzaIdentityMvcApp.Service.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\obj\Debug\net6.0\PizzaIdentityMvcApp.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\obj\Debug\net6.0\PizzaIdentityMvcApp.Service.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\obj\Debug\net6.0\PizzaIdentityMvcApp.Service.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\obj\Debug\net6.0\PizzaIdentityMvcApp.Service.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\obj\Debug\net6.0\PizzaIdentityMvcApp.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\obj\Debug\net6.0\refint\PizzaIdentityMvcApp.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\obj\Debug\net6.0\PizzaIdentityMvcApp.Service.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\obj\Debug\net6.0\ref\PizzaIdentityMvcApp.Service.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\bin\Debug\net6.0\PizzaIdentityMvcApp.Core.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\bin\Debug\net6.0\PizzaIdentityMvcApp.Repository.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\bin\Debug\net6.0\PizzaIdentityMvcApp.Repository.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\bin\Debug\net6.0\PizzaIdentityMvcApp.Core.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Service\obj\Debug\net6.0\PizzaIdentityMvcApp.Service.csproj.CopyComplete
