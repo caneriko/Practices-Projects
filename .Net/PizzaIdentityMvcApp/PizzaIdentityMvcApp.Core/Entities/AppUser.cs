@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PizzaIdentityMvcApp.Core.Entities
 {
-    public class AppUser : IdentityUser<string>
+    public class AppUser : IdentityUser 
     {
         public string FullName { get; set; }
 

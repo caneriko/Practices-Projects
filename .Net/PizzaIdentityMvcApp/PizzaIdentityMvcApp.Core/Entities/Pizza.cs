@@ -14,5 +14,13 @@ namespace PizzaIdentityMvcApp.Core.Entities
 
         public decimal Price { get; set; }
 
-     }
+        public string CreatedBy { get; set; } = "undefined";
+
+        public DateTime CreatedDate { get; set;} = DateTime.Now;
+
+        public DateTime? UpdatedDate { get; set; }
+        public DateTime? DeletedDate { get; set; }
+
+
+    }
 }

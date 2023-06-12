@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace PizzaIdentityMvcApp.Core.Entities
 {
-    public class AppRole : IdentityRole<string>
+    public class AppRole : IdentityRole
     {
 
     }

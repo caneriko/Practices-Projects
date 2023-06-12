@@ -1,5 +1,6 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using NToastNotify;
 using PizzaIdentityMvcApp.Core.Entities;
 using PizzaIdentityMvcApp.Repository;
 using System.Reflection;
@@ -13,7 +14,12 @@ namespace PizzaIdentityMvcApp.Web
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-            builder.Services.AddControllersWithViews();
+            builder.Services.AddControllersWithViews()
+                            .AddNToastNotifyToastr(new NToastNotify.ToastrOptions()
+                            {
+                                PositionClass = ToastPositions.TopFullWidth,
+                                TimeOut = 3000
+                            });
 
             builder.Services.AddDbContext<PizzaAppDbContext>(opt =>
             {
@@ -23,10 +29,38 @@ namespace PizzaIdentityMvcApp.Web
                 });
             });
 
-            builder.Services.AddIdentity<AppUser, AppRole>()
+            builder.Services.AddIdentity<AppUser, AppRole>(opt =>
+            {
+                opt.User.RequireUniqueEmail = true;
+
+                opt.Password.RequireNonAlphanumeric = true;
+                opt.Password.RequireDigit= true;
+                opt.Password.RequiredLength = 6;
+
+
+                opt.Lockout.MaxFailedAccessAttempts = 5;
+                opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(5);
+                opt.Lockout.AllowedForNewUsers = true;
+
+            })
                             .AddRoleManager<RoleManager<AppRole>>()
                                 .AddEntityFrameworkStores<PizzaAppDbContext>()
                                   .AddDefaultTokenProviders();
+
+
+            builder.Services.ConfigureApplicationCookie(opt =>
+            {
+                var cookie = new CookieBuilder();
+                cookie.Name = "PizzaIdentity";
+
+                opt.LoginPath = new PathString("/home/Login");
+                opt.LogoutPath = new PathString("/member/Logout");
+                opt.AccessDeniedPath = new PathString("/home/accessdenied");
+
+                opt.SlidingExpiration = true;
+                opt.ExpireTimeSpan = TimeSpan.FromDays(50);
+
+            });
 
 
             var app = builder.Build();
@@ -39,11 +73,13 @@ namespace PizzaIdentityMvcApp.Web
                 app.UseHsts();
             }
 
+            app.UseNToastNotify();
             app.UseHttpsRedirection();
             app.UseStaticFiles();
 
             app.UseRouting();
 
+            app.UseAuthentication();
             app.UseAuthorization();
 
             app.MapControllerRoute(

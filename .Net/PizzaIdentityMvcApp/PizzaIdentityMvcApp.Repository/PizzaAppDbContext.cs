@@ -17,5 +17,14 @@ namespace PizzaIdentityMvcApp.Repository
         }
 
         public DbSet<Pizza> MyProperty { get; set; }
+
+        //protected override void OnModelCreating(ModelBuilder builder)
+        //{
+        //    builder.Entity<AppUser>(entity =>
+        //    {
+        //        entity.Property(e => e.Id).ValueGeneratedOnAdd();
+        //    });
+        //}
     }
 }
+
