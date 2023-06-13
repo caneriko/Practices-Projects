@@ -65,21 +65,7 @@ namespace PizzaIdentityMvcApp.Web.Controllers
             return View();
         }
 
-        [HttpGet]
-        public async Task<IActionResult> UserList()
-        {
-            var users = await _userManager.Users.ToListAsync();
-
-            var viewModel = new List<UserListViewModel>();
-
-            foreach (var item in users)
-            {
-                viewModel.Add(new() { Id=item.Id, Email = item.Email, FullName = item.FullName, UserName = item.UserName });
-
-            }
-
-            return View(viewModel);
-        }
+       
 
         [HttpGet]
         public IActionResult Login()

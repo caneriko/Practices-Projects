@@ -3,7 +3,7 @@
 
 
 <div class="col-12">
-    <h2 class="mb-2 page-title">User List</h2>
+    <h2 class="mb-2 page-title">Kullanıcılar</h2>
      
     <div class="row my-4">
         <!-- Small table -->
@@ -19,18 +19,16 @@
                                 <th>#</th>
                                 <th>Name</th>
                                 <th>Username</th>
-                                <th>Phone</th>
                                 <th>Email</th>
                                 <th>Roles</th>
-                                <th>City</th>
-                                <th>Date</th>
                                 <th>Action</th>
                             </tr>
                         </thead>
 
                         <tbody>
 
-                             
+                            @foreach (var item in Model)
+                            {
                                 <tr>
                                     <td>
                                         <div class="custom-control custom-checkbox">
@@ -38,15 +36,12 @@
                                             <label class="custom-control-label"></label>
                                         </div>
                                     </td>
-                                    <td>368</td>
-                                    <td>item.FullName</td>
-                                    <td>item.UserName</td>
-                                    <td>item.PhoneNumber</td>
-                                    <td> item.Email</td>
-                                    <td><user-role-names ></user-role-names></td>
-                                    <td>High Wycombe</td>
-                                    <td>Jun 8, 2019</td>
-                                    <td>
+                                    <td>@item.Id</td>
+                                    <td>@item.FullName</td>
+                                    <td>@item.UserName</td>
+                                    <td>@item.Email</td>
+                                    <td> </td>
+                                     <td>
                                         <button class="btn btn-sm dropdown-toggle more-horizontal" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             <span class="text-muted sr-only">Action</span>
                                         </button>
@@ -57,6 +52,9 @@
                                         </div>
                                     </td>
                                 </tr>
+                            }
+                             
+                             
                              
 
 
