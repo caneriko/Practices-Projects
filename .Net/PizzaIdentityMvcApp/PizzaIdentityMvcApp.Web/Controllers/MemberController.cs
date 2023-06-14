@@ -58,6 +58,73 @@ namespace PizzaIdentityMvcApp.Web.Controllers
 
 
 
+        [HttpGet]
+
+        public async Task<IActionResult> UserProfile(string? name=null)
+        {
+            name ??= (User.Identity!.Name!);
+
+            var user =await  _userManager.FindByNameAsync(name);
+
+            var viewModel = new UserProfileViewModel()
+            {
+                UserName = user.UserName,
+                FullName = user.FullName,
+                Email = user.Email,
+                PhoneNumber = user.PhoneNumber,
+                City = user.City
+            };
+
+            return View(viewModel);
+        }
+
+        public IActionResult PasswordChange()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> PasswordChange(PasswordChangeViewModel viewModel)
+        {
+
+            if (!ModelState.IsValid)
+            {
+                return View();
+
+            }
+
+            var user = await _userManager.FindByNameAsync(User.Identity!.Name!);
+
+            var checkOldPassword = await _userManager.CheckPasswordAsync(user, viewModel.OldPassword);
+
+            if (!checkOldPassword)
+            {
+                ModelState.AddModelError(string.Empty, "Şifreniz yanlıştır");
+                return View();
+            }
+
+            var result = await _userManager.ChangePasswordAsync(user, viewModel.OldPassword, viewModel.ConfirmPassword);
+
+            if (result.Succeeded)
+            {
+                _toast.AddSuccessToastMessage();
+
+                await _userManager.UpdateSecurityStampAsync(user);
+                await _signInManager.SignOutAsync();
+                await _signInManager.PasswordSignInAsync(user, viewModel.ConfirmPassword, true, true);
+
+                return RedirectToAction(nameof(MemberController.UserProfile));
+            }
+
+            foreach (var item in result.Errors)
+            {
+                ModelState.AddModelError(string.Empty, item.Description);
+            }
+
+            return View();
+        }
+
+
         public async Task<IActionResult> RoleList()
         {
             var roles = await _roleManager.Roles.Select(x => new RoleListViewModel()

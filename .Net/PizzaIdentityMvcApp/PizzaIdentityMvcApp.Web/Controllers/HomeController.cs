@@ -74,10 +74,15 @@ namespace PizzaIdentityMvcApp.Web.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> Login(UserLoginViewModel viewModel, string returnUrl=null)
+        public async Task<IActionResult> Login(UserLoginViewModel viewModel)
         {
-            returnUrl = returnUrl ?? Url.Action("Index", "Home");
+            if (!ModelState.IsValid)
+            {
+                return View();
 
+            }
+
+ 
             var user = await _userManager.FindByEmailAsync(viewModel.Email);
 
             if (user==null)
@@ -92,13 +97,13 @@ namespace PizzaIdentityMvcApp.Web.Controllers
 
             if (result.Succeeded)
             {
-                return Redirect(returnUrl);
+                return RedirectToAction(nameof(HomeController.Index));
             }
 
             if (result.IsLockedOut)
             {
                 ModelState.AddModelError(string.Empty, "5 dakika boyunca giriş yapamazsınız");
-                return Redirect(returnUrl);
+                return RedirectToAction(nameof(HomeController.Index));
             }
 
             ModelState.AddModelError(string.Empty, "Email yada şifre yanlış");

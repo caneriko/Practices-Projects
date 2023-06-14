@@ -37,10 +37,10 @@
 
                 </a>
                 <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdownMenuLink">
-                    <a class="dropdown-item" asp-controller="user" asp-action="userprofile">Profil</a>
+                    <a class="dropdown-item" asp-controller="member" asp-action="userprofile">Profil</a>
                     <a class="dropdown-item" asp-controller="member" asp-action="rolelist">Roller</a>
                     <a class="dropdown-item" asp-controller="member" asp-action="update" asp-route-name="@User.Identity.Name">Ayarlar</a>
-                    <a class="dropdown-item" asp-controller="member" asp-action="logout" asp-route-returnurl="/home/index">Çıkış Yap</a>
+                    <a class="dropdown-item" asp-controller="member" asp-action="logout" asp-route-returnurl="/home/index"><i class="fa-solid fa-power-off"></i> Çıkış Yap</a>
                 </div>
             </li>
         }
