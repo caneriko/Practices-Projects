@@ -3,6 +3,7 @@ using Microsoft.EntityFrameworkCore;
 using NToastNotify;
 using PizzaIdentityMvcApp.Core.Entities;
 using PizzaIdentityMvcApp.Repository;
+using PizzaIdentityMvcApp.Service.Helpers;
 using System.Reflection;
 
 namespace PizzaIdentityMvcApp.Web
@@ -62,6 +63,7 @@ namespace PizzaIdentityMvcApp.Web
 
             });
 
+            builder.Services.AddScoped<IImageHelper, ImageHelper>();
 
             var app = builder.Build();
 

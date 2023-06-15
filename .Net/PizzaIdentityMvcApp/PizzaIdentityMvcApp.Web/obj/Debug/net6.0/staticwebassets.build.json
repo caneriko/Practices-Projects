@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "kbH2QQ5tbyB3a2dSbdEENCtrkMy0NiR+4OUlDis54oU=",
+  "Hash": "ex1aBCMp4BWrmnGyZVNd3MM3+X5ux6c8NYF35hT4RI0=",
   "Source": "PizzaIdentityMvcApp.Web",
   "BasePath": "_content/PizzaIdentityMvcApp.Web",
   "Mode": "Default",
@@ -2123,6 +2123,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\PizzaIdentityMvcApp\\PizzaIdentityMvcApp.Web\\wwwroot\\images\\default_user.jpg",
+      "SourceId": "PizzaIdentityMvcApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\PizzaIdentityMvcApp\\PizzaIdentityMvcApp.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaIdentityMvcApp.Web",
+      "RelativePath": "images/default_user.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\default_user.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\PizzaIdentityMvcApp\\PizzaIdentityMvcApp.Web\\wwwroot\\images\\user-images\\caneriko95_909.jpg",
+      "SourceId": "PizzaIdentityMvcApp.Web",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\PizzaIdentityMvcApp\\PizzaIdentityMvcApp.Web\\wwwroot\\",
+      "BasePath": "_content/PizzaIdentityMvcApp.Web",
+      "RelativePath": "images/user-images/caneriko95_909.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\user-images\\caneriko95_909.jpg"
     },
     {
       "Identity": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\PizzaIdentityMvcApp\\PizzaIdentityMvcApp.Web\\wwwroot\\js\\site.js",

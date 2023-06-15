@@ -403,10 +403,3 @@ C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentit
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Web\obj\Debug\net6.0\PizzaIdentityMvcApp.Web.pdb
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Web\obj\Debug\net6.0\PizzaIdentityMvcApp.Web.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Web\obj\Debug\net6.0\ref\PizzaIdentityMvcApp.Web.dll
-C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Web\bin\Debug\net6.0\System.Web.Mvc.dll
-C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Web\bin\Debug\net6.0\System.Web.Razor.dll
-C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Web\bin\Debug\net6.0\System.Web.Helpers.dll
-C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Web\bin\Debug\net6.0\System.Web.WebPages.Deployment.dll
-C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Web\bin\Debug\net6.0\System.Web.WebPages.Razor.dll
-C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Web\bin\Debug\net6.0\System.Web.WebPages.dll
-C:\Users\Lenovo\Desktop\Practices-Projects\.Net\PizzaIdentityMvcApp\PizzaIdentityMvcApp.Web\bin\Debug\net6.0\Microsoft.Web.Infrastructure.dll

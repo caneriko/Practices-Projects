@@ -13,6 +13,8 @@ namespace PizzaIdentityMvcApp.Core.Entities
 
         public string? City { get; set; }
 
+        public string PictureUrl { get; set; } = "default_user.jpg";
+
 
     }
 }

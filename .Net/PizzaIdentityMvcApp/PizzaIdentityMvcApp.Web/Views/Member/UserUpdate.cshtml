@@ -1,0 +1,113 @@
+﻿@model UserUpdateViewModel
+
+
+
+<div class="row justify-content-center">
+    <div class="col-12 col-lg-10 col-xl-8">
+        <h2 class="h3 mb-4 page-title">@User.Identity!.Name</h2>
+        <div class="my-4">
+            <ul class="nav nav-tabs mb-4" id="myTab" role="tablist">
+                <li class="nav-item">
+                    <a class="nav-link " asp-controller="member" asp-action="userprofile">Profil</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active ">Profil Güncelle</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" asp-controller="member" asp-action="passwordchange">Şifre Değiştir</a>
+                </li>
+            </ul>
+            <form asp-controller="member" asp-action="userupdate" method="post" enctype="multipart/form-data">
+                <input asp-for="Id" type="hidden" />
+                <input asp-for="PictureUrl" type="hidden" />
+                <div class="row mt-5 align-items-center">
+                    <div class="col-md-3 text-center mb-5">
+                        <div class="avatar avatar-xl">
+                            <img src="~/images/@Model.PictureUrl" alt="..." class="avatar-img rounded-circle">
+                        </div>
+                    </div>
+                    <div class="col">
+                        <div class="row align-items-center">
+                            <div class="col-md-7">
+                                <h4 class="mb-1"> </h4>
+                                <p class="small mb-3"><span class="badge badge-dark">@(Model.City == null ? "Türkiye/İstanbul" : Model.City)</span></p>
+                            </div>
+                        </div>
+                        <div class="row mb-4">
+                            <div class="col-md-7">
+                                <p class="text-muted"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris blandit nisl ullamcorper, rutrum metus in, congue lectus. In hac habitasse platea dictumst. Cras urna quam, malesuada vitae risus at, pretium blandit sapien. </p>
+                            </div>
+                            <div class="col">
+                                <p class="small mb-0 text-muted">Nec Urna Suscipit Ltd</p>
+                                <p class="small mb-0 text-muted">P.O. Box 464, 5975 Eget Avenue</p>
+                                <p class="small mb-0 text-muted">(537) 315-1481</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <hr class="my-4">
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label asp-for="FullName">İsim-Soyisim</label>
+                        <input type="text" asp-for="FullName" class="form-control text-black">
+                    </div>
+                    <div class="form-group col-md-6">
+                        <label asp-for="UserName">Kullanıcı Adı</label>
+                        <input type="text" asp-for="UserName" class="form-control text-black">
+                    </div>
+                </div>
+                @*<div class="form-group">
+                <label for="inputEmail4">Email</label>
+                <input type="email" class="form-control" id="inputEmail4"   readonly>
+                </div>
+                <div class="form-group">
+                <label for="inputAddress5">Address</label>
+                <input type="text" class="form-control" id="inputAddress5" placeholder="P.O. Box 464, 5975 Eget Avenue">
+                </div>*@
+                <div class="form-row">
+                    <div class="form-group col-md-6">
+                        <label asp-for="Email">Email</label>
+                        <input type="text" asp-for="Email" class="form-control text-black">
+                    </div>
+                    <div class="form-group col-md-4">
+                        <label asp-for="PhoneNumber">Telefon</label>
+                        <input type="text" asp-for="PhoneNumber" class="form-control text-black">
+                    </div>
+                    <div class="form-group col-md-2">
+                        <label asp-for="City">Şehir</label>
+                        <input type="text" asp-for="City" class="form-control text-black">
+                    </div>
+                </div>
+
+                <div class="form-row">
+                    <div class="form-group col-md-4">
+                        <label asp-for="Photo">Resim Ekle</label>
+                        <input type="file" asp-for="Photo" class="form-control-file">
+                    </div>
+
+                </div>
+
+
+                <hr class="my-4">
+
+                <div class="form-row">
+                    <div class="col-md-6">
+                        <div class="custom-control">
+                            <span>Değişiklikleri kaydetmek için kaydet butonuna tıklayın</span>
+                        </div>
+                    </div>
+                    <div class="col-md-6 text-right">
+                        <button type="submit" class="btn btn-primary">Kaydet</button>
+                    </div>
+                </div>
+
+
+
+            </form>
+        </div> <!-- /.card-body -->
+    </div> <!-- /.col-12 -->
+</div> <!-- .row -->
+@section Scripts{
+    <script src="~/lib/jquery-validation/dist/jquery.validate.min.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"></script>
+            }

@@ -6,6 +6,7 @@ using NToastNotify;
 using PizzaIdentityMvcApp.Core.Entities;
 using PizzaIdentityMvcApp.Core.ViewModels.Role;
 using PizzaIdentityMvcApp.Core.ViewModels.User;
+using PizzaIdentityMvcApp.Service.Helpers;
 
 namespace PizzaIdentityMvcApp.Web.Controllers
 {
@@ -16,20 +17,18 @@ namespace PizzaIdentityMvcApp.Web.Controllers
         private readonly UserManager<AppUser> _userManager;
         private readonly RoleManager<AppRole> _roleManager;
         private readonly IToastNotification _toast;
+        private readonly IImageHelper _imageHelper;
 
 
-        public MemberController(SignInManager<AppUser> signInManager, RoleManager<AppRole> roleManager, IToastNotification toast, UserManager<AppUser> userManager)
+        public MemberController(SignInManager<AppUser> signInManager, RoleManager<AppRole> roleManager, IToastNotification toast, UserManager<AppUser> userManager, IImageHelper imageHelper)
         {
             _signInManager = signInManager;
             _roleManager = roleManager;
             _toast = toast;
             _userManager = userManager;
+            _imageHelper = imageHelper;
         }
 
-        public IActionResult Deneme()
-        {
-            return View();
-        }
 
 
 
@@ -60,9 +59,9 @@ namespace PizzaIdentityMvcApp.Web.Controllers
 
         [HttpGet]
 
-        public async Task<IActionResult> UserProfile(string? name=null)
+        public async Task<IActionResult> UserProfile()
         {
-            name ??= (User.Identity!.Name!);
+           string name = User.Identity!.Name!;
 
             var user =await  _userManager.FindByNameAsync(name);
 
@@ -72,11 +71,83 @@ namespace PizzaIdentityMvcApp.Web.Controllers
                 FullName = user.FullName,
                 Email = user.Email,
                 PhoneNumber = user.PhoneNumber,
-                City = user.City
+                City = user.City,
+                PictureUrl=user.PictureUrl
+                
             };
 
             return View(viewModel);
         }
+
+        public async Task<IActionResult> UserUpdate()
+        {
+
+            string name = User.Identity!.Name!;
+
+            var user = await _userManager.FindByNameAsync(name);
+
+            var viewModel = new UserUpdateViewModel()
+            {
+                Id = user.Id,
+                Email = user.Email,
+                UserName = user.UserName,
+                PhoneNumber = user.PhoneNumber,
+                City = user.City,
+                PictureUrl = user.PictureUrl,
+                FullName = user.FullName
+
+            };
+
+
+            return View(viewModel);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> UserUpdate(UserUpdateViewModel viewModel)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View(); 
+            }
+
+            var user = await _userManager.FindByIdAsync(viewModel.Id);
+
+            user.FullName= viewModel.FullName;
+            user.PhoneNumber= viewModel.PhoneNumber;
+            user.UserName= viewModel.UserName;
+            user.Email= viewModel.Email;
+            user.City= viewModel.City;
+
+            if (viewModel.Photo!=null)
+            {
+                if (viewModel.PictureUrl!= "default_user.jpg")
+                {
+                    _imageHelper.Delete(viewModel.PictureUrl);
+                }
+
+                user.PictureUrl = await _imageHelper.ImageUpload(user.UserName, viewModel.Photo, viewModel.ImageTip.Value);
+
+            }
+
+            var result = await _userManager.UpdateAsync(user);
+
+            if (!result.Succeeded)
+            {
+                _toast.AddErrorToastMessage();
+
+                foreach (var item in result.Errors)
+                {
+                    ModelState.AddModelError(string.Empty, item.Description);
+                }
+                return View(viewModel); 
+            }
+
+            await _userManager.UpdateSecurityStampAsync(user);
+
+            return RedirectToAction(nameof(MemberController.UserProfile));
+
+        }
+
 
         public IActionResult PasswordChange()
         {
@@ -125,6 +196,12 @@ namespace PizzaIdentityMvcApp.Web.Controllers
         }
 
 
+
+
+
+
+        #region Role
+
         public async Task<IActionResult> RoleList()
         {
             var roles = await _roleManager.Roles.Select(x => new RoleListViewModel()
@@ -132,7 +209,7 @@ namespace PizzaIdentityMvcApp.Web.Controllers
                 Id = x.Id,
                 Name = x.Name
             }).ToListAsync();
-                
+
 
             return View(roles);
         }
@@ -181,7 +258,7 @@ namespace PizzaIdentityMvcApp.Web.Controllers
 
             var role = await _roleManager.FindByIdAsync(viewModel.Id);
 
-            role.Name=viewModel.Name;
+            role.Name = viewModel.Name;
 
             var result = await _roleManager.UpdateAsync(role);
 
@@ -216,6 +293,12 @@ namespace PizzaIdentityMvcApp.Web.Controllers
 
 
         }
+
+
+
+        #endregion
+
+
 
 
     }
