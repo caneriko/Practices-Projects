@@ -40,7 +40,7 @@
                                     <td>@item.FullName</td>
                                     <td>@item.UserName</td>
                                     <td>@item.Email</td>
-                                    <td> </td>
+                                    <td> <user-role-names user-id="@item.Id"></user-role-names>  </td>
                                      <td>
                                         <button class="btn btn-sm dropdown-toggle more-horizontal" type="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                             <span class="text-muted sr-only">Action</span>
@@ -48,6 +48,7 @@
                                         <div class="dropdown-menu dropdown-menu-right">
                                             <a class="dropdown-item" asp-controller="member" asp-action="userprofie" asp-route-name="@item.UserName">Profil</a>
                                             <a class="dropdown-item" asp-controller="member" asp-action="userupdate" asp-route-name="@item.UserName">Profil Güncelle</a>
+                                            <a class="dropdown-item" asp-controller="member" asp-action="AssignRoleToUser" asp-route-id="@item.Id">Rol Ata</a>
                                             <a class="dropdown-item" href="#">Remove</a>
                                             
                                         </div>

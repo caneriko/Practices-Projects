@@ -295,6 +295,57 @@ namespace PizzaIdentityMvcApp.Web.Controllers
         }
 
 
+        public async Task<IActionResult> AssignRoleToUser(string id)
+        {
+            ViewBag.UserId = id;
+
+            var user = await _userManager.FindByIdAsync(id);
+
+            var roles = await _roleManager.Roles.ToListAsync();
+
+            var roleViewModelList = new List<AssignRoleToUserViewModel>();
+
+            var userRoles = await _userManager.GetRolesAsync(user);
+
+            foreach (var role in roles)
+            {
+                var assignToRoleUserModel = new AssignRoleToUserViewModel() { Id = role.Id, Name = role.Name };
+
+                if (userRoles.Contains(role.Name))
+                {
+                    assignToRoleUserModel.Exist = true;
+                }
+
+                roleViewModelList.Add(assignToRoleUserModel);
+            }
+
+            return View(roleViewModelList);
+
+        }
+
+
+        [HttpPost]
+
+        public async Task<IActionResult> AssignRoleToUser(string userId, List<AssignRoleToUserViewModel> viewModel)
+        {
+            var user = await _userManager.FindByIdAsync(userId);
+
+            foreach (var role in viewModel)
+            {
+                if (role.Exist)
+                {
+                    await _userManager.AddToRoleAsync(user, role.Name);
+                }
+                else
+                {
+                    await _userManager.RemoveFromRoleAsync(user, role.Name);
+                }
+            }
+
+            return RedirectToAction(nameof(MemberController.UserList));
+
+        }
+
 
         #endregion
 

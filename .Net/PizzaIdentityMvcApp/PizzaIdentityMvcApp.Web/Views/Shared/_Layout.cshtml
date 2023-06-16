@@ -34,30 +34,36 @@
 </head>
 <body>
 
+    <div class="wrapper">
 
-    <div class="container-fluid">
-        <div class="row justify-content-center">
 
-            <header>
-                <partial name="_Navbar"></partial>
-            </header>
-            <div class="container">
-                <main role="main" class="pb-3">
-                    @RenderBody()
-                </main>
-            </div>
-            <footer class="border-top footer text-muted">
-                <div class="container">
-                    &copy; 2023 - PizzaIdentityMvcApp.Web - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
-                </div>
-            </footer>
-        </div> <!-- .row -->
-    </div> <!-- .container-fluid -->
+        <partial name="_Navbar"></partial>
+
 
  
- 
+        <main role="main" class="main-content">
+            <div class="container-fluid">
+                <div class="row justify-content-center">
+                    <div class="col-12">
 
-   
+                        @RenderBody()
+
+
+                        <footer class="border-top footer text-muted">
+                            <div class="container">
+                                &copy; 2023 - PizzaIdentityMvcApp.Web - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+                            </div>
+                        </footer>
+                    </div>
+                </div> <!-- .row -->
+            </div> <!-- .container-fluid -->
+        </main>
+    </div>
+
+
+
+
+
 
     <script src="~/admintemp/js/jquery.min.js"></script>
     <script src="~/admintemp/js/popper.min.js"></script>
