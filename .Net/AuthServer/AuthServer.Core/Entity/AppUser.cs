@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AuthServer.Core.Entity
 {
-    public class AppUser : IdentityUser<string>
+    public class AppUser : IdentityUser
     {
         public string City { get; set; }
 
