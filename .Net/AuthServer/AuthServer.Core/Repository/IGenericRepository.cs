@@ -17,7 +17,7 @@ namespace AuthServer.Core.Repository
 
         Task AddAsync(T entity);
 
-        void Update(T entity);
+        T Update(T entity);
 
         void Delete(T entity);
 
