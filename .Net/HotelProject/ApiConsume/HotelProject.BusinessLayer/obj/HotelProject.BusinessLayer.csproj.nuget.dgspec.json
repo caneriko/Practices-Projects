@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj": {}
+    "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
         "projectName": "HotelProject.BusinessLayer",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.BusinessLayer\\HotelProject.BusinessLayer.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.BusinessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj"
+              "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj"
               },
-              "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
+              "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
         "projectName": "HotelProject.DataAccessLayer",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.DataAccessLayer\\HotelProject.DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -112,8 +112,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
+              "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj"
               }
             }
           }
@@ -169,14 +169,14 @@
         }
       }
     },
-    "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
+    "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
         "projectName": "HotelProject.EntityLayer",
-        "projectPath": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+        "projectPath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
         "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\obj\\",
+        "outputPath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

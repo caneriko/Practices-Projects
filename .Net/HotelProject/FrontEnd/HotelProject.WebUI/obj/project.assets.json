@@ -10753,11 +10753,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\FrontEnd\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\FrontEnd\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
       "projectName": "HotelProject.WebUI",
-      "projectPath": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\FrontEnd\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+      "projectPath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\FrontEnd\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
       "packagesPath": "C:\\Users\\Lenovo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\FrontEnd\\HotelProject.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\FrontEnd\\HotelProject.WebUI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

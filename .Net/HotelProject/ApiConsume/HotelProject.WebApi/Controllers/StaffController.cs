@@ -10,6 +10,7 @@ namespace HotelProject.WebApi.Controllers
     public class StaffController : ControllerBase
     {
         private readonly IStaffService _staffService;
+        
 
         public StaffController(IStaffService staffService)
         {
@@ -32,7 +33,7 @@ namespace HotelProject.WebApi.Controllers
             return Ok();
         }
 
-        [HttpDelete]
+        [HttpDelete("{id}")]
 
         public IActionResult DeleteStaff(int id)
         {

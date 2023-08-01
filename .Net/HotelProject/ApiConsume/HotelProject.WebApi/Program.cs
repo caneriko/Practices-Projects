@@ -37,6 +37,14 @@ namespace HotelProject.WebApi
             builder.Services.AddScoped<ISubscribeDal, EfSubscribeDal>();
             builder.Services.AddScoped<ISubscribeService, SubscribeManager>();
 
+            builder.Services.AddCors(opt =>
+            {
+                opt.AddPolicy("OtelApiCors", opts =>
+                {
+                    opts.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+                });
+            });
+
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
@@ -46,6 +54,7 @@ namespace HotelProject.WebApi
                 app.UseSwaggerUI();
             }
 
+            app.UseCors("OtelApiCors");
             app.UseAuthorization();
 
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "K/ODTEIDYXv4wXnUa95UvI28FjWY7ki/NHAKDF83dQ7KDi+Lc//wZZ9Msi4Ti1oKxT18fagM2mL9ODcZ8/iCZw==",
+  "dgSpecHash": "bbro0YV0FuYdKTvdAu7JFH2WBQgek9aKYEwkrAkDhcEf6qv/hkHoSSPJiFlfzeVPsKsLPZVGTfbBkGfql8xOHg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\ApiConsume\\HotelProject.EntityLayer\\HotelProject.EntityLayer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

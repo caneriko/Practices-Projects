@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mHB/xL6xSdmVduGo3dX0r6mxH7WA2Fgr6OapIG4CIv06n4NVmwVFpKI0BwEIAJfGWx9zgsWsGQFIE59pGMaKeA==",
+  "dgSpecHash": "07BC5wu1lp0mwpBclUk+01Y1T0I8gdfitSXdMkOPt9yMwGw7Lea5aycHhx9ZpGIos2w3yxgtqT4lmwd3s6ftuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\HotelProject\\FrontEnd\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
+  "projectFilePath": "C:\\Users\\Lenovo\\Desktop\\Practices-Projects\\.Net\\HotelProject\\FrontEnd\\HotelProject.WebUI\\HotelProject.WebUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Lenovo\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
