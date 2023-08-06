@@ -3,6 +3,7 @@ using HotelProject.BusinessLayer.Concrete;
 using HotelProject.DataAccessLayer.Abstract;
 using HotelProject.DataAccessLayer.Concrete;
 using HotelProject.DataAccessLayer.EntityFrameWork;
+using HotelProject.WebApi.Mapping;
 
 namespace HotelProject.WebApi
 {
@@ -36,6 +37,8 @@ namespace HotelProject.WebApi
 
             builder.Services.AddScoped<ISubscribeDal, EfSubscribeDal>();
             builder.Services.AddScoped<ISubscribeService, SubscribeManager>();
+
+            builder.Services.AddAutoMapper(typeof(Program));
 
             builder.Services.AddCors(opt =>
             {

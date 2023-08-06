@@ -150,3 +150,5 @@ C:\Users\Lenovo\Desktop\Practices-Projects\.Net\HotelProject\ApiConsume\HotelPro
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\HotelProject\ApiConsume\HotelProject.WebApi\obj\Debug\net6.0\HotelProject.WebApi.pdb
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\HotelProject\ApiConsume\HotelProject.WebApi\obj\Debug\net6.0\HotelProject.WebApi.genruntimeconfig.cache
 C:\Users\Lenovo\Desktop\Practices-Projects\.Net\HotelProject\ApiConsume\HotelProject.WebApi\obj\Debug\net6.0\ref\HotelProject.WebApi.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\HotelProject\ApiConsume\HotelProject.WebApi\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\HotelProject\ApiConsume\HotelProject.WebApi\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
