@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\bin\Debug\net6.0\I.exe
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\bin\Debug\net6.0\I.deps.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\bin\Debug\net6.0\I.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\bin\Debug\net6.0\I.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\bin\Debug\net6.0\I.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\obj\Debug\net6.0\I.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\obj\Debug\net6.0\I.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\obj\Debug\net6.0\I.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\obj\Debug\net6.0\I.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\obj\Debug\net6.0\I.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\obj\Debug\net6.0\I.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\obj\Debug\net6.0\refint\I.dll
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\obj\Debug\net6.0\I.pdb
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\obj\Debug\net6.0\I.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Practices-Projects\.Net\SOLID\I\obj\Debug\net6.0\ref\I.dll
